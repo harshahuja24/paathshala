@@ -1,0 +1,93 @@
+Transcription for Video ID: 20251016_133048_videoplayback_1
+Date: 2025-10-16T13:31:53.974268
+Language: en
+Duration: 0:00:00
+================================================================================
+
+[0:00:00 -> 0:00:04]
+Thanks to Alchemy for sponsoring this video and making it possible to practice organic chemistry
+
+[0:00:04 -> 0:00:10]
+examples in an effective and playful way. You can follow along with me and we'll try this
+
+[0:00:10 -> 0:00:15]
+question together using the Mechanisms app. The link to download this app is in the description
+
+[0:00:15 -> 0:00:21]
+and this question is part of their Essentials Pack which is free. It's under the third section
+
+[0:00:21 -> 0:00:27]
+of addition. It's number five. If you need a refresher on the general mechanism of hydrohallogenation,
+
+[0:00:27 -> 0:00:34]
+then check out my previous video. Onto our example of an alchemy that is not symmetrical. Step one
+
+[0:00:34 -> 0:00:40]
+is protonation. This is where the electrons in the double bond reach out and grab the hydrogen.
+
+[0:00:41 -> 0:00:47]
+Electrons from this bond now go to the bromine and our bromine is now negatively charged since it
+
+[0:00:47 -> 0:00:54]
+gained electrons. Okay, so where does the hydrogen go? Does it go to this carbon or does it go to
+
+[0:00:54 -> 0:01:01]
+the other carbon? Only one is going to be correct. This is known as being regio selective,
+
+[0:01:01 -> 0:01:08]
+meaning the hydrogen is selective or just picky as to which carbon it attaches to. If we were to
+
+[0:01:08 -> 0:01:14]
+have the hydrogen go to this first carbon, it would be wrong and thankfully the Mechanisms app
+
+[0:01:14 -> 0:01:21]
+can help you avoid that mistake thanks to their hint feature. This carbocation is not the most
+
+[0:01:21 -> 0:01:28]
+stable. Remember that a tertiary carbocation is the most stable and most favorable. Then a secondary
+
+[0:01:28 -> 0:01:36]
+carbocation follows and primary and last is a methyl carbocation. We know a carbocation is tertiary
+
+[0:01:36 -> 0:01:42]
+if there are three carbons attached to the carbocation. Two carbons attached to the carbocation is
+
+[0:01:42 -> 0:01:49]
+secondary. One carbon is primary and no carbons attached to the carbocation would be the methyl.
+
+[0:01:49 -> 0:01:55]
+So in this case, our tertiary carbocation is the most stable so the hydrogen would favor the
+
+[0:01:55 -> 0:02:02]
+least substituted carbon. Now that we have the correct carbocation, step two is to have our nucleophile
+
+[0:02:02 -> 0:02:08]
+which is bromine attack the carbocation to form our product. If you notice the hydrogen went to the
+
+[0:02:08 -> 0:02:16]
+least substituted carbon and the halogen went to the most substituted carbon. This is Mark
+
+[0:02:16 -> 0:02:22]
+Kovnikov's rule. Another way to remember this is we always want the most stable carbocation.
+
+[0:02:23 -> 0:02:31]
+So first, make sure to get the most stable carbocation. So a tertiary carbocation if possible. Then do a
+
+[0:02:31 -> 0:02:38]
+nucleophilic attack to form our product which in this case was a tertiary alkyl bromide. Do this
+
+[0:02:38 -> 0:02:44]
+next question on your own using the Mechanisms app. There are hints to help you avoid mistakes and in
+
+[0:02:44 -> 0:02:50]
+the Essentials pack, there's even a video to guide you step by step. The link to download this
+
+[0:02:50 -> 0:02:57]
+app is in the description and to find this exact question, click on the Essentials pack, then it's
+
+[0:02:57 -> 0:03:03]
+the third topic under addition and it's number eight. I'll see you in the next video where we'll
+
+[0:03:03 -> 0:03:06]
+cover when to use a high dried and alkyl shift.
+
