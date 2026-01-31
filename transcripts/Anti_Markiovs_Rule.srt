@@ -1,0 +1,252 @@
+1
+00:00:02,480 --> 00:00:06,900
+So the other reaction I want to show you is the anti-Marcovnikov hydrohallogenation.
+
+2
+00:00:07,219 --> 00:00:11,599
+So remember when we were looking at addition reactions, we were looking at hydrohallogenation
+
+3
+00:00:11,599 --> 00:00:16,140
+and we were understanding that that was a regio-specific reaction.
+
+4
+00:00:16,780 --> 00:00:22,500
+Regio-specific meaning that the halogen would always go to the more substituted of the
+
+5
+00:00:22,500 --> 00:00:28,160
+two carbons participating in the pi bond because of the fact that it would only go by the
+
+6
+00:00:28,160 --> 00:00:31,059
+more stable carbocation intermediate.
+
+7
+00:00:31,199 --> 00:00:34,979
+Remember this pi bond would get the proton, leave the secondary carbocation and then
+
+8
+00:00:34,979 --> 00:00:41,159
+that's where the bromide would go and we'd get the Marcovnikov product in a regio-specific
+
+9
+00:00:41,159 --> 00:00:41,679
+manner.
+
+10
+00:00:42,039 --> 00:00:46,439
+But then we didn't look at the mechanism but we also noted the fact that in the presence
+
+11
+00:00:46,439 --> 00:00:52,759
+of peroxides this would shift to anti-Marcovnikov regio-specificity.
+
+12
+00:00:52,759 --> 00:00:59,100
+In other words we would get the halogen on the less substituted of the two carbons participating
+
+13
+00:00:59,100 --> 00:00:59,899
+in the pi bond.
+
+14
+00:01:00,259 --> 00:01:06,239
+And we didn't look at why, well here's why, it's a free radical reaction and so the peroxides
+
+15
+00:01:06,239 --> 00:01:08,359
+obviously play a very key role in this.
+
+16
+00:01:08,700 --> 00:01:09,379
+So let's take a look.
+
+17
+00:01:09,819 --> 00:01:14,840
+The initiation step is going to be provided by the peroxides and so remember when we talked
+
+18
+00:01:14,840 --> 00:01:21,519
+about oxygen, oxygen, covalent bonds as ones that are able to undergo homolytic bond
+
+19
+00:01:21,519 --> 00:01:22,000
+cleavage.
+
+20
+00:01:22,000 --> 00:01:23,579
+That's the initiation step.
+
+21
+00:01:23,920 --> 00:01:28,739
+So we have this oxygen oxygen covalent bond undergoing homolysis and then we get two
+
+22
+00:01:28,739 --> 00:01:30,659
+hydroxyl radicals.
+
+23
+00:01:30,939 --> 00:01:34,900
+So it's those hydroxyl radicals that are going to propagate the formation above other
+
+24
+00:01:34,900 --> 00:01:35,400
+radicals.
+
+25
+00:01:35,519 --> 00:01:40,219
+So let's say that a hydroxyl radical finds one of these molecules of HBR.
+
+26
+00:01:40,599 --> 00:01:45,480
+Well what's going to happen is this radical and then one electron from this covalent bond
+
+27
+00:01:45,480 --> 00:01:49,680
+are going to form a new one and now we've got a water molecule and then that's going
+
+28
+00:01:49,680 --> 00:01:52,859
+to propagate the existence of a bromine radical.
+
+29
+00:01:53,519 --> 00:01:59,140
+Then from there this is the key step because this is where the regio specificity is involved.
+
+30
+00:01:59,700 --> 00:02:04,519
+The bromine radical is going to interact with this pi bond that is necessary for the
+
+31
+00:02:04,519 --> 00:02:08,620
+addition reaction and what's going to happen is it's going to form a new carbon bromine
+
+32
+00:02:08,620 --> 00:02:14,560
+bond but it is going to do it in regio specific manner because of the stability of the alkyo
+
+33
+00:02:14,560 --> 00:02:15,740
+radical that it will generate.
+
+34
+00:02:15,740 --> 00:02:21,400
+So in other words one of these pi electrons is going to go to form a covalent bond with
+
+35
+00:02:21,400 --> 00:02:27,139
+this bromine radical and it is only going to happen here because if it does so then the
+
+36
+00:02:27,139 --> 00:02:33,419
+other pi electron will go to this carbon, the secondary carbon leaving the more stable
+
+37
+00:02:33,419 --> 00:02:36,120
+of the two possible alkyo radical intermediates.
+
+38
+00:02:36,300 --> 00:02:41,980
+If the bromine radical interacted at this position and this pi electron went to form the
+
+39
+00:02:42,120 --> 00:02:46,219
+new carbon bromine bond there then that would mean that the other pi electron would be
+
+40
+00:02:46,219 --> 00:02:52,659
+left on the primary carbon and we then have a primary alkyo radical intermediate and
+
+41
+00:02:52,659 --> 00:02:55,960
+that is the less stable of the two so it will not produce that.
+
+42
+00:02:56,360 --> 00:03:02,300
+So in a regio specific manner the bromine will add to the less substituted of the two
+
+43
+00:03:02,300 --> 00:03:04,219
+carbons participating in the pi bond.
+
+44
+00:03:04,639 --> 00:03:10,840
+That leaves an alkyo radical intermediate which will then go ahead and undergo another
+
+45
+00:03:10,840 --> 00:03:16,580
+step with HBR and it will just extract a proton there leaving another bromine radical
+
+46
+00:03:16,580 --> 00:03:16,819
+there.
+
+47
+00:03:17,000 --> 00:03:21,340
+Recall once again that these are all single headed electron pushing arrows denoting
+
+48
+00:03:21,340 --> 00:03:26,400
+the movement of a singular electron and so we have gotten to our product here.
+
+49
+00:03:27,400 --> 00:03:35,879
+This is our anti-marcovnicoff hydro halogenation product regio specific to be the less substituted
+
+50
+00:03:35,879 --> 00:03:40,460
+alkyo bromide of the two possibilities and we have managed to do it all with propagation
+
+51
+00:03:40,460 --> 00:03:44,180
+steps there could be termination steps choose anything.
+
+52
+00:03:45,180 --> 00:03:50,699
+This radical bromine radical hydroxyl radical anything if two radical species meet they'll
+
+53
+00:03:50,699 --> 00:03:55,219
+terminate but none of them were needed in the mechanism generating the products so we didn't
+
+54
+00:03:55,219 --> 00:03:55,639
+draw them.
+
+55
+00:03:56,099 --> 00:04:02,340
+So once again hydroxyl radical initiates propagates the existence of the bromine radical and
+
+56
+00:04:02,340 --> 00:04:09,580
+then the bromine radical goes ahead and adds in regio specific manner specifically in an
+
+57
+00:04:09,580 --> 00:04:15,780
+anti-marcovnicoff manner so that it generates the more stable of the possible alkyo radical
+
+58
+00:04:15,780 --> 00:04:16,600
+intermediates.
+
+59
+00:04:17,160 --> 00:04:22,439
+So that will shed some light on the mystery we understood the mechanism before for the
+
+60
+00:04:22,439 --> 00:04:28,860
+Marcovnicoff hydro halogenation and now we know the mechanism for the anti-marcovnicoff
+
+61
+00:04:28,860 --> 00:04:29,939
+variety as well.
+
+62
+00:04:30,959 --> 00:04:35,319
+Thanks for watching guys subscribe to my channel for more tutorials and as always feel
+
+63
+00:04:35,319 --> 00:04:39,019
+free to email me questions professor Dave explains at gmail.com
+

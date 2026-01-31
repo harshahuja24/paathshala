@@ -1,0 +1,6403 @@
+{
+  "video_id": "Electro_Magnetic_Waves",
+  "transcription_date": "2025-11-01T02:05:38.257498",
+  "language": "en",
+  "duration": 0,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 4.66,
+      "start_time": "0:00:00",
+      "end_time": "0:00:04",
+      "text": "In this video we're going to talk about electromagnetic waves.",
+      "words": [
+        {
+          "word": " In",
+          "start": 0.0,
+          "end": 1.36,
+          "start_time": "0:00:00",
+          "end_time": "0:00:01"
+        },
+        {
+          "word": " this",
+          "start": 1.36,
+          "end": 1.56,
+          "start_time": "0:00:01",
+          "end_time": "0:00:01"
+        },
+        {
+          "word": " video",
+          "start": 1.56,
+          "end": 1.88,
+          "start_time": "0:00:01",
+          "end_time": "0:00:01"
+        },
+        {
+          "word": " we're",
+          "start": 1.88,
+          "end": 2.14,
+          "start_time": "0:00:01",
+          "end_time": "0:00:02"
+        },
+        {
+          "word": " going",
+          "start": 2.14,
+          "end": 2.26,
+          "start_time": "0:00:02",
+          "end_time": "0:00:02"
+        },
+        {
+          "word": " to",
+          "start": 2.26,
+          "end": 2.32,
+          "start_time": "0:00:02",
+          "end_time": "0:00:02"
+        },
+        {
+          "word": " talk",
+          "start": 2.32,
+          "end": 2.54,
+          "start_time": "0:00:02",
+          "end_time": "0:00:02"
+        },
+        {
+          "word": " about",
+          "start": 2.54,
+          "end": 3.0,
+          "start_time": "0:00:02",
+          "end_time": "0:00:03"
+        },
+        {
+          "word": " electromagnetic",
+          "start": 3.0,
+          "end": 3.66,
+          "start_time": "0:00:03",
+          "end_time": "0:00:03"
+        },
+        {
+          "word": " waves.",
+          "start": 3.66,
+          "end": 4.66,
+          "start_time": "0:00:03",
+          "end_time": "0:00:04"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "start": 5.76,
+      "end": 8.44,
+      "start_time": "0:00:05",
+      "end_time": "0:00:08",
+      "text": "What are electromagnetic waves?",
+      "words": [
+        {
+          "word": " What",
+          "start": 5.76,
+          "end": 6.38,
+          "start_time": "0:00:05",
+          "end_time": "0:00:06"
+        },
+        {
+          "word": " are",
+          "start": 6.38,
+          "end": 6.9,
+          "start_time": "0:00:06",
+          "end_time": "0:00:06"
+        },
+        {
+          "word": " electromagnetic",
+          "start": 6.9,
+          "end": 7.86,
+          "start_time": "0:00:06",
+          "end_time": "0:00:07"
+        },
+        {
+          "word": " waves?",
+          "start": 7.86,
+          "end": 8.44,
+          "start_time": "0:00:07",
+          "end_time": "0:00:08"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 9.58,
+      "end": 12.16,
+      "start_time": "0:00:09",
+      "end_time": "0:00:12",
+      "text": "Well, for starters, they're waves.",
+      "words": [
+        {
+          "word": " Well,",
+          "start": 9.58,
+          "end": 9.72,
+          "start_time": "0:00:09",
+          "end_time": "0:00:09"
+        },
+        {
+          "word": " for",
+          "start": 10.34,
+          "end": 10.84,
+          "start_time": "0:00:10",
+          "end_time": "0:00:10"
+        },
+        {
+          "word": " starters,",
+          "start": 10.84,
+          "end": 11.22,
+          "start_time": "0:00:10",
+          "end_time": "0:00:11"
+        },
+        {
+          "word": " they're",
+          "start": 11.7,
+          "end": 11.88,
+          "start_time": "0:00:11",
+          "end_time": "0:00:11"
+        },
+        {
+          "word": " waves.",
+          "start": 11.88,
+          "end": 12.16,
+          "start_time": "0:00:11",
+          "end_time": "0:00:12"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 13.0,
+      "end": 13.7,
+      "start_time": "0:00:13",
+      "end_time": "0:00:13",
+      "text": "And what is a wave?",
+      "words": [
+        {
+          "word": " And",
+          "start": 13.0,
+          "end": 13.1,
+          "start_time": "0:00:13",
+          "end_time": "0:00:13"
+        },
+        {
+          "word": " what",
+          "start": 13.1,
+          "end": 13.22,
+          "start_time": "0:00:13",
+          "end_time": "0:00:13"
+        },
+        {
+          "word": " is",
+          "start": 13.22,
+          "end": 13.38,
+          "start_time": "0:00:13",
+          "end_time": "0:00:13"
+        },
+        {
+          "word": " a",
+          "start": 13.38,
+          "end": 13.48,
+          "start_time": "0:00:13",
+          "end_time": "0:00:13"
+        },
+        {
+          "word": " wave?",
+          "start": 13.48,
+          "end": 13.7,
+          "start_time": "0:00:13",
+          "end_time": "0:00:13"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 14.44,
+      "end": 20.34,
+      "start_time": "0:00:14",
+      "end_time": "0:00:20",
+      "text": "A wave is a disturbance that can carry energy from one place to another.",
+      "words": [
+        {
+          "word": " A",
+          "start": 14.44,
+          "end": 14.84,
+          "start_time": "0:00:14",
+          "end_time": "0:00:14"
+        },
+        {
+          "word": " wave",
+          "start": 14.84,
+          "end": 15.18,
+          "start_time": "0:00:14",
+          "end_time": "0:00:15"
+        },
+        {
+          "word": " is",
+          "start": 15.18,
+          "end": 15.6,
+          "start_time": "0:00:15",
+          "end_time": "0:00:15"
+        },
+        {
+          "word": " a",
+          "start": 15.6,
+          "end": 15.72,
+          "start_time": "0:00:15",
+          "end_time": "0:00:15"
+        },
+        {
+          "word": " disturbance",
+          "start": 15.72,
+          "end": 16.18,
+          "start_time": "0:00:15",
+          "end_time": "0:00:16"
+        },
+        {
+          "word": " that",
+          "start": 16.18,
+          "end": 17.74,
+          "start_time": "0:00:16",
+          "end_time": "0:00:17"
+        },
+        {
+          "word": " can",
+          "start": 17.74,
+          "end": 18.24,
+          "start_time": "0:00:17",
+          "end_time": "0:00:18"
+        },
+        {
+          "word": " carry",
+          "start": 18.24,
+          "end": 18.72,
+          "start_time": "0:00:18",
+          "end_time": "0:00:18"
+        },
+        {
+          "word": " energy",
+          "start": 18.72,
+          "end": 19.18,
+          "start_time": "0:00:18",
+          "end_time": "0:00:19"
+        },
+        {
+          "word": " from",
+          "start": 19.18,
+          "end": 19.42,
+          "start_time": "0:00:19",
+          "end_time": "0:00:19"
+        },
+        {
+          "word": " one",
+          "start": 19.42,
+          "end": 19.6,
+          "start_time": "0:00:19",
+          "end_time": "0:00:19"
+        },
+        {
+          "word": " place",
+          "start": 19.6,
+          "end": 19.84,
+          "start_time": "0:00:19",
+          "end_time": "0:00:19"
+        },
+        {
+          "word": " to",
+          "start": 19.84,
+          "end": 20.08,
+          "start_time": "0:00:19",
+          "end_time": "0:00:20"
+        },
+        {
+          "word": " another.",
+          "start": 20.08,
+          "end": 20.34,
+          "start_time": "0:00:20",
+          "end_time": "0:00:20"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 21.88,
+      "end": 24.08,
+      "start_time": "0:00:21",
+      "end_time": "0:00:24",
+      "text": "So here's an example of a wave.",
+      "words": [
+        {
+          "word": " So",
+          "start": 21.88,
+          "end": 22.64,
+          "start_time": "0:00:21",
+          "end_time": "0:00:22"
+        },
+        {
+          "word": " here's",
+          "start": 22.64,
+          "end": 22.88,
+          "start_time": "0:00:22",
+          "end_time": "0:00:22"
+        },
+        {
+          "word": " an",
+          "start": 22.88,
+          "end": 22.94,
+          "start_time": "0:00:22",
+          "end_time": "0:00:22"
+        },
+        {
+          "word": " example",
+          "start": 22.94,
+          "end": 23.34,
+          "start_time": "0:00:22",
+          "end_time": "0:00:23"
+        },
+        {
+          "word": " of",
+          "start": 23.34,
+          "end": 23.66,
+          "start_time": "0:00:23",
+          "end_time": "0:00:23"
+        },
+        {
+          "word": " a",
+          "start": 23.66,
+          "end": 23.74,
+          "start_time": "0:00:23",
+          "end_time": "0:00:23"
+        },
+        {
+          "word": " wave.",
+          "start": 23.74,
+          "end": 24.08,
+          "start_time": "0:00:23",
+          "end_time": "0:00:24"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 27.500000000000004,
+      "end": 31.86,
+      "start_time": "0:00:27",
+      "end_time": "0:00:31",
+      "text": "Like all waves, electromagnetic waves, they have amplitude,",
+      "words": [
+        {
+          "word": " Like",
+          "start": 27.500000000000004,
+          "end": 28.26,
+          "start_time": "0:00:27",
+          "end_time": "0:00:28"
+        },
+        {
+          "word": " all",
+          "start": 28.26,
+          "end": 28.56,
+          "start_time": "0:00:28",
+          "end_time": "0:00:28"
+        },
+        {
+          "word": " waves,",
+          "start": 28.56,
+          "end": 28.96,
+          "start_time": "0:00:28",
+          "end_time": "0:00:28"
+        },
+        {
+          "word": " electromagnetic",
+          "start": 29.32,
+          "end": 29.7,
+          "start_time": "0:00:29",
+          "end_time": "0:00:29"
+        },
+        {
+          "word": " waves,",
+          "start": 29.7,
+          "end": 30.34,
+          "start_time": "0:00:29",
+          "end_time": "0:00:30"
+        },
+        {
+          "word": " they",
+          "start": 30.58,
+          "end": 30.66,
+          "start_time": "0:00:30",
+          "end_time": "0:00:30"
+        },
+        {
+          "word": " have",
+          "start": 30.66,
+          "end": 31.0,
+          "start_time": "0:00:30",
+          "end_time": "0:00:31"
+        },
+        {
+          "word": " amplitude,",
+          "start": 31.0,
+          "end": 31.86,
+          "start_time": "0:00:31",
+          "end_time": "0:00:31"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 34.92,
+      "end": 39.7,
+      "start_time": "0:00:34",
+      "end_time": "0:00:39",
+      "text": "they have wavelength, and also frequency.",
+      "words": [
+        {
+          "word": " they",
+          "start": 34.92,
+          "end": 35.68,
+          "start_time": "0:00:34",
+          "end_time": "0:00:35"
+        },
+        {
+          "word": " have",
+          "start": 35.68,
+          "end": 36.26,
+          "start_time": "0:00:35",
+          "end_time": "0:00:36"
+        },
+        {
+          "word": " wavelength,",
+          "start": 36.26,
+          "end": 36.94,
+          "start_time": "0:00:36",
+          "end_time": "0:00:36"
+        },
+        {
+          "word": " and",
+          "start": 37.64,
+          "end": 38.72,
+          "start_time": "0:00:37",
+          "end_time": "0:00:38"
+        },
+        {
+          "word": " also",
+          "start": 38.72,
+          "end": 39.08,
+          "start_time": "0:00:38",
+          "end_time": "0:00:39"
+        },
+        {
+          "word": " frequency.",
+          "start": 39.08,
+          "end": 39.7,
+          "start_time": "0:00:39",
+          "end_time": "0:00:39"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 42.38,
+      "end": 45.8,
+      "start_time": "0:00:42",
+      "end_time": "0:00:45",
+      "text": "Electromagnetic waves, they propagate at the speed of light,",
+      "words": [
+        {
+          "word": " Electromagnetic",
+          "start": 42.38,
+          "end": 43.14,
+          "start_time": "0:00:42",
+          "end_time": "0:00:43"
+        },
+        {
+          "word": " waves,",
+          "start": 43.14,
+          "end": 43.54,
+          "start_time": "0:00:43",
+          "end_time": "0:00:43"
+        },
+        {
+          "word": " they",
+          "start": 43.9,
+          "end": 44.26,
+          "start_time": "0:00:43",
+          "end_time": "0:00:44"
+        },
+        {
+          "word": " propagate",
+          "start": 44.26,
+          "end": 44.78,
+          "start_time": "0:00:44",
+          "end_time": "0:00:44"
+        },
+        {
+          "word": " at",
+          "start": 44.78,
+          "end": 45.02,
+          "start_time": "0:00:44",
+          "end_time": "0:00:45"
+        },
+        {
+          "word": " the",
+          "start": 45.02,
+          "end": 45.18,
+          "start_time": "0:00:45",
+          "end_time": "0:00:45"
+        },
+        {
+          "word": " speed",
+          "start": 45.18,
+          "end": 45.4,
+          "start_time": "0:00:45",
+          "end_time": "0:00:45"
+        },
+        {
+          "word": " of",
+          "start": 45.4,
+          "end": 45.6,
+          "start_time": "0:00:45",
+          "end_time": "0:00:45"
+        },
+        {
+          "word": " light,",
+          "start": 45.6,
+          "end": 45.8,
+          "start_time": "0:00:45",
+          "end_time": "0:00:45"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 46.26,
+      "end": 49.84,
+      "start_time": "0:00:46",
+      "end_time": "0:00:49",
+      "text": "which is 3 times 10 to the 8 meters per second.",
+      "words": [
+        {
+          "word": " which",
+          "start": 46.26,
+          "end": 46.68,
+          "start_time": "0:00:46",
+          "end_time": "0:00:46"
+        },
+        {
+          "word": " is",
+          "start": 46.68,
+          "end": 46.8,
+          "start_time": "0:00:46",
+          "end_time": "0:00:46"
+        },
+        {
+          "word": " 3",
+          "start": 46.8,
+          "end": 47.12,
+          "start_time": "0:00:46",
+          "end_time": "0:00:47"
+        },
+        {
+          "word": " times",
+          "start": 47.12,
+          "end": 47.5,
+          "start_time": "0:00:47",
+          "end_time": "0:00:47"
+        },
+        {
+          "word": " 10",
+          "start": 47.5,
+          "end": 47.88,
+          "start_time": "0:00:47",
+          "end_time": "0:00:47"
+        },
+        {
+          "word": " to",
+          "start": 47.88,
+          "end": 48.04,
+          "start_time": "0:00:47",
+          "end_time": "0:00:48"
+        },
+        {
+          "word": " the",
+          "start": 48.04,
+          "end": 48.14,
+          "start_time": "0:00:48",
+          "end_time": "0:00:48"
+        },
+        {
+          "word": " 8",
+          "start": 48.14,
+          "end": 48.36,
+          "start_time": "0:00:48",
+          "end_time": "0:00:48"
+        },
+        {
+          "word": " meters",
+          "start": 48.36,
+          "end": 49.2,
+          "start_time": "0:00:48",
+          "end_time": "0:00:49"
+        },
+        {
+          "word": " per",
+          "start": 49.2,
+          "end": 49.48,
+          "start_time": "0:00:49",
+          "end_time": "0:00:49"
+        },
+        {
+          "word": " second.",
+          "start": 49.48,
+          "end": 49.84,
+          "start_time": "0:00:49",
+          "end_time": "0:00:49"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 52.06,
+      "end": 56.9,
+      "start_time": "0:00:52",
+      "end_time": "0:00:56",
+      "text": "This speed is equal to the wavelength of the wave times the frequency.",
+      "words": [
+        {
+          "word": " This",
+          "start": 52.06,
+          "end": 52.7,
+          "start_time": "0:00:52",
+          "end_time": "0:00:52"
+        },
+        {
+          "word": " speed",
+          "start": 52.7,
+          "end": 53.02,
+          "start_time": "0:00:52",
+          "end_time": "0:00:53"
+        },
+        {
+          "word": " is",
+          "start": 53.02,
+          "end": 53.26,
+          "start_time": "0:00:53",
+          "end_time": "0:00:53"
+        },
+        {
+          "word": " equal",
+          "start": 53.26,
+          "end": 53.54,
+          "start_time": "0:00:53",
+          "end_time": "0:00:53"
+        },
+        {
+          "word": " to",
+          "start": 53.54,
+          "end": 53.76,
+          "start_time": "0:00:53",
+          "end_time": "0:00:53"
+        },
+        {
+          "word": " the",
+          "start": 53.76,
+          "end": 53.9,
+          "start_time": "0:00:53",
+          "end_time": "0:00:53"
+        },
+        {
+          "word": " wavelength",
+          "start": 53.9,
+          "end": 54.28,
+          "start_time": "0:00:53",
+          "end_time": "0:00:54"
+        },
+        {
+          "word": " of",
+          "start": 54.28,
+          "end": 55.32,
+          "start_time": "0:00:54",
+          "end_time": "0:00:55"
+        },
+        {
+          "word": " the",
+          "start": 55.32,
+          "end": 55.58,
+          "start_time": "0:00:55",
+          "end_time": "0:00:55"
+        },
+        {
+          "word": " wave",
+          "start": 55.58,
+          "end": 55.8,
+          "start_time": "0:00:55",
+          "end_time": "0:00:55"
+        },
+        {
+          "word": " times",
+          "start": 55.8,
+          "end": 56.3,
+          "start_time": "0:00:55",
+          "end_time": "0:00:56"
+        },
+        {
+          "word": " the",
+          "start": 56.3,
+          "end": 56.48,
+          "start_time": "0:00:56",
+          "end_time": "0:00:56"
+        },
+        {
+          "word": " frequency.",
+          "start": 56.48,
+          "end": 56.9,
+          "start_time": "0:00:56",
+          "end_time": "0:00:56"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 58.64,
+      "end": 63.02,
+      "start_time": "0:00:58",
+      "end_time": "0:01:03",
+      "text": "So when the wavelength decreases, the frequency of the wave increases.",
+      "words": [
+        {
+          "word": " So",
+          "start": 58.64,
+          "end": 59.28,
+          "start_time": "0:00:58",
+          "end_time": "0:00:59"
+        },
+        {
+          "word": " when",
+          "start": 59.28,
+          "end": 59.4,
+          "start_time": "0:00:59",
+          "end_time": "0:00:59"
+        },
+        {
+          "word": " the",
+          "start": 59.4,
+          "end": 59.48,
+          "start_time": "0:00:59",
+          "end_time": "0:00:59"
+        },
+        {
+          "word": " wavelength",
+          "start": 59.48,
+          "end": 59.9,
+          "start_time": "0:00:59",
+          "end_time": "0:00:59"
+        },
+        {
+          "word": " decreases,",
+          "start": 59.9,
+          "end": 60.6,
+          "start_time": "0:00:59",
+          "end_time": "0:01:00"
+        },
+        {
+          "word": " the",
+          "start": 61.12,
+          "end": 61.2,
+          "start_time": "0:01:01",
+          "end_time": "0:01:01"
+        },
+        {
+          "word": " frequency",
+          "start": 61.2,
+          "end": 61.58,
+          "start_time": "0:01:01",
+          "end_time": "0:01:01"
+        },
+        {
+          "word": " of",
+          "start": 61.58,
+          "end": 62.12,
+          "start_time": "0:01:01",
+          "end_time": "0:01:02"
+        },
+        {
+          "word": " the",
+          "start": 62.12,
+          "end": 62.26,
+          "start_time": "0:01:02",
+          "end_time": "0:01:02"
+        },
+        {
+          "word": " wave",
+          "start": 62.26,
+          "end": 62.46,
+          "start_time": "0:01:02",
+          "end_time": "0:01:02"
+        },
+        {
+          "word": " increases.",
+          "start": 62.46,
+          "end": 63.02,
+          "start_time": "0:01:02",
+          "end_time": "0:01:03"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 64.98,
+      "end": 68.66,
+      "start_time": "0:01:04",
+      "end_time": "0:01:08",
+      "text": "The frequency is inversely related to the period of a wave.",
+      "words": [
+        {
+          "word": " The",
+          "start": 64.98,
+          "end": 65.62,
+          "start_time": "0:01:04",
+          "end_time": "0:01:05"
+        },
+        {
+          "word": " frequency",
+          "start": 65.62,
+          "end": 66.06,
+          "start_time": "0:01:05",
+          "end_time": "0:01:06"
+        },
+        {
+          "word": " is",
+          "start": 66.06,
+          "end": 66.38,
+          "start_time": "0:01:06",
+          "end_time": "0:01:06"
+        },
+        {
+          "word": " inversely",
+          "start": 66.38,
+          "end": 66.98,
+          "start_time": "0:01:06",
+          "end_time": "0:01:06"
+        },
+        {
+          "word": " related",
+          "start": 66.98,
+          "end": 67.32,
+          "start_time": "0:01:06",
+          "end_time": "0:01:07"
+        },
+        {
+          "word": " to",
+          "start": 67.32,
+          "end": 67.56,
+          "start_time": "0:01:07",
+          "end_time": "0:01:07"
+        },
+        {
+          "word": " the",
+          "start": 67.56,
+          "end": 67.68,
+          "start_time": "0:01:07",
+          "end_time": "0:01:07"
+        },
+        {
+          "word": " period",
+          "start": 67.68,
+          "end": 68.06,
+          "start_time": "0:01:07",
+          "end_time": "0:01:08"
+        },
+        {
+          "word": " of",
+          "start": 68.06,
+          "end": 68.36,
+          "start_time": "0:01:08",
+          "end_time": "0:01:08"
+        },
+        {
+          "word": " a",
+          "start": 68.36,
+          "end": 68.46,
+          "start_time": "0:01:08",
+          "end_time": "0:01:08"
+        },
+        {
+          "word": " wave.",
+          "start": 68.46,
+          "end": 68.66,
+          "start_time": "0:01:08",
+          "end_time": "0:01:08"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 69.62,
+      "end": 74.04,
+      "start_time": "0:01:09",
+      "end_time": "0:01:14",
+      "text": "The period is the time it takes for the wave to complete one cycle.",
+      "words": [
+        {
+          "word": " The",
+          "start": 69.62,
+          "end": 70.26,
+          "start_time": "0:01:09",
+          "end_time": "0:01:10"
+        },
+        {
+          "word": " period",
+          "start": 70.26,
+          "end": 70.54,
+          "start_time": "0:01:10",
+          "end_time": "0:01:10"
+        },
+        {
+          "word": " is",
+          "start": 70.54,
+          "end": 70.76,
+          "start_time": "0:01:10",
+          "end_time": "0:01:10"
+        },
+        {
+          "word": " the",
+          "start": 70.76,
+          "end": 70.84,
+          "start_time": "0:01:10",
+          "end_time": "0:01:10"
+        },
+        {
+          "word": " time",
+          "start": 70.84,
+          "end": 71.06,
+          "start_time": "0:01:10",
+          "end_time": "0:01:11"
+        },
+        {
+          "word": " it",
+          "start": 71.06,
+          "end": 71.22,
+          "start_time": "0:01:11",
+          "end_time": "0:01:11"
+        },
+        {
+          "word": " takes",
+          "start": 71.22,
+          "end": 71.46,
+          "start_time": "0:01:11",
+          "end_time": "0:01:11"
+        },
+        {
+          "word": " for",
+          "start": 71.46,
+          "end": 71.92,
+          "start_time": "0:01:11",
+          "end_time": "0:01:11"
+        },
+        {
+          "word": " the",
+          "start": 71.92,
+          "end": 72.6,
+          "start_time": "0:01:11",
+          "end_time": "0:01:12"
+        },
+        {
+          "word": " wave",
+          "start": 72.6,
+          "end": 72.82,
+          "start_time": "0:01:12",
+          "end_time": "0:01:12"
+        },
+        {
+          "word": " to",
+          "start": 72.82,
+          "end": 73.06,
+          "start_time": "0:01:12",
+          "end_time": "0:01:13"
+        },
+        {
+          "word": " complete",
+          "start": 73.06,
+          "end": 73.4,
+          "start_time": "0:01:13",
+          "end_time": "0:01:13"
+        },
+        {
+          "word": " one",
+          "start": 73.4,
+          "end": 73.64,
+          "start_time": "0:01:13",
+          "end_time": "0:01:13"
+        },
+        {
+          "word": " cycle.",
+          "start": 73.64,
+          "end": 74.04,
+          "start_time": "0:01:13",
+          "end_time": "0:01:14"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 75.02,
+      "end": 78.7,
+      "start_time": "0:01:15",
+      "end_time": "0:01:18",
+      "text": "The frequency is the number of cycles that it can make in one second.",
+      "words": [
+        {
+          "word": " The",
+          "start": 75.02,
+          "end": 75.74,
+          "start_time": "0:01:15",
+          "end_time": "0:01:15"
+        },
+        {
+          "word": " frequency",
+          "start": 75.74,
+          "end": 76.06,
+          "start_time": "0:01:15",
+          "end_time": "0:01:16"
+        },
+        {
+          "word": " is",
+          "start": 76.06,
+          "end": 76.54,
+          "start_time": "0:01:16",
+          "end_time": "0:01:16"
+        },
+        {
+          "word": " the",
+          "start": 76.54,
+          "end": 76.66,
+          "start_time": "0:01:16",
+          "end_time": "0:01:16"
+        },
+        {
+          "word": " number",
+          "start": 76.66,
+          "end": 76.82,
+          "start_time": "0:01:16",
+          "end_time": "0:01:16"
+        },
+        {
+          "word": " of",
+          "start": 76.82,
+          "end": 77.0,
+          "start_time": "0:01:16",
+          "end_time": "0:01:17"
+        },
+        {
+          "word": " cycles",
+          "start": 77.0,
+          "end": 77.24,
+          "start_time": "0:01:17",
+          "end_time": "0:01:17"
+        },
+        {
+          "word": " that",
+          "start": 77.24,
+          "end": 77.46,
+          "start_time": "0:01:17",
+          "end_time": "0:01:17"
+        },
+        {
+          "word": " it",
+          "start": 77.46,
+          "end": 77.58,
+          "start_time": "0:01:17",
+          "end_time": "0:01:17"
+        },
+        {
+          "word": " can",
+          "start": 77.58,
+          "end": 77.74,
+          "start_time": "0:01:17",
+          "end_time": "0:01:17"
+        },
+        {
+          "word": " make",
+          "start": 77.74,
+          "end": 77.88,
+          "start_time": "0:01:17",
+          "end_time": "0:01:17"
+        },
+        {
+          "word": " in",
+          "start": 77.88,
+          "end": 78.1,
+          "start_time": "0:01:17",
+          "end_time": "0:01:18"
+        },
+        {
+          "word": " one",
+          "start": 78.1,
+          "end": 78.3,
+          "start_time": "0:01:18",
+          "end_time": "0:01:18"
+        },
+        {
+          "word": " second.",
+          "start": 78.3,
+          "end": 78.7,
+          "start_time": "0:01:18",
+          "end_time": "0:01:18"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 81.1,
+      "end": 85.46,
+      "start_time": "0:01:21",
+      "end_time": "0:01:25",
+      "text": "The unit of frequency is the hertz, and for period it's in seconds.",
+      "words": [
+        {
+          "word": " The",
+          "start": 81.1,
+          "end": 81.82,
+          "start_time": "0:01:21",
+          "end_time": "0:01:21"
+        },
+        {
+          "word": " unit",
+          "start": 81.82,
+          "end": 82.0,
+          "start_time": "0:01:21",
+          "end_time": "0:01:22"
+        },
+        {
+          "word": " of",
+          "start": 82.0,
+          "end": 82.14,
+          "start_time": "0:01:22",
+          "end_time": "0:01:22"
+        },
+        {
+          "word": " frequency",
+          "start": 82.14,
+          "end": 82.46,
+          "start_time": "0:01:22",
+          "end_time": "0:01:22"
+        },
+        {
+          "word": " is",
+          "start": 82.46,
+          "end": 82.82,
+          "start_time": "0:01:22",
+          "end_time": "0:01:22"
+        },
+        {
+          "word": " the",
+          "start": 82.82,
+          "end": 82.94,
+          "start_time": "0:01:22",
+          "end_time": "0:01:22"
+        },
+        {
+          "word": " hertz,",
+          "start": 82.94,
+          "end": 83.14,
+          "start_time": "0:01:22",
+          "end_time": "0:01:23"
+        },
+        {
+          "word": " and",
+          "start": 84.08,
+          "end": 84.14,
+          "start_time": "0:01:24",
+          "end_time": "0:01:24"
+        },
+        {
+          "word": " for",
+          "start": 84.14,
+          "end": 84.26,
+          "start_time": "0:01:24",
+          "end_time": "0:01:24"
+        },
+        {
+          "word": " period",
+          "start": 84.26,
+          "end": 84.64,
+          "start_time": "0:01:24",
+          "end_time": "0:01:24"
+        },
+        {
+          "word": " it's",
+          "start": 84.64,
+          "end": 84.94,
+          "start_time": "0:01:24",
+          "end_time": "0:01:24"
+        },
+        {
+          "word": " in",
+          "start": 84.94,
+          "end": 85.0,
+          "start_time": "0:01:24",
+          "end_time": "0:01:25"
+        },
+        {
+          "word": " seconds.",
+          "start": 85.0,
+          "end": 85.46,
+          "start_time": "0:01:25",
+          "end_time": "0:01:25"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 88.32000000000001,
+      "end": 96.6,
+      "start_time": "0:01:28",
+      "end_time": "0:01:36",
+      "text": "The energy of an electromagnetic wave is equal to Planck's constant times the frequency.",
+      "words": [
+        {
+          "word": " The",
+          "start": 88.32000000000001,
+          "end": 89.04,
+          "start_time": "0:01:28",
+          "end_time": "0:01:29"
+        },
+        {
+          "word": " energy",
+          "start": 89.04,
+          "end": 89.58,
+          "start_time": "0:01:29",
+          "end_time": "0:01:29"
+        },
+        {
+          "word": " of",
+          "start": 89.58,
+          "end": 91.02,
+          "start_time": "0:01:29",
+          "end_time": "0:01:31"
+        },
+        {
+          "word": " an",
+          "start": 91.02,
+          "end": 91.14,
+          "start_time": "0:01:31",
+          "end_time": "0:01:31"
+        },
+        {
+          "word": " electromagnetic",
+          "start": 91.14,
+          "end": 91.52,
+          "start_time": "0:01:31",
+          "end_time": "0:01:31"
+        },
+        {
+          "word": " wave",
+          "start": 91.52,
+          "end": 92.14,
+          "start_time": "0:01:31",
+          "end_time": "0:01:32"
+        },
+        {
+          "word": " is",
+          "start": 92.14,
+          "end": 93.34,
+          "start_time": "0:01:32",
+          "end_time": "0:01:33"
+        },
+        {
+          "word": " equal",
+          "start": 93.34,
+          "end": 93.78,
+          "start_time": "0:01:33",
+          "end_time": "0:01:33"
+        },
+        {
+          "word": " to",
+          "start": 93.78,
+          "end": 94.52,
+          "start_time": "0:01:33",
+          "end_time": "0:01:34"
+        },
+        {
+          "word": " Planck's",
+          "start": 94.52,
+          "end": 95.1,
+          "start_time": "0:01:34",
+          "end_time": "0:01:35"
+        },
+        {
+          "word": " constant",
+          "start": 95.1,
+          "end": 95.48,
+          "start_time": "0:01:35",
+          "end_time": "0:01:35"
+        },
+        {
+          "word": " times",
+          "start": 95.48,
+          "end": 96.0,
+          "start_time": "0:01:35",
+          "end_time": "0:01:36"
+        },
+        {
+          "word": " the",
+          "start": 96.0,
+          "end": 96.14,
+          "start_time": "0:01:36",
+          "end_time": "0:01:36"
+        },
+        {
+          "word": " frequency.",
+          "start": 96.14,
+          "end": 96.6,
+          "start_time": "0:01:36",
+          "end_time": "0:01:36"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 97.72,
+      "end": 103.04,
+      "start_time": "0:01:37",
+      "end_time": "0:01:43",
+      "text": "Planck's constant is 6.626 times 10 to the negative 34,",
+      "words": [
+        {
+          "word": " Planck's",
+          "start": 97.72,
+          "end": 98.22,
+          "start_time": "0:01:37",
+          "end_time": "0:01:38"
+        },
+        {
+          "word": " constant",
+          "start": 98.22,
+          "end": 98.56,
+          "start_time": "0:01:38",
+          "end_time": "0:01:38"
+        },
+        {
+          "word": " is",
+          "start": 98.56,
+          "end": 98.78,
+          "start_time": "0:01:38",
+          "end_time": "0:01:38"
+        },
+        {
+          "word": " 6",
+          "start": 98.78,
+          "end": 99.0,
+          "start_time": "0:01:38",
+          "end_time": "0:01:39"
+        },
+        {
+          "word": ".626",
+          "start": 99.0,
+          "end": 99.98,
+          "start_time": "0:01:39",
+          "end_time": "0:01:39"
+        },
+        {
+          "word": " times",
+          "start": 99.98,
+          "end": 101.54,
+          "start_time": "0:01:39",
+          "end_time": "0:01:41"
+        },
+        {
+          "word": " 10",
+          "start": 101.54,
+          "end": 101.98,
+          "start_time": "0:01:41",
+          "end_time": "0:01:41"
+        },
+        {
+          "word": " to",
+          "start": 101.98,
+          "end": 102.18,
+          "start_time": "0:01:41",
+          "end_time": "0:01:42"
+        },
+        {
+          "word": " the",
+          "start": 102.18,
+          "end": 102.22,
+          "start_time": "0:01:42",
+          "end_time": "0:01:42"
+        },
+        {
+          "word": " negative",
+          "start": 102.22,
+          "end": 102.38,
+          "start_time": "0:01:42",
+          "end_time": "0:01:42"
+        },
+        {
+          "word": " 34,",
+          "start": 102.38,
+          "end": 103.04,
+          "start_time": "0:01:42",
+          "end_time": "0:01:43"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 103.94,
+      "end": 105.18,
+      "start_time": "0:01:43",
+      "end_time": "0:01:45",
+      "text": "joules times seconds.",
+      "words": [
+        {
+          "word": " joules",
+          "start": 103.94,
+          "end": 104.4,
+          "start_time": "0:01:43",
+          "end_time": "0:01:44"
+        },
+        {
+          "word": " times",
+          "start": 104.4,
+          "end": 104.64,
+          "start_time": "0:01:44",
+          "end_time": "0:01:44"
+        },
+        {
+          "word": " seconds.",
+          "start": 104.64,
+          "end": 105.18,
+          "start_time": "0:01:44",
+          "end_time": "0:01:45"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 106.56,
+      "end": 109.46,
+      "start_time": "0:01:46",
+      "end_time": "0:01:49",
+      "text": "Now, there's a lot of different types of waves in nature.",
+      "words": [
+        {
+          "word": " Now,",
+          "start": 106.56,
+          "end": 107.06,
+          "start_time": "0:01:46",
+          "end_time": "0:01:47"
+        },
+        {
+          "word": " there's",
+          "start": 107.06,
+          "end": 107.26,
+          "start_time": "0:01:47",
+          "end_time": "0:01:47"
+        },
+        {
+          "word": " a",
+          "start": 107.26,
+          "end": 107.34,
+          "start_time": "0:01:47",
+          "end_time": "0:01:47"
+        },
+        {
+          "word": " lot",
+          "start": 107.34,
+          "end": 107.46,
+          "start_time": "0:01:47",
+          "end_time": "0:01:47"
+        },
+        {
+          "word": " of",
+          "start": 107.46,
+          "end": 107.6,
+          "start_time": "0:01:47",
+          "end_time": "0:01:47"
+        },
+        {
+          "word": " different",
+          "start": 107.6,
+          "end": 107.86,
+          "start_time": "0:01:47",
+          "end_time": "0:01:47"
+        },
+        {
+          "word": " types",
+          "start": 107.86,
+          "end": 108.16,
+          "start_time": "0:01:47",
+          "end_time": "0:01:48"
+        },
+        {
+          "word": " of",
+          "start": 108.16,
+          "end": 108.36,
+          "start_time": "0:01:48",
+          "end_time": "0:01:48"
+        },
+        {
+          "word": " waves",
+          "start": 108.36,
+          "end": 108.52,
+          "start_time": "0:01:48",
+          "end_time": "0:01:48"
+        },
+        {
+          "word": " in",
+          "start": 108.52,
+          "end": 109.12,
+          "start_time": "0:01:48",
+          "end_time": "0:01:49"
+        },
+        {
+          "word": " nature.",
+          "start": 109.12,
+          "end": 109.46,
+          "start_time": "0:01:49",
+          "end_time": "0:01:49"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 110.36,
+      "end": 111.3,
+      "start_time": "0:01:50",
+      "end_time": "0:01:51",
+      "text": "Think of an ocean wave.",
+      "words": [
+        {
+          "word": " Think",
+          "start": 110.36,
+          "end": 110.5,
+          "start_time": "0:01:50",
+          "end_time": "0:01:50"
+        },
+        {
+          "word": " of",
+          "start": 110.5,
+          "end": 110.64,
+          "start_time": "0:01:50",
+          "end_time": "0:01:50"
+        },
+        {
+          "word": " an",
+          "start": 110.64,
+          "end": 110.76,
+          "start_time": "0:01:50",
+          "end_time": "0:01:50"
+        },
+        {
+          "word": " ocean",
+          "start": 110.76,
+          "end": 111.04,
+          "start_time": "0:01:50",
+          "end_time": "0:01:51"
+        },
+        {
+          "word": " wave.",
+          "start": 111.04,
+          "end": 111.3,
+          "start_time": "0:01:51",
+          "end_time": "0:01:51"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 112.26,
+      "end": 114.92,
+      "start_time": "0:01:52",
+      "end_time": "0:01:54",
+      "text": "You know, it has a crest, it has a trough.",
+      "words": [
+        {
+          "word": " You",
+          "start": 112.26,
+          "end": 112.38,
+          "start_time": "0:01:52",
+          "end_time": "0:01:52"
+        },
+        {
+          "word": " know,",
+          "start": 112.38,
+          "end": 112.46,
+          "start_time": "0:01:52",
+          "end_time": "0:01:52"
+        },
+        {
+          "word": " it",
+          "start": 112.56,
+          "end": 112.6,
+          "start_time": "0:01:52",
+          "end_time": "0:01:52"
+        },
+        {
+          "word": " has",
+          "start": 112.6,
+          "end": 112.94,
+          "start_time": "0:01:52",
+          "end_time": "0:01:52"
+        },
+        {
+          "word": " a",
+          "start": 112.94,
+          "end": 113.68,
+          "start_time": "0:01:52",
+          "end_time": "0:01:53"
+        },
+        {
+          "word": " crest,",
+          "start": 113.68,
+          "end": 113.96,
+          "start_time": "0:01:53",
+          "end_time": "0:01:53"
+        },
+        {
+          "word": " it",
+          "start": 114.14,
+          "end": 114.24,
+          "start_time": "0:01:54",
+          "end_time": "0:01:54"
+        },
+        {
+          "word": " has",
+          "start": 114.24,
+          "end": 114.38,
+          "start_time": "0:01:54",
+          "end_time": "0:01:54"
+        },
+        {
+          "word": " a",
+          "start": 114.38,
+          "end": 114.54,
+          "start_time": "0:01:54",
+          "end_time": "0:01:54"
+        },
+        {
+          "word": " trough.",
+          "start": 114.54,
+          "end": 114.92,
+          "start_time": "0:01:54",
+          "end_time": "0:01:54"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 115.54,
+      "end": 116.64,
+      "start_time": "0:01:55",
+      "end_time": "0:01:56",
+      "text": "Think of a wave on a string.",
+      "words": [
+        {
+          "word": " Think",
+          "start": 115.54,
+          "end": 115.68,
+          "start_time": "0:01:55",
+          "end_time": "0:01:55"
+        },
+        {
+          "word": " of",
+          "start": 115.68,
+          "end": 115.84,
+          "start_time": "0:01:55",
+          "end_time": "0:01:55"
+        },
+        {
+          "word": " a",
+          "start": 115.84,
+          "end": 115.92,
+          "start_time": "0:01:55",
+          "end_time": "0:01:55"
+        },
+        {
+          "word": " wave",
+          "start": 115.92,
+          "end": 116.1,
+          "start_time": "0:01:55",
+          "end_time": "0:01:56"
+        },
+        {
+          "word": " on",
+          "start": 116.1,
+          "end": 116.28,
+          "start_time": "0:01:56",
+          "end_time": "0:01:56"
+        },
+        {
+          "word": " a",
+          "start": 116.28,
+          "end": 116.4,
+          "start_time": "0:01:56",
+          "end_time": "0:01:56"
+        },
+        {
+          "word": " string.",
+          "start": 116.4,
+          "end": 116.64,
+          "start_time": "0:01:56",
+          "end_time": "0:01:56"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 118.26,
+      "end": 120.1,
+      "start_time": "0:01:58",
+      "end_time": "0:02:00",
+      "text": "But an electromagnetic wave is different.",
+      "words": [
+        {
+          "word": " But",
+          "start": 118.26,
+          "end": 118.76,
+          "start_time": "0:01:58",
+          "end_time": "0:01:58"
+        },
+        {
+          "word": " an",
+          "start": 118.76,
+          "end": 118.84,
+          "start_time": "0:01:58",
+          "end_time": "0:01:58"
+        },
+        {
+          "word": " electromagnetic",
+          "start": 118.84,
+          "end": 119.24,
+          "start_time": "0:01:58",
+          "end_time": "0:01:59"
+        },
+        {
+          "word": " wave",
+          "start": 119.24,
+          "end": 119.58,
+          "start_time": "0:01:59",
+          "end_time": "0:01:59"
+        },
+        {
+          "word": " is",
+          "start": 119.58,
+          "end": 119.78,
+          "start_time": "0:01:59",
+          "end_time": "0:01:59"
+        },
+        {
+          "word": " different.",
+          "start": 119.78,
+          "end": 120.1,
+          "start_time": "0:01:59",
+          "end_time": "0:02:00"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 120.46,
+      "end": 124.46,
+      "start_time": "0:02:00",
+      "end_time": "0:02:04",
+      "text": "This type of wave is composed of electric, eminetic fields.",
+      "words": [
+        {
+          "word": " This",
+          "start": 120.46,
+          "end": 120.62,
+          "start_time": "0:02:00",
+          "end_time": "0:02:00"
+        },
+        {
+          "word": " type",
+          "start": 120.62,
+          "end": 120.82,
+          "start_time": "0:02:00",
+          "end_time": "0:02:00"
+        },
+        {
+          "word": " of",
+          "start": 120.82,
+          "end": 121.0,
+          "start_time": "0:02:00",
+          "end_time": "0:02:01"
+        },
+        {
+          "word": " wave",
+          "start": 121.0,
+          "end": 121.22,
+          "start_time": "0:02:01",
+          "end_time": "0:02:01"
+        },
+        {
+          "word": " is",
+          "start": 121.22,
+          "end": 121.6,
+          "start_time": "0:02:01",
+          "end_time": "0:02:01"
+        },
+        {
+          "word": " composed",
+          "start": 121.6,
+          "end": 121.96,
+          "start_time": "0:02:01",
+          "end_time": "0:02:01"
+        },
+        {
+          "word": " of",
+          "start": 121.96,
+          "end": 122.46,
+          "start_time": "0:02:01",
+          "end_time": "0:02:02"
+        },
+        {
+          "word": " electric,",
+          "start": 122.46,
+          "end": 123.52,
+          "start_time": "0:02:02",
+          "end_time": "0:02:03"
+        },
+        {
+          "word": " eminetic",
+          "start": 123.54,
+          "end": 124.1,
+          "start_time": "0:02:03",
+          "end_time": "0:02:04"
+        },
+        {
+          "word": " fields.",
+          "start": 124.1,
+          "end": 124.46,
+          "start_time": "0:02:04",
+          "end_time": "0:02:04"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 125.10000000000001,
+      "end": 127.16,
+      "start_time": "0:02:05",
+      "end_time": "0:02:07",
+      "text": "Thus, we have the name electromagnetic waves.",
+      "words": [
+        {
+          "word": " Thus,",
+          "start": 125.10000000000001,
+          "end": 125.54,
+          "start_time": "0:02:05",
+          "end_time": "0:02:05"
+        },
+        {
+          "word": " we",
+          "start": 125.66,
+          "end": 125.7,
+          "start_time": "0:02:05",
+          "end_time": "0:02:05"
+        },
+        {
+          "word": " have",
+          "start": 125.7,
+          "end": 125.82,
+          "start_time": "0:02:05",
+          "end_time": "0:02:05"
+        },
+        {
+          "word": " the",
+          "start": 125.82,
+          "end": 125.94,
+          "start_time": "0:02:05",
+          "end_time": "0:02:05"
+        },
+        {
+          "word": " name",
+          "start": 125.94,
+          "end": 126.1,
+          "start_time": "0:02:05",
+          "end_time": "0:02:06"
+        },
+        {
+          "word": " electromagnetic",
+          "start": 126.1,
+          "end": 126.66,
+          "start_time": "0:02:06",
+          "end_time": "0:02:06"
+        },
+        {
+          "word": " waves.",
+          "start": 126.66,
+          "end": 127.16,
+          "start_time": "0:02:06",
+          "end_time": "0:02:07"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 128.28,
+      "end": 129.3,
+      "start_time": "0:02:08",
+      "end_time": "0:02:09",
+      "text": "And let's draw it.",
+      "words": [
+        {
+          "word": " And",
+          "start": 128.28,
+          "end": 128.72,
+          "start_time": "0:02:08",
+          "end_time": "0:02:08"
+        },
+        {
+          "word": " let's",
+          "start": 128.72,
+          "end": 128.9,
+          "start_time": "0:02:08",
+          "end_time": "0:02:08"
+        },
+        {
+          "word": " draw",
+          "start": 128.9,
+          "end": 129.08,
+          "start_time": "0:02:08",
+          "end_time": "0:02:09"
+        },
+        {
+          "word": " it.",
+          "start": 129.08,
+          "end": 129.3,
+          "start_time": "0:02:09",
+          "end_time": "0:02:09"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 130.2,
+      "end": 133.7,
+      "start_time": "0:02:10",
+      "end_time": "0:02:13",
+      "text": "So we're going to draw a 3D coordinate system.",
+      "words": [
+        {
+          "word": " So",
+          "start": 130.2,
+          "end": 130.46,
+          "start_time": "0:02:10",
+          "end_time": "0:02:10"
+        },
+        {
+          "word": " we're",
+          "start": 130.46,
+          "end": 130.6,
+          "start_time": "0:02:10",
+          "end_time": "0:02:10"
+        },
+        {
+          "word": " going",
+          "start": 130.6,
+          "end": 130.72,
+          "start_time": "0:02:10",
+          "end_time": "0:02:10"
+        },
+        {
+          "word": " to",
+          "start": 130.72,
+          "end": 130.78,
+          "start_time": "0:02:10",
+          "end_time": "0:02:10"
+        },
+        {
+          "word": " draw",
+          "start": 130.78,
+          "end": 131.08,
+          "start_time": "0:02:10",
+          "end_time": "0:02:11"
+        },
+        {
+          "word": " a",
+          "start": 131.08,
+          "end": 132.58,
+          "start_time": "0:02:11",
+          "end_time": "0:02:12"
+        },
+        {
+          "word": " 3D",
+          "start": 132.58,
+          "end": 132.94,
+          "start_time": "0:02:12",
+          "end_time": "0:02:12"
+        },
+        {
+          "word": " coordinate",
+          "start": 132.94,
+          "end": 133.26,
+          "start_time": "0:02:12",
+          "end_time": "0:02:13"
+        },
+        {
+          "word": " system.",
+          "start": 133.26,
+          "end": 133.7,
+          "start_time": "0:02:13",
+          "end_time": "0:02:13"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 134.64000000000001,
+      "end": 139.08,
+      "start_time": "0:02:14",
+      "end_time": "0:02:19",
+      "text": "My drawing is not perfect, but I'm going to make the best of it.",
+      "words": [
+        {
+          "word": " My",
+          "start": 134.64000000000001,
+          "end": 135.08,
+          "start_time": "0:02:14",
+          "end_time": "0:02:15"
+        },
+        {
+          "word": " drawing",
+          "start": 135.08,
+          "end": 135.28,
+          "start_time": "0:02:15",
+          "end_time": "0:02:15"
+        },
+        {
+          "word": " is",
+          "start": 135.28,
+          "end": 135.42,
+          "start_time": "0:02:15",
+          "end_time": "0:02:15"
+        },
+        {
+          "word": " not",
+          "start": 135.42,
+          "end": 135.52,
+          "start_time": "0:02:15",
+          "end_time": "0:02:15"
+        },
+        {
+          "word": " perfect,",
+          "start": 135.52,
+          "end": 135.86,
+          "start_time": "0:02:15",
+          "end_time": "0:02:15"
+        },
+        {
+          "word": " but",
+          "start": 136.08,
+          "end": 136.14,
+          "start_time": "0:02:16",
+          "end_time": "0:02:16"
+        },
+        {
+          "word": " I'm",
+          "start": 136.14,
+          "end": 138.2,
+          "start_time": "0:02:16",
+          "end_time": "0:02:18"
+        },
+        {
+          "word": " going",
+          "start": 138.2,
+          "end": 138.3,
+          "start_time": "0:02:18",
+          "end_time": "0:02:18"
+        },
+        {
+          "word": " to",
+          "start": 138.3,
+          "end": 138.34,
+          "start_time": "0:02:18",
+          "end_time": "0:02:18"
+        },
+        {
+          "word": " make",
+          "start": 138.34,
+          "end": 138.46,
+          "start_time": "0:02:18",
+          "end_time": "0:02:18"
+        },
+        {
+          "word": " the",
+          "start": 138.46,
+          "end": 138.58,
+          "start_time": "0:02:18",
+          "end_time": "0:02:18"
+        },
+        {
+          "word": " best",
+          "start": 138.58,
+          "end": 138.76,
+          "start_time": "0:02:18",
+          "end_time": "0:02:18"
+        },
+        {
+          "word": " of",
+          "start": 138.76,
+          "end": 138.92,
+          "start_time": "0:02:18",
+          "end_time": "0:02:18"
+        },
+        {
+          "word": " it.",
+          "start": 138.92,
+          "end": 139.08,
+          "start_time": "0:02:18",
+          "end_time": "0:02:19"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 139.9,
+      "end": 144.1,
+      "start_time": "0:02:19",
+      "end_time": "0:02:24",
+      "text": "So first, let's draw the electric field component of an EM wave.",
+      "words": [
+        {
+          "word": " So",
+          "start": 139.9,
+          "end": 140.08,
+          "start_time": "0:02:19",
+          "end_time": "0:02:20"
+        },
+        {
+          "word": " first,",
+          "start": 140.08,
+          "end": 140.32,
+          "start_time": "0:02:20",
+          "end_time": "0:02:20"
+        },
+        {
+          "word": " let's",
+          "start": 140.48,
+          "end": 140.64,
+          "start_time": "0:02:20",
+          "end_time": "0:02:20"
+        },
+        {
+          "word": " draw",
+          "start": 140.64,
+          "end": 140.8,
+          "start_time": "0:02:20",
+          "end_time": "0:02:20"
+        },
+        {
+          "word": " the",
+          "start": 140.8,
+          "end": 140.96,
+          "start_time": "0:02:20",
+          "end_time": "0:02:20"
+        },
+        {
+          "word": " electric",
+          "start": 140.96,
+          "end": 141.4,
+          "start_time": "0:02:20",
+          "end_time": "0:02:21"
+        },
+        {
+          "word": " field",
+          "start": 141.4,
+          "end": 142.1,
+          "start_time": "0:02:21",
+          "end_time": "0:02:22"
+        },
+        {
+          "word": " component",
+          "start": 142.1,
+          "end": 142.64,
+          "start_time": "0:02:22",
+          "end_time": "0:02:22"
+        },
+        {
+          "word": " of",
+          "start": 142.64,
+          "end": 143.46,
+          "start_time": "0:02:22",
+          "end_time": "0:02:23"
+        },
+        {
+          "word": " an",
+          "start": 143.46,
+          "end": 143.62,
+          "start_time": "0:02:23",
+          "end_time": "0:02:23"
+        },
+        {
+          "word": " EM",
+          "start": 143.62,
+          "end": 143.8,
+          "start_time": "0:02:23",
+          "end_time": "0:02:23"
+        },
+        {
+          "word": " wave.",
+          "start": 143.8,
+          "end": 144.1,
+          "start_time": "0:02:23",
+          "end_time": "0:02:24"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 146.18,
+      "end": 148.96,
+      "start_time": "0:02:26",
+      "end_time": "0:02:28",
+      "text": "The electric field oscillates up and down.",
+      "words": [
+        {
+          "word": " The",
+          "start": 146.18,
+          "end": 146.62,
+          "start_time": "0:02:26",
+          "end_time": "0:02:26"
+        },
+        {
+          "word": " electric",
+          "start": 146.62,
+          "end": 146.92,
+          "start_time": "0:02:26",
+          "end_time": "0:02:26"
+        },
+        {
+          "word": " field",
+          "start": 146.92,
+          "end": 147.3,
+          "start_time": "0:02:26",
+          "end_time": "0:02:27"
+        },
+        {
+          "word": " oscillates",
+          "start": 147.3,
+          "end": 148.06,
+          "start_time": "0:02:27",
+          "end_time": "0:02:28"
+        },
+        {
+          "word": " up",
+          "start": 148.06,
+          "end": 148.62,
+          "start_time": "0:02:28",
+          "end_time": "0:02:28"
+        },
+        {
+          "word": " and",
+          "start": 148.62,
+          "end": 148.76,
+          "start_time": "0:02:28",
+          "end_time": "0:02:28"
+        },
+        {
+          "word": " down.",
+          "start": 148.76,
+          "end": 148.96,
+          "start_time": "0:02:28",
+          "end_time": "0:02:28"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 153.70000000000002,
+      "end": 155.28,
+      "start_time": "0:02:33",
+      "end_time": "0:02:35",
+      "text": "We'll call this axis time.",
+      "words": [
+        {
+          "word": " We'll",
+          "start": 153.70000000000002,
+          "end": 154.18,
+          "start_time": "0:02:33",
+          "end_time": "0:02:34"
+        },
+        {
+          "word": " call",
+          "start": 154.18,
+          "end": 154.34,
+          "start_time": "0:02:34",
+          "end_time": "0:02:34"
+        },
+        {
+          "word": " this",
+          "start": 154.34,
+          "end": 154.58,
+          "start_time": "0:02:34",
+          "end_time": "0:02:34"
+        },
+        {
+          "word": " axis",
+          "start": 154.58,
+          "end": 154.92,
+          "start_time": "0:02:34",
+          "end_time": "0:02:34"
+        },
+        {
+          "word": " time.",
+          "start": 154.92,
+          "end": 155.28,
+          "start_time": "0:02:34",
+          "end_time": "0:02:35"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 157.48000000000002,
+      "end": 163.04,
+      "start_time": "0:02:37",
+      "end_time": "0:02:43",
+      "text": "Now, when the electric field is changing, it will create a change in magnetic field.",
+      "words": [
+        {
+          "word": " Now,",
+          "start": 157.48000000000002,
+          "end": 157.96,
+          "start_time": "0:02:37",
+          "end_time": "0:02:37"
+        },
+        {
+          "word": " when",
+          "start": 157.96,
+          "end": 158.44,
+          "start_time": "0:02:37",
+          "end_time": "0:02:38"
+        },
+        {
+          "word": " the",
+          "start": 158.44,
+          "end": 158.56,
+          "start_time": "0:02:38",
+          "end_time": "0:02:38"
+        },
+        {
+          "word": " electric",
+          "start": 158.56,
+          "end": 158.84,
+          "start_time": "0:02:38",
+          "end_time": "0:02:38"
+        },
+        {
+          "word": " field",
+          "start": 158.84,
+          "end": 159.1,
+          "start_time": "0:02:38",
+          "end_time": "0:02:39"
+        },
+        {
+          "word": " is",
+          "start": 159.1,
+          "end": 159.3,
+          "start_time": "0:02:39",
+          "end_time": "0:02:39"
+        },
+        {
+          "word": " changing,",
+          "start": 159.3,
+          "end": 159.76,
+          "start_time": "0:02:39",
+          "end_time": "0:02:39"
+        },
+        {
+          "word": " it",
+          "start": 160.3,
+          "end": 160.86,
+          "start_time": "0:02:40",
+          "end_time": "0:02:40"
+        },
+        {
+          "word": " will",
+          "start": 160.86,
+          "end": 161.0,
+          "start_time": "0:02:40",
+          "end_time": "0:02:41"
+        },
+        {
+          "word": " create",
+          "start": 161.0,
+          "end": 161.36,
+          "start_time": "0:02:41",
+          "end_time": "0:02:41"
+        },
+        {
+          "word": " a",
+          "start": 161.36,
+          "end": 162.02,
+          "start_time": "0:02:41",
+          "end_time": "0:02:42"
+        },
+        {
+          "word": " change",
+          "start": 162.02,
+          "end": 162.3,
+          "start_time": "0:02:42",
+          "end_time": "0:02:42"
+        },
+        {
+          "word": " in",
+          "start": 162.3,
+          "end": 162.48,
+          "start_time": "0:02:42",
+          "end_time": "0:02:42"
+        },
+        {
+          "word": " magnetic",
+          "start": 162.48,
+          "end": 162.68,
+          "start_time": "0:02:42",
+          "end_time": "0:02:42"
+        },
+        {
+          "word": " field.",
+          "start": 162.68,
+          "end": 163.04,
+          "start_time": "0:02:42",
+          "end_time": "0:02:43"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 163.72,
+      "end": 167.58,
+      "start_time": "0:02:43",
+      "end_time": "0:02:47",
+      "text": "And the change in magnetic field, in turn, will create a change in electric field.",
+      "words": [
+        {
+          "word": " And",
+          "start": 163.72,
+          "end": 163.82,
+          "start_time": "0:02:43",
+          "end_time": "0:02:43"
+        },
+        {
+          "word": " the",
+          "start": 163.82,
+          "end": 163.92,
+          "start_time": "0:02:43",
+          "end_time": "0:02:43"
+        },
+        {
+          "word": " change",
+          "start": 163.92,
+          "end": 164.14,
+          "start_time": "0:02:43",
+          "end_time": "0:02:44"
+        },
+        {
+          "word": " in",
+          "start": 164.14,
+          "end": 164.32,
+          "start_time": "0:02:44",
+          "end_time": "0:02:44"
+        },
+        {
+          "word": " magnetic",
+          "start": 164.32,
+          "end": 164.5,
+          "start_time": "0:02:44",
+          "end_time": "0:02:44"
+        },
+        {
+          "word": " field,",
+          "start": 164.5,
+          "end": 164.96,
+          "start_time": "0:02:44",
+          "end_time": "0:02:44"
+        },
+        {
+          "word": " in",
+          "start": 165.38,
+          "end": 165.64,
+          "start_time": "0:02:45",
+          "end_time": "0:02:45"
+        },
+        {
+          "word": " turn,",
+          "start": 165.64,
+          "end": 165.84,
+          "start_time": "0:02:45",
+          "end_time": "0:02:45"
+        },
+        {
+          "word": " will",
+          "start": 166.0,
+          "end": 166.04,
+          "start_time": "0:02:46",
+          "end_time": "0:02:46"
+        },
+        {
+          "word": " create",
+          "start": 166.04,
+          "end": 166.32,
+          "start_time": "0:02:46",
+          "end_time": "0:02:46"
+        },
+        {
+          "word": " a",
+          "start": 166.32,
+          "end": 166.44,
+          "start_time": "0:02:46",
+          "end_time": "0:02:46"
+        },
+        {
+          "word": " change",
+          "start": 166.44,
+          "end": 166.68,
+          "start_time": "0:02:46",
+          "end_time": "0:02:46"
+        },
+        {
+          "word": " in",
+          "start": 166.68,
+          "end": 166.94,
+          "start_time": "0:02:46",
+          "end_time": "0:02:46"
+        },
+        {
+          "word": " electric",
+          "start": 166.94,
+          "end": 167.16,
+          "start_time": "0:02:46",
+          "end_time": "0:02:47"
+        },
+        {
+          "word": " field.",
+          "start": 167.16,
+          "end": 167.58,
+          "start_time": "0:02:47",
+          "end_time": "0:02:47"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 169.08,
+      "end": 173.62,
+      "start_time": "0:02:49",
+      "end_time": "0:02:53",
+      "text": "And so, when you're dealing with an EM wave, you have an electric field on an axis",
+      "words": [
+        {
+          "word": " And",
+          "start": 169.08,
+          "end": 169.56,
+          "start_time": "0:02:49",
+          "end_time": "0:02:49"
+        },
+        {
+          "word": " so,",
+          "start": 169.56,
+          "end": 169.76,
+          "start_time": "0:02:49",
+          "end_time": "0:02:49"
+        },
+        {
+          "word": " when",
+          "start": 169.92,
+          "end": 170.04,
+          "start_time": "0:02:49",
+          "end_time": "0:02:50"
+        },
+        {
+          "word": " you're",
+          "start": 170.04,
+          "end": 170.22,
+          "start_time": "0:02:50",
+          "end_time": "0:02:50"
+        },
+        {
+          "word": " dealing",
+          "start": 170.22,
+          "end": 170.3,
+          "start_time": "0:02:50",
+          "end_time": "0:02:50"
+        },
+        {
+          "word": " with",
+          "start": 170.3,
+          "end": 170.5,
+          "start_time": "0:02:50",
+          "end_time": "0:02:50"
+        },
+        {
+          "word": " an",
+          "start": 170.5,
+          "end": 170.6,
+          "start_time": "0:02:50",
+          "end_time": "0:02:50"
+        },
+        {
+          "word": " EM",
+          "start": 170.6,
+          "end": 170.78,
+          "start_time": "0:02:50",
+          "end_time": "0:02:50"
+        },
+        {
+          "word": " wave,",
+          "start": 170.78,
+          "end": 171.02,
+          "start_time": "0:02:50",
+          "end_time": "0:02:51"
+        },
+        {
+          "word": " you",
+          "start": 171.28,
+          "end": 171.3,
+          "start_time": "0:02:51",
+          "end_time": "0:02:51"
+        },
+        {
+          "word": " have",
+          "start": 171.3,
+          "end": 171.54,
+          "start_time": "0:02:51",
+          "end_time": "0:02:51"
+        },
+        {
+          "word": " an",
+          "start": 171.54,
+          "end": 172.12,
+          "start_time": "0:02:51",
+          "end_time": "0:02:52"
+        },
+        {
+          "word": " electric",
+          "start": 172.12,
+          "end": 172.42,
+          "start_time": "0:02:52",
+          "end_time": "0:02:52"
+        },
+        {
+          "word": " field",
+          "start": 172.42,
+          "end": 172.74,
+          "start_time": "0:02:52",
+          "end_time": "0:02:52"
+        },
+        {
+          "word": " on",
+          "start": 172.74,
+          "end": 172.94,
+          "start_time": "0:02:52",
+          "end_time": "0:02:52"
+        },
+        {
+          "word": " an",
+          "start": 172.94,
+          "end": 173.06,
+          "start_time": "0:02:52",
+          "end_time": "0:02:53"
+        },
+        {
+          "word": " axis",
+          "start": 173.06,
+          "end": 173.62,
+          "start_time": "0:02:53",
+          "end_time": "0:02:53"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 173.62,
+      "end": 175.22,
+      "start_time": "0:02:53",
+      "end_time": "0:02:55",
+      "text": "and perpendicular to it.",
+      "words": [
+        {
+          "word": " and",
+          "start": 173.62,
+          "end": 174.26,
+          "start_time": "0:02:53",
+          "end_time": "0:02:54"
+        },
+        {
+          "word": " perpendicular",
+          "start": 174.26,
+          "end": 174.7,
+          "start_time": "0:02:54",
+          "end_time": "0:02:54"
+        },
+        {
+          "word": " to",
+          "start": 174.7,
+          "end": 175.04,
+          "start_time": "0:02:54",
+          "end_time": "0:02:55"
+        },
+        {
+          "word": " it.",
+          "start": 175.04,
+          "end": 175.22,
+          "start_time": "0:02:55",
+          "end_time": "0:02:55"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 175.56,
+      "end": 176.76,
+      "start_time": "0:02:55",
+      "end_time": "0:02:56",
+      "text": "You have a magnetic field.",
+      "words": [
+        {
+          "word": " You",
+          "start": 175.56,
+          "end": 175.78,
+          "start_time": "0:02:55",
+          "end_time": "0:02:55"
+        },
+        {
+          "word": " have",
+          "start": 175.78,
+          "end": 175.96,
+          "start_time": "0:02:55",
+          "end_time": "0:02:55"
+        },
+        {
+          "word": " a",
+          "start": 175.96,
+          "end": 176.08,
+          "start_time": "0:02:55",
+          "end_time": "0:02:56"
+        },
+        {
+          "word": " magnetic",
+          "start": 176.08,
+          "end": 176.36,
+          "start_time": "0:02:56",
+          "end_time": "0:02:56"
+        },
+        {
+          "word": " field.",
+          "start": 176.36,
+          "end": 176.76,
+          "start_time": "0:02:56",
+          "end_time": "0:02:56"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 178.12,
+      "end": 179.26,
+      "start_time": "0:02:58",
+      "end_time": "0:02:59",
+      "text": "We'll call it B.",
+      "words": [
+        {
+          "word": " We'll",
+          "start": 178.12,
+          "end": 178.66,
+          "start_time": "0:02:58",
+          "end_time": "0:02:58"
+        },
+        {
+          "word": " call",
+          "start": 178.66,
+          "end": 178.86,
+          "start_time": "0:02:58",
+          "end_time": "0:02:58"
+        },
+        {
+          "word": " it",
+          "start": 178.86,
+          "end": 179.06,
+          "start_time": "0:02:58",
+          "end_time": "0:02:59"
+        },
+        {
+          "word": " B.",
+          "start": 179.06,
+          "end": 179.26,
+          "start_time": "0:02:59",
+          "end_time": "0:02:59"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 186.58,
+      "end": 189.16,
+      "start_time": "0:03:06",
+      "end_time": "0:03:09",
+      "text": "So that is an electromagnetic wave.",
+      "words": [
+        {
+          "word": " So",
+          "start": 186.58,
+          "end": 187.12,
+          "start_time": "0:03:06",
+          "end_time": "0:03:07"
+        },
+        {
+          "word": " that",
+          "start": 187.12,
+          "end": 187.34,
+          "start_time": "0:03:07",
+          "end_time": "0:03:07"
+        },
+        {
+          "word": " is",
+          "start": 187.34,
+          "end": 187.78,
+          "start_time": "0:03:07",
+          "end_time": "0:03:07"
+        },
+        {
+          "word": " an",
+          "start": 187.78,
+          "end": 188.24,
+          "start_time": "0:03:07",
+          "end_time": "0:03:08"
+        },
+        {
+          "word": " electromagnetic",
+          "start": 188.24,
+          "end": 188.64,
+          "start_time": "0:03:08",
+          "end_time": "0:03:08"
+        },
+        {
+          "word": " wave.",
+          "start": 188.64,
+          "end": 189.16,
+          "start_time": "0:03:08",
+          "end_time": "0:03:09"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 190.54,
+      "end": 193.56,
+      "start_time": "0:03:10",
+      "end_time": "0:03:13",
+      "text": "On one axis, you have the electric field, which are oscillating.",
+      "words": [
+        {
+          "word": " On",
+          "start": 190.54,
+          "end": 190.78,
+          "start_time": "0:03:10",
+          "end_time": "0:03:10"
+        },
+        {
+          "word": " one",
+          "start": 190.78,
+          "end": 190.98,
+          "start_time": "0:03:10",
+          "end_time": "0:03:10"
+        },
+        {
+          "word": " axis,",
+          "start": 190.98,
+          "end": 191.34,
+          "start_time": "0:03:10",
+          "end_time": "0:03:11"
+        },
+        {
+          "word": " you",
+          "start": 191.5,
+          "end": 191.58,
+          "start_time": "0:03:11",
+          "end_time": "0:03:11"
+        },
+        {
+          "word": " have",
+          "start": 191.58,
+          "end": 191.76,
+          "start_time": "0:03:11",
+          "end_time": "0:03:11"
+        },
+        {
+          "word": " the",
+          "start": 191.76,
+          "end": 191.9,
+          "start_time": "0:03:11",
+          "end_time": "0:03:11"
+        },
+        {
+          "word": " electric",
+          "start": 191.9,
+          "end": 192.16,
+          "start_time": "0:03:11",
+          "end_time": "0:03:12"
+        },
+        {
+          "word": " field,",
+          "start": 192.16,
+          "end": 192.46,
+          "start_time": "0:03:12",
+          "end_time": "0:03:12"
+        },
+        {
+          "word": " which",
+          "start": 192.54,
+          "end": 192.72,
+          "start_time": "0:03:12",
+          "end_time": "0:03:12"
+        },
+        {
+          "word": " are",
+          "start": 192.72,
+          "end": 192.92,
+          "start_time": "0:03:12",
+          "end_time": "0:03:12"
+        },
+        {
+          "word": " oscillating.",
+          "start": 192.92,
+          "end": 193.56,
+          "start_time": "0:03:12",
+          "end_time": "0:03:13"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 194.06,
+      "end": 198.18,
+      "start_time": "0:03:14",
+      "end_time": "0:03:18",
+      "text": "And on another axis, perpendicular to it, you have oscillating magnetic fields.",
+      "words": [
+        {
+          "word": " And",
+          "start": 194.06,
+          "end": 194.16,
+          "start_time": "0:03:14",
+          "end_time": "0:03:14"
+        },
+        {
+          "word": " on",
+          "start": 194.16,
+          "end": 194.28,
+          "start_time": "0:03:14",
+          "end_time": "0:03:14"
+        },
+        {
+          "word": " another",
+          "start": 194.28,
+          "end": 194.58,
+          "start_time": "0:03:14",
+          "end_time": "0:03:14"
+        },
+        {
+          "word": " axis,",
+          "start": 194.58,
+          "end": 195.08,
+          "start_time": "0:03:14",
+          "end_time": "0:03:15"
+        },
+        {
+          "word": " perpendicular",
+          "start": 195.26,
+          "end": 195.52,
+          "start_time": "0:03:15",
+          "end_time": "0:03:15"
+        },
+        {
+          "word": " to",
+          "start": 195.52,
+          "end": 195.88,
+          "start_time": "0:03:15",
+          "end_time": "0:03:15"
+        },
+        {
+          "word": " it,",
+          "start": 195.88,
+          "end": 195.98,
+          "start_time": "0:03:15",
+          "end_time": "0:03:15"
+        },
+        {
+          "word": " you",
+          "start": 196.04,
+          "end": 196.12,
+          "start_time": "0:03:16",
+          "end_time": "0:03:16"
+        },
+        {
+          "word": " have",
+          "start": 196.12,
+          "end": 196.24,
+          "start_time": "0:03:16",
+          "end_time": "0:03:16"
+        },
+        {
+          "word": " oscillating",
+          "start": 196.24,
+          "end": 196.82,
+          "start_time": "0:03:16",
+          "end_time": "0:03:16"
+        },
+        {
+          "word": " magnetic",
+          "start": 196.82,
+          "end": 197.68,
+          "start_time": "0:03:16",
+          "end_time": "0:03:17"
+        },
+        {
+          "word": " fields.",
+          "start": 197.68,
+          "end": 198.18,
+          "start_time": "0:03:17",
+          "end_time": "0:03:18"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 200.0,
+      "end": 206.14,
+      "start_time": "0:03:20",
+      "end_time": "0:03:26",
+      "text": "The electric field is equal to the speed of light times the strength of the magnetic field.",
+      "words": [
+        {
+          "word": " The",
+          "start": 200.0,
+          "end": 200.6,
+          "start_time": "0:03:20",
+          "end_time": "0:03:20"
+        },
+        {
+          "word": " electric",
+          "start": 200.6,
+          "end": 200.92,
+          "start_time": "0:03:20",
+          "end_time": "0:03:20"
+        },
+        {
+          "word": " field",
+          "start": 200.92,
+          "end": 201.22,
+          "start_time": "0:03:20",
+          "end_time": "0:03:21"
+        },
+        {
+          "word": " is",
+          "start": 201.22,
+          "end": 202.0,
+          "start_time": "0:03:21",
+          "end_time": "0:03:22"
+        },
+        {
+          "word": " equal",
+          "start": 202.0,
+          "end": 202.42,
+          "start_time": "0:03:22",
+          "end_time": "0:03:22"
+        },
+        {
+          "word": " to",
+          "start": 202.42,
+          "end": 203.32,
+          "start_time": "0:03:22",
+          "end_time": "0:03:23"
+        },
+        {
+          "word": " the",
+          "start": 203.32,
+          "end": 203.42,
+          "start_time": "0:03:23",
+          "end_time": "0:03:23"
+        },
+        {
+          "word": " speed",
+          "start": 203.42,
+          "end": 203.6,
+          "start_time": "0:03:23",
+          "end_time": "0:03:23"
+        },
+        {
+          "word": " of",
+          "start": 203.6,
+          "end": 203.78,
+          "start_time": "0:03:23",
+          "end_time": "0:03:23"
+        },
+        {
+          "word": " light",
+          "start": 203.78,
+          "end": 203.96,
+          "start_time": "0:03:23",
+          "end_time": "0:03:23"
+        },
+        {
+          "word": " times",
+          "start": 203.96,
+          "end": 204.66,
+          "start_time": "0:03:23",
+          "end_time": "0:03:24"
+        },
+        {
+          "word": " the",
+          "start": 204.66,
+          "end": 204.84,
+          "start_time": "0:03:24",
+          "end_time": "0:03:24"
+        },
+        {
+          "word": " strength",
+          "start": 204.84,
+          "end": 205.12,
+          "start_time": "0:03:24",
+          "end_time": "0:03:25"
+        },
+        {
+          "word": " of",
+          "start": 205.12,
+          "end": 205.42,
+          "start_time": "0:03:25",
+          "end_time": "0:03:25"
+        },
+        {
+          "word": " the",
+          "start": 205.42,
+          "end": 205.52,
+          "start_time": "0:03:25",
+          "end_time": "0:03:25"
+        },
+        {
+          "word": " magnetic",
+          "start": 205.52,
+          "end": 205.78,
+          "start_time": "0:03:25",
+          "end_time": "0:03:25"
+        },
+        {
+          "word": " field.",
+          "start": 205.78,
+          "end": 206.14,
+          "start_time": "0:03:25",
+          "end_time": "0:03:26"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 208.98000000000002,
+      "end": 213.38,
+      "start_time": "0:03:28",
+      "end_time": "0:03:33",
+      "text": "Electromagnetic waves can be created by any type of charge particle.",
+      "words": [
+        {
+          "word": " Electromagnetic",
+          "start": 208.98000000000002,
+          "end": 209.58,
+          "start_time": "0:03:28",
+          "end_time": "0:03:29"
+        },
+        {
+          "word": " waves",
+          "start": 209.58,
+          "end": 209.94,
+          "start_time": "0:03:29",
+          "end_time": "0:03:29"
+        },
+        {
+          "word": " can",
+          "start": 209.94,
+          "end": 210.7,
+          "start_time": "0:03:29",
+          "end_time": "0:03:30"
+        },
+        {
+          "word": " be",
+          "start": 210.7,
+          "end": 210.88,
+          "start_time": "0:03:30",
+          "end_time": "0:03:30"
+        },
+        {
+          "word": " created",
+          "start": 210.88,
+          "end": 211.38,
+          "start_time": "0:03:30",
+          "end_time": "0:03:31"
+        },
+        {
+          "word": " by",
+          "start": 211.38,
+          "end": 211.64,
+          "start_time": "0:03:31",
+          "end_time": "0:03:31"
+        },
+        {
+          "word": " any",
+          "start": 211.64,
+          "end": 212.04,
+          "start_time": "0:03:31",
+          "end_time": "0:03:32"
+        },
+        {
+          "word": " type",
+          "start": 212.04,
+          "end": 212.32,
+          "start_time": "0:03:32",
+          "end_time": "0:03:32"
+        },
+        {
+          "word": " of",
+          "start": 212.32,
+          "end": 212.52,
+          "start_time": "0:03:32",
+          "end_time": "0:03:32"
+        },
+        {
+          "word": " charge",
+          "start": 212.52,
+          "end": 212.8,
+          "start_time": "0:03:32",
+          "end_time": "0:03:32"
+        },
+        {
+          "word": " particle.",
+          "start": 212.8,
+          "end": 213.38,
+          "start_time": "0:03:32",
+          "end_time": "0:03:33"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 214.74,
+      "end": 218.72,
+      "start_time": "0:03:34",
+      "end_time": "0:03:38",
+      "text": "A charge particle always has an electric field around it.",
+      "words": [
+        {
+          "word": " A",
+          "start": 214.74,
+          "end": 215.34,
+          "start_time": "0:03:34",
+          "end_time": "0:03:35"
+        },
+        {
+          "word": " charge",
+          "start": 215.34,
+          "end": 215.56,
+          "start_time": "0:03:35",
+          "end_time": "0:03:35"
+        },
+        {
+          "word": " particle",
+          "start": 215.56,
+          "end": 216.14,
+          "start_time": "0:03:35",
+          "end_time": "0:03:36"
+        },
+        {
+          "word": " always",
+          "start": 216.14,
+          "end": 216.92,
+          "start_time": "0:03:36",
+          "end_time": "0:03:36"
+        },
+        {
+          "word": " has",
+          "start": 216.92,
+          "end": 217.22,
+          "start_time": "0:03:36",
+          "end_time": "0:03:37"
+        },
+        {
+          "word": " an",
+          "start": 217.22,
+          "end": 217.42,
+          "start_time": "0:03:37",
+          "end_time": "0:03:37"
+        },
+        {
+          "word": " electric",
+          "start": 217.42,
+          "end": 217.7,
+          "start_time": "0:03:37",
+          "end_time": "0:03:37"
+        },
+        {
+          "word": " field",
+          "start": 217.7,
+          "end": 218.04,
+          "start_time": "0:03:37",
+          "end_time": "0:03:38"
+        },
+        {
+          "word": " around",
+          "start": 218.04,
+          "end": 218.46,
+          "start_time": "0:03:38",
+          "end_time": "0:03:38"
+        },
+        {
+          "word": " it.",
+          "start": 218.46,
+          "end": 218.72,
+          "start_time": "0:03:38",
+          "end_time": "0:03:38"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 219.18,
+      "end": 221.6,
+      "start_time": "0:03:39",
+      "end_time": "0:03:41",
+      "text": "A moving charge particle can create a magnetic field.",
+      "words": [
+        {
+          "word": " A",
+          "start": 219.18,
+          "end": 219.3,
+          "start_time": "0:03:39",
+          "end_time": "0:03:39"
+        },
+        {
+          "word": " moving",
+          "start": 219.3,
+          "end": 219.48,
+          "start_time": "0:03:39",
+          "end_time": "0:03:39"
+        },
+        {
+          "word": " charge",
+          "start": 219.48,
+          "end": 219.82,
+          "start_time": "0:03:39",
+          "end_time": "0:03:39"
+        },
+        {
+          "word": " particle",
+          "start": 219.82,
+          "end": 220.34,
+          "start_time": "0:03:39",
+          "end_time": "0:03:40"
+        },
+        {
+          "word": " can",
+          "start": 220.34,
+          "end": 220.56,
+          "start_time": "0:03:40",
+          "end_time": "0:03:40"
+        },
+        {
+          "word": " create",
+          "start": 220.56,
+          "end": 220.86,
+          "start_time": "0:03:40",
+          "end_time": "0:03:40"
+        },
+        {
+          "word": " a",
+          "start": 220.86,
+          "end": 221.0,
+          "start_time": "0:03:40",
+          "end_time": "0:03:41"
+        },
+        {
+          "word": " magnetic",
+          "start": 221.0,
+          "end": 221.2,
+          "start_time": "0:03:41",
+          "end_time": "0:03:41"
+        },
+        {
+          "word": " field.",
+          "start": 221.2,
+          "end": 221.6,
+          "start_time": "0:03:41",
+          "end_time": "0:03:41"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 221.6,
+      "end": 228.82,
+      "start_time": "0:03:41",
+      "end_time": "0:03:48",
+      "text": "But an accelerating charge particle can create a propagating electromagnetic wave.",
+      "words": [
+        {
+          "word": " But",
+          "start": 221.6,
+          "end": 222.56,
+          "start_time": "0:03:41",
+          "end_time": "0:03:42"
+        },
+        {
+          "word": " an",
+          "start": 222.56,
+          "end": 222.8,
+          "start_time": "0:03:42",
+          "end_time": "0:03:42"
+        },
+        {
+          "word": " accelerating",
+          "start": 222.8,
+          "end": 223.32,
+          "start_time": "0:03:42",
+          "end_time": "0:03:43"
+        },
+        {
+          "word": " charge",
+          "start": 223.32,
+          "end": 223.8,
+          "start_time": "0:03:43",
+          "end_time": "0:03:43"
+        },
+        {
+          "word": " particle",
+          "start": 223.8,
+          "end": 224.4,
+          "start_time": "0:03:43",
+          "end_time": "0:03:44"
+        },
+        {
+          "word": " can",
+          "start": 224.4,
+          "end": 225.58,
+          "start_time": "0:03:44",
+          "end_time": "0:03:45"
+        },
+        {
+          "word": " create",
+          "start": 225.58,
+          "end": 226.14,
+          "start_time": "0:03:45",
+          "end_time": "0:03:46"
+        },
+        {
+          "word": " a",
+          "start": 226.14,
+          "end": 226.54,
+          "start_time": "0:03:46",
+          "end_time": "0:03:46"
+        },
+        {
+          "word": " propagating",
+          "start": 226.54,
+          "end": 227.24,
+          "start_time": "0:03:46",
+          "end_time": "0:03:47"
+        },
+        {
+          "word": " electromagnetic",
+          "start": 227.24,
+          "end": 228.16,
+          "start_time": "0:03:47",
+          "end_time": "0:03:48"
+        },
+        {
+          "word": " wave.",
+          "start": 228.16,
+          "end": 228.82,
+          "start_time": "0:03:48",
+          "end_time": "0:03:48"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 234.3,
+      "end": 235.48,
+      "start_time": "0:03:54",
+      "end_time": "0:03:55",
+      "text": "Here's another example.",
+      "words": [
+        {
+          "word": " Here's",
+          "start": 234.3,
+          "end": 234.86,
+          "start_time": "0:03:54",
+          "end_time": "0:03:54"
+        },
+        {
+          "word": " another",
+          "start": 234.86,
+          "end": 235.0,
+          "start_time": "0:03:54",
+          "end_time": "0:03:55"
+        },
+        {
+          "word": " example.",
+          "start": 235.0,
+          "end": 235.48,
+          "start_time": "0:03:55",
+          "end_time": "0:03:55"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 236.22,
+      "end": 237.72,
+      "start_time": "0:03:56",
+      "end_time": "0:03:57",
+      "text": "So let's say we have a hydrogen atom.",
+      "words": [
+        {
+          "word": " So",
+          "start": 236.22,
+          "end": 236.34,
+          "start_time": "0:03:56",
+          "end_time": "0:03:56"
+        },
+        {
+          "word": " let's",
+          "start": 236.34,
+          "end": 236.54,
+          "start_time": "0:03:56",
+          "end_time": "0:03:56"
+        },
+        {
+          "word": " say",
+          "start": 236.54,
+          "end": 236.68,
+          "start_time": "0:03:56",
+          "end_time": "0:03:56"
+        },
+        {
+          "word": " we",
+          "start": 236.68,
+          "end": 236.84,
+          "start_time": "0:03:56",
+          "end_time": "0:03:56"
+        },
+        {
+          "word": " have",
+          "start": 236.84,
+          "end": 236.98,
+          "start_time": "0:03:56",
+          "end_time": "0:03:56"
+        },
+        {
+          "word": " a",
+          "start": 236.98,
+          "end": 237.12,
+          "start_time": "0:03:56",
+          "end_time": "0:03:57"
+        },
+        {
+          "word": " hydrogen",
+          "start": 237.12,
+          "end": 237.42,
+          "start_time": "0:03:57",
+          "end_time": "0:03:57"
+        },
+        {
+          "word": " atom.",
+          "start": 237.42,
+          "end": 237.72,
+          "start_time": "0:03:57",
+          "end_time": "0:03:57"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 239.2,
+      "end": 241.38,
+      "start_time": "0:03:59",
+      "end_time": "0:04:01",
+      "text": "And let's say this is the first energy level.",
+      "words": [
+        {
+          "word": " And",
+          "start": 239.2,
+          "end": 239.54,
+          "start_time": "0:03:59",
+          "end_time": "0:03:59"
+        },
+        {
+          "word": " let's",
+          "start": 239.54,
+          "end": 239.7,
+          "start_time": "0:03:59",
+          "end_time": "0:03:59"
+        },
+        {
+          "word": " say",
+          "start": 239.7,
+          "end": 239.84,
+          "start_time": "0:03:59",
+          "end_time": "0:03:59"
+        },
+        {
+          "word": " this",
+          "start": 239.84,
+          "end": 240.16,
+          "start_time": "0:03:59",
+          "end_time": "0:04:00"
+        },
+        {
+          "word": " is",
+          "start": 240.16,
+          "end": 240.3,
+          "start_time": "0:04:00",
+          "end_time": "0:04:00"
+        },
+        {
+          "word": " the",
+          "start": 240.3,
+          "end": 240.44,
+          "start_time": "0:04:00",
+          "end_time": "0:04:00"
+        },
+        {
+          "word": " first",
+          "start": 240.44,
+          "end": 240.72,
+          "start_time": "0:04:00",
+          "end_time": "0:04:00"
+        },
+        {
+          "word": " energy",
+          "start": 240.72,
+          "end": 241.12,
+          "start_time": "0:04:00",
+          "end_time": "0:04:01"
+        },
+        {
+          "word": " level.",
+          "start": 241.12,
+          "end": 241.38,
+          "start_time": "0:04:01",
+          "end_time": "0:04:01"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 241.52,
+      "end": 242.3,
+      "start_time": "0:04:01",
+      "end_time": "0:04:02",
+      "text": "This one is the second.",
+      "words": [
+        {
+          "word": " This",
+          "start": 241.52,
+          "end": 241.64,
+          "start_time": "0:04:01",
+          "end_time": "0:04:01"
+        },
+        {
+          "word": " one",
+          "start": 241.64,
+          "end": 241.78,
+          "start_time": "0:04:01",
+          "end_time": "0:04:01"
+        },
+        {
+          "word": " is",
+          "start": 241.78,
+          "end": 241.92,
+          "start_time": "0:04:01",
+          "end_time": "0:04:01"
+        },
+        {
+          "word": " the",
+          "start": 241.92,
+          "end": 241.98,
+          "start_time": "0:04:01",
+          "end_time": "0:04:01"
+        },
+        {
+          "word": " second.",
+          "start": 241.98,
+          "end": 242.3,
+          "start_time": "0:04:01",
+          "end_time": "0:04:02"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 242.84,
+      "end": 244.76,
+      "start_time": "0:04:02",
+      "end_time": "0:04:04",
+      "text": "And let's say this is the third energy level.",
+      "words": [
+        {
+          "word": " And",
+          "start": 242.84,
+          "end": 243.22,
+          "start_time": "0:04:02",
+          "end_time": "0:04:03"
+        },
+        {
+          "word": " let's",
+          "start": 243.22,
+          "end": 243.4,
+          "start_time": "0:04:03",
+          "end_time": "0:04:03"
+        },
+        {
+          "word": " say",
+          "start": 243.4,
+          "end": 243.5,
+          "start_time": "0:04:03",
+          "end_time": "0:04:03"
+        },
+        {
+          "word": " this",
+          "start": 243.5,
+          "end": 243.64,
+          "start_time": "0:04:03",
+          "end_time": "0:04:03"
+        },
+        {
+          "word": " is",
+          "start": 243.64,
+          "end": 243.8,
+          "start_time": "0:04:03",
+          "end_time": "0:04:03"
+        },
+        {
+          "word": " the",
+          "start": 243.8,
+          "end": 243.92,
+          "start_time": "0:04:03",
+          "end_time": "0:04:03"
+        },
+        {
+          "word": " third",
+          "start": 243.92,
+          "end": 244.16,
+          "start_time": "0:04:03",
+          "end_time": "0:04:04"
+        },
+        {
+          "word": " energy",
+          "start": 244.16,
+          "end": 244.5,
+          "start_time": "0:04:04",
+          "end_time": "0:04:04"
+        },
+        {
+          "word": " level.",
+          "start": 244.5,
+          "end": 244.76,
+          "start_time": "0:04:04",
+          "end_time": "0:04:04"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 248.08,
+      "end": 253.86,
+      "start_time": "0:04:08",
+      "end_time": "0:04:13",
+      "text": "Let's say we have an electron, an excited electron, in a third energy level.",
+      "words": [
+        {
+          "word": " Let's",
+          "start": 248.08,
+          "end": 248.68,
+          "start_time": "0:04:08",
+          "end_time": "0:04:08"
+        },
+        {
+          "word": " say",
+          "start": 248.68,
+          "end": 248.8,
+          "start_time": "0:04:08",
+          "end_time": "0:04:08"
+        },
+        {
+          "word": " we",
+          "start": 248.8,
+          "end": 248.92,
+          "start_time": "0:04:08",
+          "end_time": "0:04:08"
+        },
+        {
+          "word": " have",
+          "start": 248.92,
+          "end": 249.08,
+          "start_time": "0:04:08",
+          "end_time": "0:04:09"
+        },
+        {
+          "word": " an",
+          "start": 249.08,
+          "end": 249.2,
+          "start_time": "0:04:09",
+          "end_time": "0:04:09"
+        },
+        {
+          "word": " electron,",
+          "start": 249.2,
+          "end": 249.62,
+          "start_time": "0:04:09",
+          "end_time": "0:04:09"
+        },
+        {
+          "word": " an",
+          "start": 250.3,
+          "end": 250.94,
+          "start_time": "0:04:10",
+          "end_time": "0:04:10"
+        },
+        {
+          "word": " excited",
+          "start": 250.94,
+          "end": 251.4,
+          "start_time": "0:04:10",
+          "end_time": "0:04:11"
+        },
+        {
+          "word": " electron,",
+          "start": 251.4,
+          "end": 251.96,
+          "start_time": "0:04:11",
+          "end_time": "0:04:11"
+        },
+        {
+          "word": " in",
+          "start": 252.28,
+          "end": 252.78,
+          "start_time": "0:04:12",
+          "end_time": "0:04:12"
+        },
+        {
+          "word": " a",
+          "start": 252.78,
+          "end": 252.9,
+          "start_time": "0:04:12",
+          "end_time": "0:04:12"
+        },
+        {
+          "word": " third",
+          "start": 252.9,
+          "end": 253.18,
+          "start_time": "0:04:12",
+          "end_time": "0:04:13"
+        },
+        {
+          "word": " energy",
+          "start": 253.18,
+          "end": 253.58,
+          "start_time": "0:04:13",
+          "end_time": "0:04:13"
+        },
+        {
+          "word": " level.",
+          "start": 253.58,
+          "end": 253.86,
+          "start_time": "0:04:13",
+          "end_time": "0:04:13"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 256.16,
+      "end": 261.88,
+      "start_time": "0:04:16",
+      "end_time": "0:04:21",
+      "text": "When the electron drops from the third energy level to the second energy level,",
+      "words": [
+        {
+          "word": " When",
+          "start": 256.16,
+          "end": 256.76,
+          "start_time": "0:04:16",
+          "end_time": "0:04:16"
+        },
+        {
+          "word": " the",
+          "start": 256.76,
+          "end": 257.02,
+          "start_time": "0:04:16",
+          "end_time": "0:04:17"
+        },
+        {
+          "word": " electron",
+          "start": 257.02,
+          "end": 257.5,
+          "start_time": "0:04:17",
+          "end_time": "0:04:17"
+        },
+        {
+          "word": " drops",
+          "start": 257.5,
+          "end": 258.6,
+          "start_time": "0:04:17",
+          "end_time": "0:04:18"
+        },
+        {
+          "word": " from",
+          "start": 258.6,
+          "end": 258.9,
+          "start_time": "0:04:18",
+          "end_time": "0:04:18"
+        },
+        {
+          "word": " the",
+          "start": 258.9,
+          "end": 259.02,
+          "start_time": "0:04:18",
+          "end_time": "0:04:19"
+        },
+        {
+          "word": " third",
+          "start": 259.02,
+          "end": 259.24,
+          "start_time": "0:04:19",
+          "end_time": "0:04:19"
+        },
+        {
+          "word": " energy",
+          "start": 259.24,
+          "end": 259.56,
+          "start_time": "0:04:19",
+          "end_time": "0:04:19"
+        },
+        {
+          "word": " level",
+          "start": 259.56,
+          "end": 259.82,
+          "start_time": "0:04:19",
+          "end_time": "0:04:19"
+        },
+        {
+          "word": " to",
+          "start": 259.82,
+          "end": 260.82,
+          "start_time": "0:04:19",
+          "end_time": "0:04:20"
+        },
+        {
+          "word": " the",
+          "start": 260.82,
+          "end": 261.04,
+          "start_time": "0:04:20",
+          "end_time": "0:04:21"
+        },
+        {
+          "word": " second",
+          "start": 261.04,
+          "end": 261.34,
+          "start_time": "0:04:21",
+          "end_time": "0:04:21"
+        },
+        {
+          "word": " energy",
+          "start": 261.34,
+          "end": 261.62,
+          "start_time": "0:04:21",
+          "end_time": "0:04:21"
+        },
+        {
+          "word": " level,",
+          "start": 261.62,
+          "end": 261.88,
+          "start_time": "0:04:21",
+          "end_time": "0:04:21"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 262.6,
+      "end": 263.9,
+      "start_time": "0:04:22",
+      "end_time": "0:04:23",
+      "text": "or even lower than that,",
+      "words": [
+        {
+          "word": " or",
+          "start": 262.6,
+          "end": 262.94,
+          "start_time": "0:04:22",
+          "end_time": "0:04:22"
+        },
+        {
+          "word": " even",
+          "start": 262.94,
+          "end": 263.24,
+          "start_time": "0:04:22",
+          "end_time": "0:04:23"
+        },
+        {
+          "word": " lower",
+          "start": 263.24,
+          "end": 263.44,
+          "start_time": "0:04:23",
+          "end_time": "0:04:23"
+        },
+        {
+          "word": " than",
+          "start": 263.44,
+          "end": 263.58,
+          "start_time": "0:04:23",
+          "end_time": "0:04:23"
+        },
+        {
+          "word": " that,",
+          "start": 263.58,
+          "end": 263.9,
+          "start_time": "0:04:23",
+          "end_time": "0:04:23"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 264.56,
+      "end": 267.7,
+      "start_time": "0:04:24",
+      "end_time": "0:04:27",
+      "text": "any time it goes from a high energy level to a low energy level,",
+      "words": [
+        {
+          "word": " any",
+          "start": 264.56,
+          "end": 264.78,
+          "start_time": "0:04:24",
+          "end_time": "0:04:24"
+        },
+        {
+          "word": " time",
+          "start": 264.78,
+          "end": 265.02,
+          "start_time": "0:04:24",
+          "end_time": "0:04:25"
+        },
+        {
+          "word": " it",
+          "start": 265.02,
+          "end": 265.62,
+          "start_time": "0:04:25",
+          "end_time": "0:04:25"
+        },
+        {
+          "word": " goes",
+          "start": 265.62,
+          "end": 265.78,
+          "start_time": "0:04:25",
+          "end_time": "0:04:25"
+        },
+        {
+          "word": " from",
+          "start": 265.78,
+          "end": 265.98,
+          "start_time": "0:04:25",
+          "end_time": "0:04:25"
+        },
+        {
+          "word": " a",
+          "start": 265.98,
+          "end": 266.06,
+          "start_time": "0:04:25",
+          "end_time": "0:04:26"
+        },
+        {
+          "word": " high",
+          "start": 266.06,
+          "end": 266.2,
+          "start_time": "0:04:26",
+          "end_time": "0:04:26"
+        },
+        {
+          "word": " energy",
+          "start": 266.2,
+          "end": 266.46,
+          "start_time": "0:04:26",
+          "end_time": "0:04:26"
+        },
+        {
+          "word": " level",
+          "start": 266.46,
+          "end": 266.7,
+          "start_time": "0:04:26",
+          "end_time": "0:04:26"
+        },
+        {
+          "word": " to",
+          "start": 266.7,
+          "end": 266.94,
+          "start_time": "0:04:26",
+          "end_time": "0:04:26"
+        },
+        {
+          "word": " a",
+          "start": 266.94,
+          "end": 267.02,
+          "start_time": "0:04:26",
+          "end_time": "0:04:27"
+        },
+        {
+          "word": " low",
+          "start": 267.02,
+          "end": 267.16,
+          "start_time": "0:04:27",
+          "end_time": "0:04:27"
+        },
+        {
+          "word": " energy",
+          "start": 267.16,
+          "end": 267.38,
+          "start_time": "0:04:27",
+          "end_time": "0:04:27"
+        },
+        {
+          "word": " level,",
+          "start": 267.38,
+          "end": 267.7,
+          "start_time": "0:04:27",
+          "end_time": "0:04:27"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 268.34,
+      "end": 271.44,
+      "start_time": "0:04:28",
+      "end_time": "0:04:31",
+      "text": "it can emit an electromagnetic wave.",
+      "words": [
+        {
+          "word": " it",
+          "start": 268.34,
+          "end": 268.94,
+          "start_time": "0:04:28",
+          "end_time": "0:04:28"
+        },
+        {
+          "word": " can",
+          "start": 268.94,
+          "end": 269.16,
+          "start_time": "0:04:28",
+          "end_time": "0:04:29"
+        },
+        {
+          "word": " emit",
+          "start": 269.16,
+          "end": 269.54,
+          "start_time": "0:04:29",
+          "end_time": "0:04:29"
+        },
+        {
+          "word": " an",
+          "start": 269.54,
+          "end": 270.48,
+          "start_time": "0:04:29",
+          "end_time": "0:04:30"
+        },
+        {
+          "word": " electromagnetic",
+          "start": 270.48,
+          "end": 270.96,
+          "start_time": "0:04:30",
+          "end_time": "0:04:30"
+        },
+        {
+          "word": " wave.",
+          "start": 270.96,
+          "end": 271.44,
+          "start_time": "0:04:30",
+          "end_time": "0:04:31"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 278.03999999999996,
+      "end": 280.42,
+      "start_time": "0:04:38",
+      "end_time": "0:04:40",
+      "text": "Sometimes it can emit a full ton of light.",
+      "words": [
+        {
+          "word": " Sometimes",
+          "start": 278.03999999999996,
+          "end": 278.64,
+          "start_time": "0:04:38",
+          "end_time": "0:04:38"
+        },
+        {
+          "word": " it",
+          "start": 278.64,
+          "end": 278.98,
+          "start_time": "0:04:38",
+          "end_time": "0:04:38"
+        },
+        {
+          "word": " can",
+          "start": 278.98,
+          "end": 279.14,
+          "start_time": "0:04:38",
+          "end_time": "0:04:39"
+        },
+        {
+          "word": " emit",
+          "start": 279.14,
+          "end": 279.36,
+          "start_time": "0:04:39",
+          "end_time": "0:04:39"
+        },
+        {
+          "word": " a",
+          "start": 279.36,
+          "end": 279.56,
+          "start_time": "0:04:39",
+          "end_time": "0:04:39"
+        },
+        {
+          "word": " full",
+          "start": 279.56,
+          "end": 279.74,
+          "start_time": "0:04:39",
+          "end_time": "0:04:39"
+        },
+        {
+          "word": " ton",
+          "start": 279.74,
+          "end": 279.96,
+          "start_time": "0:04:39",
+          "end_time": "0:04:39"
+        },
+        {
+          "word": " of",
+          "start": 279.96,
+          "end": 280.14,
+          "start_time": "0:04:39",
+          "end_time": "0:04:40"
+        },
+        {
+          "word": " light.",
+          "start": 280.14,
+          "end": 280.42,
+          "start_time": "0:04:40",
+          "end_time": "0:04:40"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 282.64,
+      "end": 291.52,
+      "start_time": "0:04:42",
+      "end_time": "0:04:51",
+      "text": "Now for the hydrogen atom, the energy of the full ton that's emitted is equal to negative 2.18 times 10 to the negative 18 joules,",
+      "words": [
+        {
+          "word": " Now",
+          "start": 282.64,
+          "end": 283.24,
+          "start_time": "0:04:42",
+          "end_time": "0:04:43"
+        },
+        {
+          "word": " for",
+          "start": 283.24,
+          "end": 283.38,
+          "start_time": "0:04:43",
+          "end_time": "0:04:43"
+        },
+        {
+          "word": " the",
+          "start": 283.38,
+          "end": 283.5,
+          "start_time": "0:04:43",
+          "end_time": "0:04:43"
+        },
+        {
+          "word": " hydrogen",
+          "start": 283.5,
+          "end": 283.8,
+          "start_time": "0:04:43",
+          "end_time": "0:04:43"
+        },
+        {
+          "word": " atom,",
+          "start": 283.8,
+          "end": 284.06,
+          "start_time": "0:04:43",
+          "end_time": "0:04:44"
+        },
+        {
+          "word": " the",
+          "start": 284.66,
+          "end": 284.72,
+          "start_time": "0:04:44",
+          "end_time": "0:04:44"
+        },
+        {
+          "word": " energy",
+          "start": 284.72,
+          "end": 285.14,
+          "start_time": "0:04:44",
+          "end_time": "0:04:45"
+        },
+        {
+          "word": " of",
+          "start": 285.14,
+          "end": 285.48,
+          "start_time": "0:04:45",
+          "end_time": "0:04:45"
+        },
+        {
+          "word": " the",
+          "start": 285.48,
+          "end": 285.64,
+          "start_time": "0:04:45",
+          "end_time": "0:04:45"
+        },
+        {
+          "word": " full",
+          "start": 285.64,
+          "end": 285.82,
+          "start_time": "0:04:45",
+          "end_time": "0:04:45"
+        },
+        {
+          "word": " ton",
+          "start": 285.82,
+          "end": 286.02,
+          "start_time": "0:04:45",
+          "end_time": "0:04:46"
+        },
+        {
+          "word": " that's",
+          "start": 286.02,
+          "end": 286.24,
+          "start_time": "0:04:46",
+          "end_time": "0:04:46"
+        },
+        {
+          "word": " emitted",
+          "start": 286.24,
+          "end": 286.48,
+          "start_time": "0:04:46",
+          "end_time": "0:04:46"
+        },
+        {
+          "word": " is",
+          "start": 286.48,
+          "end": 286.84,
+          "start_time": "0:04:46",
+          "end_time": "0:04:46"
+        },
+        {
+          "word": " equal",
+          "start": 286.84,
+          "end": 287.04,
+          "start_time": "0:04:46",
+          "end_time": "0:04:47"
+        },
+        {
+          "word": " to",
+          "start": 287.04,
+          "end": 287.2,
+          "start_time": "0:04:47",
+          "end_time": "0:04:47"
+        },
+        {
+          "word": " negative",
+          "start": 287.2,
+          "end": 287.5,
+          "start_time": "0:04:47",
+          "end_time": "0:04:47"
+        },
+        {
+          "word": " 2",
+          "start": 287.5,
+          "end": 287.94,
+          "start_time": "0:04:47",
+          "end_time": "0:04:47"
+        },
+        {
+          "word": ".18",
+          "start": 287.94,
+          "end": 288.58,
+          "start_time": "0:04:47",
+          "end_time": "0:04:48"
+        },
+        {
+          "word": " times",
+          "start": 288.58,
+          "end": 289.58,
+          "start_time": "0:04:48",
+          "end_time": "0:04:49"
+        },
+        {
+          "word": " 10",
+          "start": 289.58,
+          "end": 290.0,
+          "start_time": "0:04:49",
+          "end_time": "0:04:50"
+        },
+        {
+          "word": " to",
+          "start": 290.0,
+          "end": 290.18,
+          "start_time": "0:04:50",
+          "end_time": "0:04:50"
+        },
+        {
+          "word": " the",
+          "start": 290.18,
+          "end": 290.26,
+          "start_time": "0:04:50",
+          "end_time": "0:04:50"
+        },
+        {
+          "word": " negative",
+          "start": 290.26,
+          "end": 290.46,
+          "start_time": "0:04:50",
+          "end_time": "0:04:50"
+        },
+        {
+          "word": " 18",
+          "start": 290.46,
+          "end": 290.88,
+          "start_time": "0:04:50",
+          "end_time": "0:04:50"
+        },
+        {
+          "word": " joules,",
+          "start": 290.88,
+          "end": 291.52,
+          "start_time": "0:04:50",
+          "end_time": "0:04:51"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 292.79999999999995,
+      "end": 297.58,
+      "start_time": "0:04:52",
+      "end_time": "0:04:57",
+      "text": "times 1 over n final squared minus 1 over n initial squared,",
+      "words": [
+        {
+          "word": " times",
+          "start": 292.79999999999995,
+          "end": 293.4,
+          "start_time": "0:04:52",
+          "end_time": "0:04:53"
+        },
+        {
+          "word": " 1",
+          "start": 293.4,
+          "end": 293.64,
+          "start_time": "0:04:53",
+          "end_time": "0:04:53"
+        },
+        {
+          "word": " over",
+          "start": 293.64,
+          "end": 293.96,
+          "start_time": "0:04:53",
+          "end_time": "0:04:53"
+        },
+        {
+          "word": " n",
+          "start": 293.96,
+          "end": 294.16,
+          "start_time": "0:04:53",
+          "end_time": "0:04:54"
+        },
+        {
+          "word": " final",
+          "start": 294.16,
+          "end": 294.56,
+          "start_time": "0:04:54",
+          "end_time": "0:04:54"
+        },
+        {
+          "word": " squared",
+          "start": 294.56,
+          "end": 294.96,
+          "start_time": "0:04:54",
+          "end_time": "0:04:54"
+        },
+        {
+          "word": " minus",
+          "start": 294.96,
+          "end": 295.74,
+          "start_time": "0:04:54",
+          "end_time": "0:04:55"
+        },
+        {
+          "word": " 1",
+          "start": 295.74,
+          "end": 296.1,
+          "start_time": "0:04:55",
+          "end_time": "0:04:56"
+        },
+        {
+          "word": " over",
+          "start": 296.1,
+          "end": 296.5,
+          "start_time": "0:04:56",
+          "end_time": "0:04:56"
+        },
+        {
+          "word": " n",
+          "start": 296.5,
+          "end": 296.84,
+          "start_time": "0:04:56",
+          "end_time": "0:04:56"
+        },
+        {
+          "word": " initial",
+          "start": 296.84,
+          "end": 297.14,
+          "start_time": "0:04:56",
+          "end_time": "0:04:57"
+        },
+        {
+          "word": " squared,",
+          "start": 297.14,
+          "end": 297.58,
+          "start_time": "0:04:57",
+          "end_time": "0:04:57"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 298.22,
+      "end": 302.36,
+      "start_time": "0:04:58",
+      "end_time": "0:05:02",
+      "text": "where n is the energy level of the electron.",
+      "words": [
+        {
+          "word": " where",
+          "start": 298.22,
+          "end": 298.64,
+          "start_time": "0:04:58",
+          "end_time": "0:04:58"
+        },
+        {
+          "word": " n",
+          "start": 298.64,
+          "end": 298.84,
+          "start_time": "0:04:58",
+          "end_time": "0:04:58"
+        },
+        {
+          "word": " is",
+          "start": 298.84,
+          "end": 299.0,
+          "start_time": "0:04:58",
+          "end_time": "0:04:59"
+        },
+        {
+          "word": " the",
+          "start": 299.0,
+          "end": 299.16,
+          "start_time": "0:04:59",
+          "end_time": "0:04:59"
+        },
+        {
+          "word": " energy",
+          "start": 299.16,
+          "end": 299.64,
+          "start_time": "0:04:59",
+          "end_time": "0:04:59"
+        },
+        {
+          "word": " level",
+          "start": 299.64,
+          "end": 299.92,
+          "start_time": "0:04:59",
+          "end_time": "0:04:59"
+        },
+        {
+          "word": " of",
+          "start": 299.92,
+          "end": 301.82,
+          "start_time": "0:04:59",
+          "end_time": "0:05:01"
+        },
+        {
+          "word": " the",
+          "start": 301.82,
+          "end": 301.98,
+          "start_time": "0:05:01",
+          "end_time": "0:05:01"
+        },
+        {
+          "word": " electron.",
+          "start": 301.98,
+          "end": 302.36,
+          "start_time": "0:05:01",
+          "end_time": "0:05:02"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 302.36,
+      "end": 305.28,
+      "start_time": "0:05:02",
+      "end_time": "0:05:05",
+      "text": "This is the initial energy level.",
+      "words": [
+        {
+          "word": " This",
+          "start": 302.36,
+          "end": 302.96,
+          "start_time": "0:05:02",
+          "end_time": "0:05:02"
+        },
+        {
+          "word": " is",
+          "start": 302.96,
+          "end": 303.14,
+          "start_time": "0:05:02",
+          "end_time": "0:05:03"
+        },
+        {
+          "word": " the",
+          "start": 303.14,
+          "end": 303.36,
+          "start_time": "0:05:03",
+          "end_time": "0:05:03"
+        },
+        {
+          "word": " initial",
+          "start": 303.36,
+          "end": 304.68,
+          "start_time": "0:05:03",
+          "end_time": "0:05:04"
+        },
+        {
+          "word": " energy",
+          "start": 304.68,
+          "end": 305.0,
+          "start_time": "0:05:04",
+          "end_time": "0:05:05"
+        },
+        {
+          "word": " level.",
+          "start": 305.0,
+          "end": 305.28,
+          "start_time": "0:05:05",
+          "end_time": "0:05:05"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 305.46,
+      "end": 306.92,
+      "start_time": "0:05:05",
+      "end_time": "0:05:06",
+      "text": "In this case that will be n equal 3.",
+      "words": [
+        {
+          "word": " In",
+          "start": 305.46,
+          "end": 305.5,
+          "start_time": "0:05:05",
+          "end_time": "0:05:05"
+        },
+        {
+          "word": " this",
+          "start": 305.5,
+          "end": 305.64,
+          "start_time": "0:05:05",
+          "end_time": "0:05:05"
+        },
+        {
+          "word": " case",
+          "start": 305.64,
+          "end": 305.82,
+          "start_time": "0:05:05",
+          "end_time": "0:05:05"
+        },
+        {
+          "word": " that",
+          "start": 305.82,
+          "end": 306.04,
+          "start_time": "0:05:05",
+          "end_time": "0:05:06"
+        },
+        {
+          "word": " will",
+          "start": 306.04,
+          "end": 306.18,
+          "start_time": "0:05:06",
+          "end_time": "0:05:06"
+        },
+        {
+          "word": " be",
+          "start": 306.18,
+          "end": 306.32,
+          "start_time": "0:05:06",
+          "end_time": "0:05:06"
+        },
+        {
+          "word": " n",
+          "start": 306.32,
+          "end": 306.5,
+          "start_time": "0:05:06",
+          "end_time": "0:05:06"
+        },
+        {
+          "word": " equal",
+          "start": 306.5,
+          "end": 306.66,
+          "start_time": "0:05:06",
+          "end_time": "0:05:06"
+        },
+        {
+          "word": " 3.",
+          "start": 306.66,
+          "end": 306.92,
+          "start_time": "0:05:06",
+          "end_time": "0:05:06"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 307.42,
+      "end": 308.7,
+      "start_time": "0:05:07",
+      "end_time": "0:05:08",
+      "text": "This is the final energy level.",
+      "words": [
+        {
+          "word": " This",
+          "start": 307.42,
+          "end": 307.6,
+          "start_time": "0:05:07",
+          "end_time": "0:05:07"
+        },
+        {
+          "word": " is",
+          "start": 307.6,
+          "end": 307.72,
+          "start_time": "0:05:07",
+          "end_time": "0:05:07"
+        },
+        {
+          "word": " the",
+          "start": 307.72,
+          "end": 307.86,
+          "start_time": "0:05:07",
+          "end_time": "0:05:07"
+        },
+        {
+          "word": " final",
+          "start": 307.86,
+          "end": 308.12,
+          "start_time": "0:05:07",
+          "end_time": "0:05:08"
+        },
+        {
+          "word": " energy",
+          "start": 308.12,
+          "end": 308.42,
+          "start_time": "0:05:08",
+          "end_time": "0:05:08"
+        },
+        {
+          "word": " level.",
+          "start": 308.42,
+          "end": 308.7,
+          "start_time": "0:05:08",
+          "end_time": "0:05:08"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "start": 308.82,
+      "end": 310.44,
+      "start_time": "0:05:08",
+      "end_time": "0:05:10",
+      "text": "That's where it's going to n equal 2.",
+      "words": [
+        {
+          "word": " That's",
+          "start": 308.82,
+          "end": 309.0,
+          "start_time": "0:05:08",
+          "end_time": "0:05:09"
+        },
+        {
+          "word": " where",
+          "start": 309.0,
+          "end": 309.08,
+          "start_time": "0:05:09",
+          "end_time": "0:05:09"
+        },
+        {
+          "word": " it's",
+          "start": 309.08,
+          "end": 309.24,
+          "start_time": "0:05:09",
+          "end_time": "0:05:09"
+        },
+        {
+          "word": " going",
+          "start": 309.24,
+          "end": 309.44,
+          "start_time": "0:05:09",
+          "end_time": "0:05:09"
+        },
+        {
+          "word": " to",
+          "start": 309.44,
+          "end": 309.68,
+          "start_time": "0:05:09",
+          "end_time": "0:05:09"
+        },
+        {
+          "word": " n",
+          "start": 309.68,
+          "end": 310.04,
+          "start_time": "0:05:09",
+          "end_time": "0:05:10"
+        },
+        {
+          "word": " equal",
+          "start": 310.04,
+          "end": 310.22,
+          "start_time": "0:05:10",
+          "end_time": "0:05:10"
+        },
+        {
+          "word": " 2.",
+          "start": 310.22,
+          "end": 310.44,
+          "start_time": "0:05:10",
+          "end_time": "0:05:10"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "start": 312.34,
+      "end": 314.2,
+      "start_time": "0:05:12",
+      "end_time": "0:05:14",
+      "text": "When an electron absorbs a full ton,",
+      "words": [
+        {
+          "word": " When",
+          "start": 312.34,
+          "end": 312.58,
+          "start_time": "0:05:12",
+          "end_time": "0:05:12"
+        },
+        {
+          "word": " an",
+          "start": 312.58,
+          "end": 312.74,
+          "start_time": "0:05:12",
+          "end_time": "0:05:12"
+        },
+        {
+          "word": " electron",
+          "start": 312.74,
+          "end": 313.14,
+          "start_time": "0:05:12",
+          "end_time": "0:05:13"
+        },
+        {
+          "word": " absorbs",
+          "start": 313.14,
+          "end": 313.52,
+          "start_time": "0:05:13",
+          "end_time": "0:05:13"
+        },
+        {
+          "word": " a",
+          "start": 313.52,
+          "end": 313.82,
+          "start_time": "0:05:13",
+          "end_time": "0:05:13"
+        },
+        {
+          "word": " full",
+          "start": 313.82,
+          "end": 313.96,
+          "start_time": "0:05:13",
+          "end_time": "0:05:13"
+        },
+        {
+          "word": " ton,",
+          "start": 313.96,
+          "end": 314.2,
+          "start_time": "0:05:13",
+          "end_time": "0:05:14"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "start": 314.88,
+      "end": 318.08,
+      "start_time": "0:05:14",
+      "end_time": "0:05:18",
+      "text": "it can jump from a low energy state to a high energy state.",
+      "words": [
+        {
+          "word": " it",
+          "start": 314.88,
+          "end": 315.3,
+          "start_time": "0:05:14",
+          "end_time": "0:05:15"
+        },
+        {
+          "word": " can",
+          "start": 315.3,
+          "end": 315.46,
+          "start_time": "0:05:15",
+          "end_time": "0:05:15"
+        },
+        {
+          "word": " jump",
+          "start": 315.46,
+          "end": 315.68,
+          "start_time": "0:05:15",
+          "end_time": "0:05:15"
+        },
+        {
+          "word": " from",
+          "start": 315.68,
+          "end": 315.94,
+          "start_time": "0:05:15",
+          "end_time": "0:05:15"
+        },
+        {
+          "word": " a",
+          "start": 315.94,
+          "end": 316.12,
+          "start_time": "0:05:15",
+          "end_time": "0:05:16"
+        },
+        {
+          "word": " low",
+          "start": 316.12,
+          "end": 316.28,
+          "start_time": "0:05:16",
+          "end_time": "0:05:16"
+        },
+        {
+          "word": " energy",
+          "start": 316.28,
+          "end": 316.58,
+          "start_time": "0:05:16",
+          "end_time": "0:05:16"
+        },
+        {
+          "word": " state",
+          "start": 316.58,
+          "end": 316.86,
+          "start_time": "0:05:16",
+          "end_time": "0:05:16"
+        },
+        {
+          "word": " to",
+          "start": 316.86,
+          "end": 317.18,
+          "start_time": "0:05:16",
+          "end_time": "0:05:17"
+        },
+        {
+          "word": " a",
+          "start": 317.18,
+          "end": 317.32,
+          "start_time": "0:05:17",
+          "end_time": "0:05:17"
+        },
+        {
+          "word": " high",
+          "start": 317.32,
+          "end": 317.48,
+          "start_time": "0:05:17",
+          "end_time": "0:05:17"
+        },
+        {
+          "word": " energy",
+          "start": 317.48,
+          "end": 317.72,
+          "start_time": "0:05:17",
+          "end_time": "0:05:17"
+        },
+        {
+          "word": " state.",
+          "start": 317.72,
+          "end": 318.08,
+          "start_time": "0:05:17",
+          "end_time": "0:05:18"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "start": 318.96,
+      "end": 321.9,
+      "start_time": "0:05:18",
+      "end_time": "0:05:21",
+      "text": "But when it falls from a high energy state to a low energy state,",
+      "words": [
+        {
+          "word": " But",
+          "start": 318.96,
+          "end": 319.44,
+          "start_time": "0:05:18",
+          "end_time": "0:05:19"
+        },
+        {
+          "word": " when",
+          "start": 319.44,
+          "end": 319.56,
+          "start_time": "0:05:19",
+          "end_time": "0:05:19"
+        },
+        {
+          "word": " it",
+          "start": 319.56,
+          "end": 319.68,
+          "start_time": "0:05:19",
+          "end_time": "0:05:19"
+        },
+        {
+          "word": " falls",
+          "start": 319.68,
+          "end": 319.86,
+          "start_time": "0:05:19",
+          "end_time": "0:05:19"
+        },
+        {
+          "word": " from",
+          "start": 319.86,
+          "end": 320.1,
+          "start_time": "0:05:19",
+          "end_time": "0:05:20"
+        },
+        {
+          "word": " a",
+          "start": 320.1,
+          "end": 320.22,
+          "start_time": "0:05:20",
+          "end_time": "0:05:20"
+        },
+        {
+          "word": " high",
+          "start": 320.22,
+          "end": 320.36,
+          "start_time": "0:05:20",
+          "end_time": "0:05:20"
+        },
+        {
+          "word": " energy",
+          "start": 320.36,
+          "end": 320.6,
+          "start_time": "0:05:20",
+          "end_time": "0:05:20"
+        },
+        {
+          "word": " state",
+          "start": 320.6,
+          "end": 320.86,
+          "start_time": "0:05:20",
+          "end_time": "0:05:20"
+        },
+        {
+          "word": " to",
+          "start": 320.86,
+          "end": 321.14,
+          "start_time": "0:05:20",
+          "end_time": "0:05:21"
+        },
+        {
+          "word": " a",
+          "start": 321.14,
+          "end": 321.24,
+          "start_time": "0:05:21",
+          "end_time": "0:05:21"
+        },
+        {
+          "word": " low",
+          "start": 321.24,
+          "end": 321.34,
+          "start_time": "0:05:21",
+          "end_time": "0:05:21"
+        },
+        {
+          "word": " energy",
+          "start": 321.34,
+          "end": 321.6,
+          "start_time": "0:05:21",
+          "end_time": "0:05:21"
+        },
+        {
+          "word": " state,",
+          "start": 321.6,
+          "end": 321.9,
+          "start_time": "0:05:21",
+          "end_time": "0:05:21"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "start": 321.9,
+      "end": 325.14,
+      "start_time": "0:05:21",
+      "end_time": "0:05:25",
+      "text": "it can release a full ton in the form of an electromagnetic wave.",
+      "words": [
+        {
+          "word": " it",
+          "start": 321.9,
+          "end": 322.04,
+          "start_time": "0:05:21",
+          "end_time": "0:05:22"
+        },
+        {
+          "word": " can",
+          "start": 322.04,
+          "end": 322.18,
+          "start_time": "0:05:22",
+          "end_time": "0:05:22"
+        },
+        {
+          "word": " release",
+          "start": 322.18,
+          "end": 322.44,
+          "start_time": "0:05:22",
+          "end_time": "0:05:22"
+        },
+        {
+          "word": " a",
+          "start": 322.44,
+          "end": 322.68,
+          "start_time": "0:05:22",
+          "end_time": "0:05:22"
+        },
+        {
+          "word": " full",
+          "start": 322.68,
+          "end": 322.82,
+          "start_time": "0:05:22",
+          "end_time": "0:05:22"
+        },
+        {
+          "word": " ton",
+          "start": 322.82,
+          "end": 323.08,
+          "start_time": "0:05:22",
+          "end_time": "0:05:23"
+        },
+        {
+          "word": " in",
+          "start": 323.08,
+          "end": 323.72,
+          "start_time": "0:05:23",
+          "end_time": "0:05:23"
+        },
+        {
+          "word": " the",
+          "start": 323.72,
+          "end": 323.82,
+          "start_time": "0:05:23",
+          "end_time": "0:05:23"
+        },
+        {
+          "word": " form",
+          "start": 323.82,
+          "end": 324.02,
+          "start_time": "0:05:23",
+          "end_time": "0:05:24"
+        },
+        {
+          "word": " of",
+          "start": 324.02,
+          "end": 324.26,
+          "start_time": "0:05:24",
+          "end_time": "0:05:24"
+        },
+        {
+          "word": " an",
+          "start": 324.26,
+          "end": 324.32,
+          "start_time": "0:05:24",
+          "end_time": "0:05:24"
+        },
+        {
+          "word": " electromagnetic",
+          "start": 324.32,
+          "end": 324.84,
+          "start_time": "0:05:24",
+          "end_time": "0:05:24"
+        },
+        {
+          "word": " wave.",
+          "start": 324.84,
+          "end": 325.14,
+          "start_time": "0:05:24",
+          "end_time": "0:05:25"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "start": 327.42,
+      "end": 328.68,
+      "start_time": "0:05:27",
+      "end_time": "0:05:28",
+      "text": "But now only that though,",
+      "words": [
+        {
+          "word": " But",
+          "start": 327.42,
+          "end": 327.9,
+          "start_time": "0:05:27",
+          "end_time": "0:05:27"
+        },
+        {
+          "word": " now",
+          "start": 327.9,
+          "end": 328.04,
+          "start_time": "0:05:27",
+          "end_time": "0:05:28"
+        },
+        {
+          "word": " only",
+          "start": 328.04,
+          "end": 328.2,
+          "start_time": "0:05:28",
+          "end_time": "0:05:28"
+        },
+        {
+          "word": " that",
+          "start": 328.2,
+          "end": 328.44,
+          "start_time": "0:05:28",
+          "end_time": "0:05:28"
+        },
+        {
+          "word": " though,",
+          "start": 328.44,
+          "end": 328.68,
+          "start_time": "0:05:28",
+          "end_time": "0:05:28"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "start": 329.36,
+      "end": 331.38,
+      "start_time": "0:05:29",
+      "end_time": "0:05:31",
+      "text": "when electrons are oscillating within the metal,",
+      "words": [
+        {
+          "word": " when",
+          "start": 329.36,
+          "end": 329.52,
+          "start_time": "0:05:29",
+          "end_time": "0:05:29"
+        },
+        {
+          "word": " electrons",
+          "start": 329.52,
+          "end": 329.92,
+          "start_time": "0:05:29",
+          "end_time": "0:05:29"
+        },
+        {
+          "word": " are",
+          "start": 329.92,
+          "end": 330.22,
+          "start_time": "0:05:29",
+          "end_time": "0:05:30"
+        },
+        {
+          "word": " oscillating",
+          "start": 330.22,
+          "end": 330.72,
+          "start_time": "0:05:30",
+          "end_time": "0:05:30"
+        },
+        {
+          "word": " within",
+          "start": 330.72,
+          "end": 331.02,
+          "start_time": "0:05:30",
+          "end_time": "0:05:31"
+        },
+        {
+          "word": " the",
+          "start": 331.02,
+          "end": 331.16,
+          "start_time": "0:05:31",
+          "end_time": "0:05:31"
+        },
+        {
+          "word": " metal,",
+          "start": 331.16,
+          "end": 331.38,
+          "start_time": "0:05:31",
+          "end_time": "0:05:31"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "start": 331.38,
+      "end": 334.88,
+      "start_time": "0:05:31",
+      "end_time": "0:05:34",
+      "text": "they can also emit electromagnetic waves.",
+      "words": [
+        {
+          "word": " they",
+          "start": 331.38,
+          "end": 332.14,
+          "start_time": "0:05:31",
+          "end_time": "0:05:32"
+        },
+        {
+          "word": " can",
+          "start": 332.14,
+          "end": 332.32,
+          "start_time": "0:05:32",
+          "end_time": "0:05:32"
+        },
+        {
+          "word": " also",
+          "start": 332.32,
+          "end": 332.76,
+          "start_time": "0:05:32",
+          "end_time": "0:05:32"
+        },
+        {
+          "word": " emit",
+          "start": 332.76,
+          "end": 333.22,
+          "start_time": "0:05:32",
+          "end_time": "0:05:33"
+        },
+        {
+          "word": " electromagnetic",
+          "start": 333.22,
+          "end": 334.38,
+          "start_time": "0:05:33",
+          "end_time": "0:05:34"
+        },
+        {
+          "word": " waves.",
+          "start": 334.38,
+          "end": 334.88,
+          "start_time": "0:05:34",
+          "end_time": "0:05:34"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "start": 335.34,
+      "end": 336.12,
+      "start_time": "0:05:35",
+      "end_time": "0:05:36",
+      "text": "Even when they're heated,",
+      "words": [
+        {
+          "word": " Even",
+          "start": 335.34,
+          "end": 335.52,
+          "start_time": "0:05:35",
+          "end_time": "0:05:35"
+        },
+        {
+          "word": " when",
+          "start": 335.52,
+          "end": 335.68,
+          "start_time": "0:05:35",
+          "end_time": "0:05:35"
+        },
+        {
+          "word": " they're",
+          "start": 335.68,
+          "end": 335.82,
+          "start_time": "0:05:35",
+          "end_time": "0:05:35"
+        },
+        {
+          "word": " heated,",
+          "start": 335.82,
+          "end": 336.12,
+          "start_time": "0:05:35",
+          "end_time": "0:05:36"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "start": 336.82,
+      "end": 340.84,
+      "start_time": "0:05:36",
+      "end_time": "0:05:40",
+      "text": "if you were to heat up metal to a very high temperature,",
+      "words": [
+        {
+          "word": " if",
+          "start": 336.82,
+          "end": 337.14,
+          "start_time": "0:05:36",
+          "end_time": "0:05:37"
+        },
+        {
+          "word": " you",
+          "start": 337.14,
+          "end": 337.26,
+          "start_time": "0:05:37",
+          "end_time": "0:05:37"
+        },
+        {
+          "word": " were",
+          "start": 337.26,
+          "end": 337.36,
+          "start_time": "0:05:37",
+          "end_time": "0:05:37"
+        },
+        {
+          "word": " to",
+          "start": 337.36,
+          "end": 337.48,
+          "start_time": "0:05:37",
+          "end_time": "0:05:37"
+        },
+        {
+          "word": " heat",
+          "start": 337.48,
+          "end": 337.68,
+          "start_time": "0:05:37",
+          "end_time": "0:05:37"
+        },
+        {
+          "word": " up",
+          "start": 337.68,
+          "end": 337.84,
+          "start_time": "0:05:37",
+          "end_time": "0:05:37"
+        },
+        {
+          "word": " metal",
+          "start": 337.84,
+          "end": 338.12,
+          "start_time": "0:05:37",
+          "end_time": "0:05:38"
+        },
+        {
+          "word": " to",
+          "start": 338.12,
+          "end": 339.82,
+          "start_time": "0:05:38",
+          "end_time": "0:05:39"
+        },
+        {
+          "word": " a",
+          "start": 339.82,
+          "end": 339.92,
+          "start_time": "0:05:39",
+          "end_time": "0:05:39"
+        },
+        {
+          "word": " very",
+          "start": 339.92,
+          "end": 340.16,
+          "start_time": "0:05:39",
+          "end_time": "0:05:40"
+        },
+        {
+          "word": " high",
+          "start": 340.16,
+          "end": 340.38,
+          "start_time": "0:05:40",
+          "end_time": "0:05:40"
+        },
+        {
+          "word": " temperature,",
+          "start": 340.38,
+          "end": 340.84,
+          "start_time": "0:05:40",
+          "end_time": "0:05:40"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "start": 341.48,
+      "end": 343.9,
+      "start_time": "0:05:41",
+      "end_time": "0:05:43",
+      "text": "eventually the metal will appear in red hot.",
+      "words": [
+        {
+          "word": " eventually",
+          "start": 341.48,
+          "end": 342.06,
+          "start_time": "0:05:41",
+          "end_time": "0:05:42"
+        },
+        {
+          "word": " the",
+          "start": 342.06,
+          "end": 342.26,
+          "start_time": "0:05:42",
+          "end_time": "0:05:42"
+        },
+        {
+          "word": " metal",
+          "start": 342.26,
+          "end": 342.46,
+          "start_time": "0:05:42",
+          "end_time": "0:05:42"
+        },
+        {
+          "word": " will",
+          "start": 342.46,
+          "end": 342.66,
+          "start_time": "0:05:42",
+          "end_time": "0:05:42"
+        },
+        {
+          "word": " appear",
+          "start": 342.66,
+          "end": 343.02,
+          "start_time": "0:05:42",
+          "end_time": "0:05:43"
+        },
+        {
+          "word": " in",
+          "start": 343.02,
+          "end": 343.46,
+          "start_time": "0:05:43",
+          "end_time": "0:05:43"
+        },
+        {
+          "word": " red",
+          "start": 343.46,
+          "end": 343.66,
+          "start_time": "0:05:43",
+          "end_time": "0:05:43"
+        },
+        {
+          "word": " hot.",
+          "start": 343.66,
+          "end": 343.9,
+          "start_time": "0:05:43",
+          "end_time": "0:05:43"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "start": 345.1,
+      "end": 345.9,
+      "start_time": "0:05:45",
+      "end_time": "0:05:45",
+      "text": "At this point,",
+      "words": [
+        {
+          "word": " At",
+          "start": 345.1,
+          "end": 345.28,
+          "start_time": "0:05:45",
+          "end_time": "0:05:45"
+        },
+        {
+          "word": " this",
+          "start": 345.28,
+          "end": 345.46,
+          "start_time": "0:05:45",
+          "end_time": "0:05:45"
+        },
+        {
+          "word": " point,",
+          "start": 345.46,
+          "end": 345.9,
+          "start_time": "0:05:45",
+          "end_time": "0:05:45"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "start": 347.28,
+      "end": 351.66,
+      "start_time": "0:05:47",
+      "end_time": "0:05:51",
+      "text": "it's emitted in infrared radiation and even in red light as well.",
+      "words": [
+        {
+          "word": " it's",
+          "start": 347.28,
+          "end": 347.88,
+          "start_time": "0:05:47",
+          "end_time": "0:05:47"
+        },
+        {
+          "word": " emitted",
+          "start": 347.88,
+          "end": 348.08,
+          "start_time": "0:05:47",
+          "end_time": "0:05:48"
+        },
+        {
+          "word": " in",
+          "start": 348.08,
+          "end": 348.36,
+          "start_time": "0:05:48",
+          "end_time": "0:05:48"
+        },
+        {
+          "word": " infrared",
+          "start": 348.36,
+          "end": 348.7,
+          "start_time": "0:05:48",
+          "end_time": "0:05:48"
+        },
+        {
+          "word": " radiation",
+          "start": 348.7,
+          "end": 349.34,
+          "start_time": "0:05:48",
+          "end_time": "0:05:49"
+        },
+        {
+          "word": " and",
+          "start": 349.34,
+          "end": 350.44,
+          "start_time": "0:05:49",
+          "end_time": "0:05:50"
+        },
+        {
+          "word": " even",
+          "start": 350.44,
+          "end": 350.7,
+          "start_time": "0:05:50",
+          "end_time": "0:05:50"
+        },
+        {
+          "word": " in",
+          "start": 350.7,
+          "end": 350.96,
+          "start_time": "0:05:50",
+          "end_time": "0:05:50"
+        },
+        {
+          "word": " red",
+          "start": 350.96,
+          "end": 351.06,
+          "start_time": "0:05:50",
+          "end_time": "0:05:51"
+        },
+        {
+          "word": " light",
+          "start": 351.06,
+          "end": 351.26,
+          "start_time": "0:05:51",
+          "end_time": "0:05:51"
+        },
+        {
+          "word": " as",
+          "start": 351.26,
+          "end": 351.46,
+          "start_time": "0:05:51",
+          "end_time": "0:05:51"
+        },
+        {
+          "word": " well.",
+          "start": 351.46,
+          "end": 351.66,
+          "start_time": "0:05:51",
+          "end_time": "0:05:51"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "start": 353.2,
+      "end": 354.62,
+      "start_time": "0:05:53",
+      "end_time": "0:05:54",
+      "text": "As you raise the temperature,",
+      "words": [
+        {
+          "word": " As",
+          "start": 353.2,
+          "end": 353.8,
+          "start_time": "0:05:53",
+          "end_time": "0:05:53"
+        },
+        {
+          "word": " you",
+          "start": 353.8,
+          "end": 353.9,
+          "start_time": "0:05:53",
+          "end_time": "0:05:53"
+        },
+        {
+          "word": " raise",
+          "start": 353.9,
+          "end": 354.04,
+          "start_time": "0:05:53",
+          "end_time": "0:05:54"
+        },
+        {
+          "word": " the",
+          "start": 354.04,
+          "end": 354.2,
+          "start_time": "0:05:54",
+          "end_time": "0:05:54"
+        },
+        {
+          "word": " temperature,",
+          "start": 354.2,
+          "end": 354.62,
+          "start_time": "0:05:54",
+          "end_time": "0:05:54"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "start": 355.96,
+      "end": 358.62,
+      "start_time": "0:05:55",
+      "end_time": "0:05:58",
+      "text": "it'll produce light through incandescence.",
+      "words": [
+        {
+          "word": " it'll",
+          "start": 355.96,
+          "end": 356.56,
+          "start_time": "0:05:55",
+          "end_time": "0:05:56"
+        },
+        {
+          "word": " produce",
+          "start": 356.56,
+          "end": 356.88,
+          "start_time": "0:05:56",
+          "end_time": "0:05:56"
+        },
+        {
+          "word": " light",
+          "start": 356.88,
+          "end": 357.18,
+          "start_time": "0:05:56",
+          "end_time": "0:05:57"
+        },
+        {
+          "word": " through",
+          "start": 357.18,
+          "end": 357.72,
+          "start_time": "0:05:57",
+          "end_time": "0:05:57"
+        },
+        {
+          "word": " incandescence.",
+          "start": 357.72,
+          "end": 358.62,
+          "start_time": "0:05:57",
+          "end_time": "0:05:58"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "start": 360.85999999999996,
+      "end": 362.08,
+      "start_time": "0:06:00",
+      "end_time": "0:06:02",
+      "text": "It'll appear yellow.",
+      "words": [
+        {
+          "word": " It'll",
+          "start": 360.85999999999996,
+          "end": 361.46,
+          "start_time": "0:06:00",
+          "end_time": "0:06:01"
+        },
+        {
+          "word": " appear",
+          "start": 361.46,
+          "end": 361.7,
+          "start_time": "0:06:01",
+          "end_time": "0:06:01"
+        },
+        {
+          "word": " yellow.",
+          "start": 361.7,
+          "end": 362.08,
+          "start_time": "0:06:01",
+          "end_time": "0:06:02"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "start": 362.7,
+      "end": 363.94,
+      "start_time": "0:06:02",
+      "end_time": "0:06:03",
+      "text": "If you raise it even further,",
+      "words": [
+        {
+          "word": " If",
+          "start": 362.7,
+          "end": 362.8,
+          "start_time": "0:06:02",
+          "end_time": "0:06:02"
+        },
+        {
+          "word": " you",
+          "start": 362.8,
+          "end": 362.98,
+          "start_time": "0:06:02",
+          "end_time": "0:06:02"
+        },
+        {
+          "word": " raise",
+          "start": 362.98,
+          "end": 363.24,
+          "start_time": "0:06:02",
+          "end_time": "0:06:03"
+        },
+        {
+          "word": " it",
+          "start": 363.24,
+          "end": 363.42,
+          "start_time": "0:06:03",
+          "end_time": "0:06:03"
+        },
+        {
+          "word": " even",
+          "start": 363.42,
+          "end": 363.58,
+          "start_time": "0:06:03",
+          "end_time": "0:06:03"
+        },
+        {
+          "word": " further,",
+          "start": 363.58,
+          "end": 363.94,
+          "start_time": "0:06:03",
+          "end_time": "0:06:03"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "start": 364.24,
+      "end": 365.86,
+      "start_time": "0:06:04",
+      "end_time": "0:06:05",
+      "text": "it'll appear bright white.",
+      "words": [
+        {
+          "word": " it'll",
+          "start": 364.24,
+          "end": 364.44,
+          "start_time": "0:06:04",
+          "end_time": "0:06:04"
+        },
+        {
+          "word": " appear",
+          "start": 364.44,
+          "end": 364.78,
+          "start_time": "0:06:04",
+          "end_time": "0:06:04"
+        },
+        {
+          "word": " bright",
+          "start": 364.78,
+          "end": 365.52,
+          "start_time": "0:06:04",
+          "end_time": "0:06:05"
+        },
+        {
+          "word": " white.",
+          "start": 365.52,
+          "end": 365.86,
+          "start_time": "0:06:05",
+          "end_time": "0:06:05"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "start": 366.58,
+      "end": 367.72,
+      "start_time": "0:06:06",
+      "end_time": "0:06:07",
+      "text": "When the temperature is high,",
+      "words": [
+        {
+          "word": " When",
+          "start": 366.58,
+          "end": 366.86,
+          "start_time": "0:06:06",
+          "end_time": "0:06:06"
+        },
+        {
+          "word": " the",
+          "start": 366.86,
+          "end": 366.98,
+          "start_time": "0:06:06",
+          "end_time": "0:06:06"
+        },
+        {
+          "word": " temperature",
+          "start": 366.98,
+          "end": 367.3,
+          "start_time": "0:06:06",
+          "end_time": "0:06:07"
+        },
+        {
+          "word": " is",
+          "start": 367.3,
+          "end": 367.48,
+          "start_time": "0:06:07",
+          "end_time": "0:06:07"
+        },
+        {
+          "word": " high,",
+          "start": 367.48,
+          "end": 367.72,
+          "start_time": "0:06:07",
+          "end_time": "0:06:07"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "start": 368.5,
+      "end": 369.62,
+      "start_time": "0:06:08",
+      "end_time": "0:06:09",
+      "text": "the atoms are oscillating,",
+      "words": [
+        {
+          "word": " the",
+          "start": 368.5,
+          "end": 368.64,
+          "start_time": "0:06:08",
+          "end_time": "0:06:08"
+        },
+        {
+          "word": " atoms",
+          "start": 368.64,
+          "end": 368.92,
+          "start_time": "0:06:08",
+          "end_time": "0:06:08"
+        },
+        {
+          "word": " are",
+          "start": 368.92,
+          "end": 369.16,
+          "start_time": "0:06:08",
+          "end_time": "0:06:09"
+        },
+        {
+          "word": " oscillating,",
+          "start": 369.16,
+          "end": 369.62,
+          "start_time": "0:06:09",
+          "end_time": "0:06:09"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "start": 369.7,
+      "end": 370.78,
+      "start_time": "0:06:09",
+      "end_time": "0:06:10",
+      "text": "the electrons are oscillating,",
+      "words": [
+        {
+          "word": " the",
+          "start": 369.7,
+          "end": 369.78,
+          "start_time": "0:06:09",
+          "end_time": "0:06:09"
+        },
+        {
+          "word": " electrons",
+          "start": 369.78,
+          "end": 370.1,
+          "start_time": "0:06:09",
+          "end_time": "0:06:10"
+        },
+        {
+          "word": " are",
+          "start": 370.1,
+          "end": 370.34,
+          "start_time": "0:06:10",
+          "end_time": "0:06:10"
+        },
+        {
+          "word": " oscillating,",
+          "start": 370.34,
+          "end": 370.78,
+          "start_time": "0:06:10",
+          "end_time": "0:06:10"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "start": 371.46,
+      "end": 373.54,
+      "start_time": "0:06:11",
+      "end_time": "0:06:13",
+      "text": "and they're emitting electromagnetic waves.",
+      "words": [
+        {
+          "word": " and",
+          "start": 371.46,
+          "end": 371.52,
+          "start_time": "0:06:11",
+          "end_time": "0:06:11"
+        },
+        {
+          "word": " they're",
+          "start": 371.52,
+          "end": 371.74,
+          "start_time": "0:06:11",
+          "end_time": "0:06:11"
+        },
+        {
+          "word": " emitting",
+          "start": 371.74,
+          "end": 372.04,
+          "start_time": "0:06:11",
+          "end_time": "0:06:12"
+        },
+        {
+          "word": " electromagnetic",
+          "start": 372.04,
+          "end": 373.08,
+          "start_time": "0:06:12",
+          "end_time": "0:06:13"
+        },
+        {
+          "word": " waves.",
+          "start": 373.08,
+          "end": 373.54,
+          "start_time": "0:06:13",
+          "end_time": "0:06:13"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "start": 375.68,
+      "end": 379.58,
+      "start_time": "0:06:15",
+      "end_time": "0:06:19",
+      "text": "Any time a charged particle is experiencing acceleration,",
+      "words": [
+        {
+          "word": " Any",
+          "start": 375.68,
+          "end": 375.92,
+          "start_time": "0:06:15",
+          "end_time": "0:06:15"
+        },
+        {
+          "word": " time",
+          "start": 375.92,
+          "end": 376.28,
+          "start_time": "0:06:15",
+          "end_time": "0:06:16"
+        },
+        {
+          "word": " a",
+          "start": 376.28,
+          "end": 376.94,
+          "start_time": "0:06:16",
+          "end_time": "0:06:16"
+        },
+        {
+          "word": " charged",
+          "start": 376.94,
+          "end": 377.26,
+          "start_time": "0:06:16",
+          "end_time": "0:06:17"
+        },
+        {
+          "word": " particle",
+          "start": 377.26,
+          "end": 377.78,
+          "start_time": "0:06:17",
+          "end_time": "0:06:17"
+        },
+        {
+          "word": " is",
+          "start": 377.78,
+          "end": 378.38,
+          "start_time": "0:06:17",
+          "end_time": "0:06:18"
+        },
+        {
+          "word": " experiencing",
+          "start": 378.38,
+          "end": 378.84,
+          "start_time": "0:06:18",
+          "end_time": "0:06:18"
+        },
+        {
+          "word": " acceleration,",
+          "start": 378.84,
+          "end": 379.58,
+          "start_time": "0:06:18",
+          "end_time": "0:06:19"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "start": 380.38,
+      "end": 384.98,
+      "start_time": "0:06:20",
+      "end_time": "0:06:24",
+      "text": "whether it's moving from a high energy state to a low energy state",
+      "words": [
+        {
+          "word": " whether",
+          "start": 380.38,
+          "end": 380.76,
+          "start_time": "0:06:20",
+          "end_time": "0:06:20"
+        },
+        {
+          "word": " it's",
+          "start": 380.76,
+          "end": 381.68,
+          "start_time": "0:06:20",
+          "end_time": "0:06:21"
+        },
+        {
+          "word": " moving",
+          "start": 381.68,
+          "end": 381.84,
+          "start_time": "0:06:21",
+          "end_time": "0:06:21"
+        },
+        {
+          "word": " from",
+          "start": 381.84,
+          "end": 382.22,
+          "start_time": "0:06:21",
+          "end_time": "0:06:22"
+        },
+        {
+          "word": " a",
+          "start": 382.22,
+          "end": 383.38,
+          "start_time": "0:06:22",
+          "end_time": "0:06:23"
+        },
+        {
+          "word": " high",
+          "start": 383.38,
+          "end": 383.56,
+          "start_time": "0:06:23",
+          "end_time": "0:06:23"
+        },
+        {
+          "word": " energy",
+          "start": 383.56,
+          "end": 383.78,
+          "start_time": "0:06:23",
+          "end_time": "0:06:23"
+        },
+        {
+          "word": " state",
+          "start": 383.78,
+          "end": 384.04,
+          "start_time": "0:06:23",
+          "end_time": "0:06:24"
+        },
+        {
+          "word": " to",
+          "start": 384.04,
+          "end": 384.3,
+          "start_time": "0:06:24",
+          "end_time": "0:06:24"
+        },
+        {
+          "word": " a",
+          "start": 384.3,
+          "end": 384.38,
+          "start_time": "0:06:24",
+          "end_time": "0:06:24"
+        },
+        {
+          "word": " low",
+          "start": 384.38,
+          "end": 384.48,
+          "start_time": "0:06:24",
+          "end_time": "0:06:24"
+        },
+        {
+          "word": " energy",
+          "start": 384.48,
+          "end": 384.66,
+          "start_time": "0:06:24",
+          "end_time": "0:06:24"
+        },
+        {
+          "word": " state",
+          "start": 384.66,
+          "end": 384.98,
+          "start_time": "0:06:24",
+          "end_time": "0:06:24"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "start": 384.98,
+      "end": 386.06,
+      "start_time": "0:06:24",
+      "end_time": "0:06:26",
+      "text": "or if it's oscillating,",
+      "words": [
+        {
+          "word": " or",
+          "start": 384.98,
+          "end": 385.2,
+          "start_time": "0:06:24",
+          "end_time": "0:06:25"
+        },
+        {
+          "word": " if",
+          "start": 385.2,
+          "end": 385.34,
+          "start_time": "0:06:25",
+          "end_time": "0:06:25"
+        },
+        {
+          "word": " it's",
+          "start": 385.34,
+          "end": 385.52,
+          "start_time": "0:06:25",
+          "end_time": "0:06:25"
+        },
+        {
+          "word": " oscillating,",
+          "start": 385.52,
+          "end": 386.06,
+          "start_time": "0:06:25",
+          "end_time": "0:06:26"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "start": 386.06,
+      "end": 389.1,
+      "start_time": "0:06:26",
+      "end_time": "0:06:29",
+      "text": "it can emit an EM wave.",
+      "words": [
+        {
+          "word": " it",
+          "start": 386.06,
+          "end": 387.34,
+          "start_time": "0:06:26",
+          "end_time": "0:06:27"
+        },
+        {
+          "word": " can",
+          "start": 387.34,
+          "end": 387.56,
+          "start_time": "0:06:27",
+          "end_time": "0:06:27"
+        },
+        {
+          "word": " emit",
+          "start": 387.56,
+          "end": 388.02,
+          "start_time": "0:06:27",
+          "end_time": "0:06:28"
+        },
+        {
+          "word": " an",
+          "start": 388.02,
+          "end": 388.6,
+          "start_time": "0:06:28",
+          "end_time": "0:06:28"
+        },
+        {
+          "word": " EM",
+          "start": 388.6,
+          "end": 388.84,
+          "start_time": "0:06:28",
+          "end_time": "0:06:28"
+        },
+        {
+          "word": " wave.",
+          "start": 388.84,
+          "end": 389.1,
+          "start_time": "0:06:28",
+          "end_time": "0:06:29"
+        }
+      ]
+    }
+  ],
+  "full_text": "In this video we're going to talk about electromagnetic waves. What are electromagnetic waves? Well, for starters, they're waves. And what is a wave? A wave is a disturbance that can carry energy from one place to another. So here's an example of a wave. Like all waves, electromagnetic waves, they have amplitude, they have wavelength, and also frequency. Electromagnetic waves, they propagate at the speed of light, which is 3 times 10 to the 8 meters per second. This speed is equal to the wavelength of the wave times the frequency. So when the wavelength decreases, the frequency of the wave increases. The frequency is inversely related to the period of a wave. The period is the time it takes for the wave to complete one cycle. The frequency is the number of cycles that it can make in one second. The unit of frequency is the hertz, and for period it's in seconds. The energy of an electromagnetic wave is equal to Planck's constant times the frequency. Planck's constant is 6.626 times 10 to the negative 34, joules times seconds. Now, there's a lot of different types of waves in nature. Think of an ocean wave. You know, it has a crest, it has a trough. Think of a wave on a string. But an electromagnetic wave is different. This type of wave is composed of electric, eminetic fields. Thus, we have the name electromagnetic waves. And let's draw it. So we're going to draw a 3D coordinate system. My drawing is not perfect, but I'm going to make the best of it. So first, let's draw the electric field component of an EM wave. The electric field oscillates up and down. We'll call this axis time. Now, when the electric field is changing, it will create a change in magnetic field. And the change in magnetic field, in turn, will create a change in electric field. And so, when you're dealing with an EM wave, you have an electric field on an axis and perpendicular to it. You have a magnetic field. We'll call it B. So that is an electromagnetic wave. On one axis, you have the electric field, which are oscillating. And on another axis, perpendicular to it, you have oscillating magnetic fields. The electric field is equal to the speed of light times the strength of the magnetic field. Electromagnetic waves can be created by any type of charge particle. A charge particle always has an electric field around it. A moving charge particle can create a magnetic field. But an accelerating charge particle can create a propagating electromagnetic wave. Here's another example. So let's say we have a hydrogen atom. And let's say this is the first energy level. This one is the second. And let's say this is the third energy level. Let's say we have an electron, an excited electron, in a third energy level. When the electron drops from the third energy level to the second energy level, or even lower than that, any time it goes from a high energy level to a low energy level, it can emit an electromagnetic wave. Sometimes it can emit a full ton of light. Now for the hydrogen atom, the energy of the full ton that's emitted is equal to negative 2.18 times 10 to the negative 18 joules, times 1 over n final squared minus 1 over n initial squared, where n is the energy level of the electron. This is the initial energy level. In this case that will be n equal 3. This is the final energy level. That's where it's going to n equal 2. When an electron absorbs a full ton, it can jump from a low energy state to a high energy state. But when it falls from a high energy state to a low energy state, it can release a full ton in the form of an electromagnetic wave. But now only that though, when electrons are oscillating within the metal, they can also emit electromagnetic waves. Even when they're heated, if you were to heat up metal to a very high temperature, eventually the metal will appear in red hot. At this point, it's emitted in infrared radiation and even in red light as well. As you raise the temperature, it'll produce light through incandescence. It'll appear yellow. If you raise it even further, it'll appear bright white. When the temperature is high, the atoms are oscillating, the electrons are oscillating, and they're emitting electromagnetic waves. Any time a charged particle is experiencing acceleration, whether it's moving from a high energy state to a low energy state or if it's oscillating, it can emit an EM wave.",
+  "metadata": {
+    "title": "Electro Magnetic Wave's ",
+    "description": "",
+    "category": "Coding",
+    "subject": "Physics",
+    "scheduled_date": "",
+    "original_filename": "videoplayback (2).mp4",
+    "saved_filename": "Electro_Magnetic_Waves.mp4"
+  }
+}

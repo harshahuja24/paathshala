@@ -1,0 +1,195 @@
+Transcription for Video ID: Anti_Markiovs_Rule
+Date: 2026-01-30T00:25:06.622071
+Language: en
+Duration: 0:00:00
+================================================================================
+
+[0:00:02 -> 0:00:06]
+So the other reaction I want to show you is the anti-Marcovnikov hydrohallogenation.
+
+[0:00:07 -> 0:00:11]
+So remember when we were looking at addition reactions, we were looking at hydrohallogenation
+
+[0:00:11 -> 0:00:16]
+and we were understanding that that was a regio-specific reaction.
+
+[0:00:16 -> 0:00:22]
+Regio-specific meaning that the halogen would always go to the more substituted of the
+
+[0:00:22 -> 0:00:28]
+two carbons participating in the pi bond because of the fact that it would only go by the
+
+[0:00:28 -> 0:00:31]
+more stable carbocation intermediate.
+
+[0:00:31 -> 0:00:34]
+Remember this pi bond would get the proton, leave the secondary carbocation and then
+
+[0:00:34 -> 0:00:41]
+that's where the bromide would go and we'd get the Marcovnikov product in a regio-specific
+
+[0:00:41 -> 0:00:41]
+manner.
+
+[0:00:42 -> 0:00:46]
+But then we didn't look at the mechanism but we also noted the fact that in the presence
+
+[0:00:46 -> 0:00:52]
+of peroxides this would shift to anti-Marcovnikov regio-specificity.
+
+[0:00:52 -> 0:00:59]
+In other words we would get the halogen on the less substituted of the two carbons participating
+
+[0:00:59 -> 0:00:59]
+in the pi bond.
+
+[0:01:00 -> 0:01:06]
+And we didn't look at why, well here's why, it's a free radical reaction and so the peroxides
+
+[0:01:06 -> 0:01:08]
+obviously play a very key role in this.
+
+[0:01:08 -> 0:01:09]
+So let's take a look.
+
+[0:01:09 -> 0:01:14]
+The initiation step is going to be provided by the peroxides and so remember when we talked
+
+[0:01:14 -> 0:01:21]
+about oxygen, oxygen, covalent bonds as ones that are able to undergo homolytic bond
+
+[0:01:21 -> 0:01:22]
+cleavage.
+
+[0:01:22 -> 0:01:23]
+That's the initiation step.
+
+[0:01:23 -> 0:01:28]
+So we have this oxygen oxygen covalent bond undergoing homolysis and then we get two
+
+[0:01:28 -> 0:01:30]
+hydroxyl radicals.
+
+[0:01:30 -> 0:01:34]
+So it's those hydroxyl radicals that are going to propagate the formation above other
+
+[0:01:34 -> 0:01:35]
+radicals.
+
+[0:01:35 -> 0:01:40]
+So let's say that a hydroxyl radical finds one of these molecules of HBR.
+
+[0:01:40 -> 0:01:45]
+Well what's going to happen is this radical and then one electron from this covalent bond
+
+[0:01:45 -> 0:01:49]
+are going to form a new one and now we've got a water molecule and then that's going
+
+[0:01:49 -> 0:01:52]
+to propagate the existence of a bromine radical.
+
+[0:01:53 -> 0:01:59]
+Then from there this is the key step because this is where the regio specificity is involved.
+
+[0:01:59 -> 0:02:04]
+The bromine radical is going to interact with this pi bond that is necessary for the
+
+[0:02:04 -> 0:02:08]
+addition reaction and what's going to happen is it's going to form a new carbon bromine
+
+[0:02:08 -> 0:02:14]
+bond but it is going to do it in regio specific manner because of the stability of the alkyo
+
+[0:02:14 -> 0:02:15]
+radical that it will generate.
+
+[0:02:15 -> 0:02:21]
+So in other words one of these pi electrons is going to go to form a covalent bond with
+
+[0:02:21 -> 0:02:27]
+this bromine radical and it is only going to happen here because if it does so then the
+
+[0:02:27 -> 0:02:33]
+other pi electron will go to this carbon, the secondary carbon leaving the more stable
+
+[0:02:33 -> 0:02:36]
+of the two possible alkyo radical intermediates.
+
+[0:02:36 -> 0:02:41]
+If the bromine radical interacted at this position and this pi electron went to form the
+
+[0:02:42 -> 0:02:46]
+new carbon bromine bond there then that would mean that the other pi electron would be
+
+[0:02:46 -> 0:02:52]
+left on the primary carbon and we then have a primary alkyo radical intermediate and
+
+[0:02:52 -> 0:02:55]
+that is the less stable of the two so it will not produce that.
+
+[0:02:56 -> 0:03:02]
+So in a regio specific manner the bromine will add to the less substituted of the two
+
+[0:03:02 -> 0:03:04]
+carbons participating in the pi bond.
+
+[0:03:04 -> 0:03:10]
+That leaves an alkyo radical intermediate which will then go ahead and undergo another
+
+[0:03:10 -> 0:03:16]
+step with HBR and it will just extract a proton there leaving another bromine radical
+
+[0:03:16 -> 0:03:16]
+there.
+
+[0:03:17 -> 0:03:21]
+Recall once again that these are all single headed electron pushing arrows denoting
+
+[0:03:21 -> 0:03:26]
+the movement of a singular electron and so we have gotten to our product here.
+
+[0:03:27 -> 0:03:35]
+This is our anti-marcovnicoff hydro halogenation product regio specific to be the less substituted
+
+[0:03:35 -> 0:03:40]
+alkyo bromide of the two possibilities and we have managed to do it all with propagation
+
+[0:03:40 -> 0:03:44]
+steps there could be termination steps choose anything.
+
+[0:03:45 -> 0:03:50]
+This radical bromine radical hydroxyl radical anything if two radical species meet they'll
+
+[0:03:50 -> 0:03:55]
+terminate but none of them were needed in the mechanism generating the products so we didn't
+
+[0:03:55 -> 0:03:55]
+draw them.
+
+[0:03:56 -> 0:04:02]
+So once again hydroxyl radical initiates propagates the existence of the bromine radical and
+
+[0:04:02 -> 0:04:09]
+then the bromine radical goes ahead and adds in regio specific manner specifically in an
+
+[0:04:09 -> 0:04:15]
+anti-marcovnicoff manner so that it generates the more stable of the possible alkyo radical
+
+[0:04:15 -> 0:04:16]
+intermediates.
+
+[0:04:17 -> 0:04:22]
+So that will shed some light on the mystery we understood the mechanism before for the
+
+[0:04:22 -> 0:04:28]
+Marcovnicoff hydro halogenation and now we know the mechanism for the anti-marcovnicoff
+
+[0:04:28 -> 0:04:29]
+variety as well.
+
+[0:04:30 -> 0:04:35]
+Thanks for watching guys subscribe to my channel for more tutorials and as always feel
+
+[0:04:35 -> 0:04:39]
+free to email me questions professor Dave explains at gmail.com
+

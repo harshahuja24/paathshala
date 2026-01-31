@@ -1,0 +1,273 @@
+Transcription for Video ID: 20251031_210110_videoplayback_2
+Date: 2025-10-31T21:02:55.548850
+Language: en
+Duration: 0:00:00
+================================================================================
+
+[0:00:00 -> 0:00:04]
+In this video we're going to talk about electromagnetic waves.
+
+[0:00:05 -> 0:00:08]
+What are electromagnetic waves?
+
+[0:00:09 -> 0:00:12]
+Well, for starters, they're waves.
+
+[0:00:13 -> 0:00:13]
+And what is a wave?
+
+[0:00:14 -> 0:00:20]
+A wave is a disturbance that can carry energy from one place to another.
+
+[0:00:21 -> 0:00:24]
+So here's an example of a wave.
+
+[0:00:27 -> 0:00:31]
+Like all waves, electromagnetic waves, they have amplitude,
+
+[0:00:34 -> 0:00:39]
+they have wavelength, and also frequency.
+
+[0:00:42 -> 0:00:45]
+Electromagnetic waves, they propagate at the speed of light,
+
+[0:00:46 -> 0:00:49]
+which is 3 times 10 to the 8 meters per second.
+
+[0:00:52 -> 0:00:56]
+This speed is equal to the wavelength of the wave times the frequency.
+
+[0:00:58 -> 0:01:03]
+So when the wavelength decreases, the frequency of the wave increases.
+
+[0:01:04 -> 0:01:08]
+The frequency is inversely related to the period of a wave.
+
+[0:01:09 -> 0:01:14]
+The period is the time it takes for the wave to complete one cycle.
+
+[0:01:15 -> 0:01:18]
+The frequency is the number of cycles that it can make in one second.
+
+[0:01:21 -> 0:01:25]
+The unit of frequency is the hertz, and for period it's in seconds.
+
+[0:01:28 -> 0:01:36]
+The energy of an electromagnetic wave is equal to Planck's constant times the frequency.
+
+[0:01:37 -> 0:01:43]
+Planck's constant is 6.626 times 10 to the negative 34,
+
+[0:01:43 -> 0:01:45]
+joules times seconds.
+
+[0:01:46 -> 0:01:49]
+Now, there's a lot of different types of waves in nature.
+
+[0:01:50 -> 0:01:51]
+Think of an ocean wave.
+
+[0:01:52 -> 0:01:54]
+You know, it has a crest, it has a trough.
+
+[0:01:55 -> 0:01:56]
+Think of a wave on a string.
+
+[0:01:58 -> 0:02:00]
+But an electromagnetic wave is different.
+
+[0:02:00 -> 0:02:04]
+This type of wave is composed of electric, eminetic fields.
+
+[0:02:05 -> 0:02:07]
+Thus, we have the name electromagnetic waves.
+
+[0:02:08 -> 0:02:09]
+And let's draw it.
+
+[0:02:10 -> 0:02:13]
+So we're going to draw a 3D coordinate system.
+
+[0:02:14 -> 0:02:19]
+My drawing is not perfect, but I'm going to make the best of it.
+
+[0:02:19 -> 0:02:24]
+So first, let's draw the electric field component of an EM wave.
+
+[0:02:26 -> 0:02:28]
+The electric field oscillates up and down.
+
+[0:02:33 -> 0:02:35]
+We'll call this axis time.
+
+[0:02:37 -> 0:02:43]
+Now, when the electric field is changing, it will create a change in magnetic field.
+
+[0:02:43 -> 0:02:47]
+And the change in magnetic field, in turn, will create a change in electric field.
+
+[0:02:49 -> 0:02:53]
+And so, when you're dealing with an EM wave, you have an electric field on an axis
+
+[0:02:53 -> 0:02:55]
+and perpendicular to it.
+
+[0:02:55 -> 0:02:56]
+You have a magnetic field.
+
+[0:02:58 -> 0:02:59]
+We'll call it B.
+
+[0:03:06 -> 0:03:09]
+So that is an electromagnetic wave.
+
+[0:03:10 -> 0:03:13]
+On one axis, you have the electric field, which are oscillating.
+
+[0:03:14 -> 0:03:18]
+And on another axis, perpendicular to it, you have oscillating magnetic fields.
+
+[0:03:20 -> 0:03:26]
+The electric field is equal to the speed of light times the strength of the magnetic field.
+
+[0:03:28 -> 0:03:33]
+Electromagnetic waves can be created by any type of charge particle.
+
+[0:03:34 -> 0:03:38]
+A charge particle always has an electric field around it.
+
+[0:03:39 -> 0:03:41]
+A moving charge particle can create a magnetic field.
+
+[0:03:41 -> 0:03:48]
+But an accelerating charge particle can create a propagating electromagnetic wave.
+
+[0:03:54 -> 0:03:55]
+Here's another example.
+
+[0:03:56 -> 0:03:57]
+So let's say we have a hydrogen atom.
+
+[0:03:59 -> 0:04:01]
+And let's say this is the first energy level.
+
+[0:04:01 -> 0:04:02]
+This one is the second.
+
+[0:04:02 -> 0:04:04]
+And let's say this is the third energy level.
+
+[0:04:08 -> 0:04:13]
+Let's say we have an electron, an excited electron, in a third energy level.
+
+[0:04:16 -> 0:04:21]
+When the electron drops from the third energy level to the second energy level,
+
+[0:04:22 -> 0:04:23]
+or even lower than that,
+
+[0:04:24 -> 0:04:27]
+any time it goes from a high energy level to a low energy level,
+
+[0:04:28 -> 0:04:31]
+it can emit an electromagnetic wave.
+
+[0:04:38 -> 0:04:40]
+Sometimes it can emit a full ton of light.
+
+[0:04:42 -> 0:04:51]
+Now for the hydrogen atom, the energy of the full ton that's emitted is equal to negative 2.18 times 10 to the negative 18 joules,
+
+[0:04:52 -> 0:04:57]
+times 1 over n final squared minus 1 over n initial squared,
+
+[0:04:58 -> 0:05:02]
+where n is the energy level of the electron.
+
+[0:05:02 -> 0:05:05]
+This is the initial energy level.
+
+[0:05:05 -> 0:05:06]
+In this case that will be n equal 3.
+
+[0:05:07 -> 0:05:08]
+This is the final energy level.
+
+[0:05:08 -> 0:05:10]
+That's where it's going to n equal 2.
+
+[0:05:12 -> 0:05:14]
+When an electron absorbs a full ton,
+
+[0:05:14 -> 0:05:18]
+it can jump from a low energy state to a high energy state.
+
+[0:05:18 -> 0:05:21]
+But when it falls from a high energy state to a low energy state,
+
+[0:05:21 -> 0:05:25]
+it can release a full ton in the form of an electromagnetic wave.
+
+[0:05:27 -> 0:05:28]
+But now only that though,
+
+[0:05:29 -> 0:05:31]
+when electrons are oscillating within the metal,
+
+[0:05:31 -> 0:05:34]
+they can also emit electromagnetic waves.
+
+[0:05:35 -> 0:05:36]
+Even when they're heated,
+
+[0:05:36 -> 0:05:40]
+if you were to heat up metal to a very high temperature,
+
+[0:05:41 -> 0:05:43]
+eventually the metal will appear in red hot.
+
+[0:05:45 -> 0:05:45]
+At this point,
+
+[0:05:47 -> 0:05:51]
+it's emitted in infrared radiation and even in red light as well.
+
+[0:05:53 -> 0:05:54]
+As you raise the temperature,
+
+[0:05:55 -> 0:05:58]
+it'll produce light through incandescence.
+
+[0:06:00 -> 0:06:02]
+It'll appear yellow.
+
+[0:06:02 -> 0:06:03]
+If you raise it even further,
+
+[0:06:04 -> 0:06:05]
+it'll appear bright white.
+
+[0:06:06 -> 0:06:07]
+When the temperature is high,
+
+[0:06:08 -> 0:06:09]
+the atoms are oscillating,
+
+[0:06:09 -> 0:06:10]
+the electrons are oscillating,
+
+[0:06:11 -> 0:06:13]
+and they're emitting electromagnetic waves.
+
+[0:06:15 -> 0:06:19]
+Any time a charged particle is experiencing acceleration,
+
+[0:06:20 -> 0:06:24]
+whether it's moving from a high energy state to a low energy state
+
+[0:06:24 -> 0:06:26]
+or if it's oscillating,
+
+[0:06:26 -> 0:06:29]
+it can emit an EM wave.
+

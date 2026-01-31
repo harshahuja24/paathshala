@@ -1,0 +1,765 @@
+Transcription for Video ID: 20251101_011926_videoplayback_3
+Date: 2025-11-01T01:24:17.970263
+Language: en
+Duration: 0:00:00
+================================================================================
+
+[0:00:01 -> 0:00:03]
+Dear students, welcome to the class.
+
+[0:00:03 -> 0:00:05]
+Today's class is going to explain
+
+[0:00:05 -> 0:00:06]
+Support vector machine,
+
+[0:00:07 -> 0:00:09]
+Sport vector machine, which we call as SEM
+
+[0:00:09 -> 0:00:11]
+First of all, you have basic introduction.
+
+[0:00:11 -> 0:00:13]
+There are many terms in it.
+
+[0:00:13 -> 0:00:14]
+First, it needs time.
+
+[0:00:15 -> 0:00:16]
+Don't hesitate to direct it on numerical.
+
+[0:00:17 -> 0:00:21]
+Sometimes, in any topic, whenever we talk about machine learning
+
+[0:00:22 -> 0:00:24]
+Sometimes, we feel that we do direct numerical
+
+[0:00:24 -> 0:00:25]
+and then we will understand that thing.
+
+[0:00:26 -> 0:00:27]
+First, you need time.
+
+[0:00:27 -> 0:00:31]
+When it comes to how to do SEM,
+
+[0:00:31 -> 0:00:33]
+and where to use it.
+
+[0:00:33 -> 0:00:35]
+First of all, what is SEM?
+
+[0:00:36 -> 0:00:38]
+This supervised machine learning algorithm.
+
+[0:00:38 -> 0:00:39]
+This is not supervised.
+
+[0:00:40 -> 0:00:42]
+It is supervised, where we provide labelled data.
+
+[0:00:43 -> 0:00:45]
+And this classification and regression
+
+[0:00:45 -> 0:00:47]
+are the work of both.
+
+[0:00:47 -> 0:00:50]
+You can also do classify and use both of the tasks of regression.
+
+[0:00:51 -> 0:00:53]
+If I talk about the point of classification,
+
+[0:00:53 -> 0:00:55]
+then what we need to do?
+
+[0:00:55 -> 0:00:58]
+We have done a linear separable
+
+[0:00:58 -> 0:01:00]
+I have done two types of data.
+
+[0:01:00 -> 0:01:03]
+E-mail is spam or e-mail is not spam.
+
+[0:01:04 -> 0:01:05]
+If I am doing a linear separable
+
+[0:01:05 -> 0:01:09]
+through straight line, I can easily classify it.
+
+[0:01:10 -> 0:01:12]
+But here, we have to explain the terminology first.
+
+[0:01:12 -> 0:01:13]
+What are the terms?
+
+[0:01:14 -> 0:01:17]
+The first term is hyperplane.
+
+[0:01:17 -> 0:01:20]
+Very important, the story of your start of SEM.
+
+[0:01:20 -> 0:01:21]
+What is hyperplane?
+
+[0:01:21 -> 0:01:24]
+hyperplane is a decision boundary
+
+[0:01:24 -> 0:01:30]
+that separates the data point of different classes in the feature space.
+
+[0:01:30 -> 0:01:32]
+I mean, here, let's suppose,
+
+[0:01:33 -> 0:01:35]
+I have two dimensions of data.
+
+[0:01:36 -> 0:01:38]
+And let's suppose, I have some data.
+
+[0:01:38 -> 0:01:43]
+Let's suppose, how can I take a star form
+
+[0:01:43 -> 0:01:43]
+in the multiplication form?
+
+[0:01:44 -> 0:01:46]
+I have some data points,
+
+[0:01:46 -> 0:01:48]
+which are in the star form.
+
+[0:01:49 -> 0:01:52]
+Let's suppose, we have some data points
+
+[0:01:52 -> 0:01:53]
+in the form of minus.
+
+[0:01:54 -> 0:01:56]
+In this way, we have two data sets.
+
+[0:01:57 -> 0:01:59]
+I have some values.
+
+[0:01:59 -> 0:02:01]
+What I have done now?
+
+[0:02:01 -> 0:02:05]
+I have found a straight line here on hyperplane.
+
+[0:02:05 -> 0:02:08]
+That is, it is separating easily
+
+[0:02:09 -> 0:02:09]
+two points.
+
+[0:02:10 -> 0:02:13]
+I have an example of e-mail spam and not spam.
+
+[0:02:13 -> 0:02:15]
+I have separated the spam from this way
+
+[0:02:15 -> 0:02:17]
+and I have separated the spam from the nodes.
+
+[0:02:18 -> 0:02:21]
+I have defined two classes in the data.
+
+[0:02:21 -> 0:02:22]
+I have defined two classes.
+
+[0:02:23 -> 0:02:25]
+Positive class, negative class like that.
+
+[0:02:25 -> 0:02:28]
+So, here, the straight line is classified.
+
+[0:02:28 -> 0:02:31]
+It is what a kind of hyperplane.
+
+[0:02:31 -> 0:02:32]
+So, what can I say about this line?
+
+[0:02:33 -> 0:02:35]
+This is my hyperplane.
+
+[0:02:36 -> 0:02:38]
+So, this decision boundary is a decision boundary.
+
+[0:02:38 -> 0:02:39]
+This is a boundary.
+
+[0:02:39 -> 0:02:41]
+I mean, let's suppose, it is a node spam.
+
+[0:02:41 -> 0:02:43]
+It is a little bit of a space.
+
+[0:02:43 -> 0:02:44]
+You can say something about an example.
+
+[0:02:45 -> 0:02:47]
+If you have a point, let's suppose,
+
+[0:02:47 -> 0:02:48]
+some point, and it is here.
+
+[0:02:49 -> 0:02:51]
+So, you can say, it is in this class.
+
+[0:02:52 -> 0:02:54]
+Because all these things are separated from this way.
+
+[0:02:54 -> 0:02:54]
+Okay?
+
+[0:02:55 -> 0:02:56]
+So, you can understand it in this way.
+
+[0:02:57 -> 0:02:58]
+Now, let's suppose, if there is another point,
+
+[0:02:59 -> 0:02:59]
+it is below.
+
+[0:02:59 -> 0:03:02]
+So, you can understand that it is also allowing it from below.
+
+[0:03:02 -> 0:03:05]
+So, this is your simple concept.
+
+[0:03:06 -> 0:03:07]
+Let's suppose, I will talk about it next.
+
+[0:03:08 -> 0:03:08]
+What is next?
+
+[0:03:08 -> 0:03:08]
+I have a cone.
+
+[0:03:08 -> 0:03:09]
+I have understood the hyperplane.
+
+[0:03:09 -> 0:03:10]
+So, I have understood it.
+
+[0:03:10 -> 0:03:12]
+The hyperplane, you can see here,
+
+[0:03:12 -> 0:03:14]
+mathematical representation, if we talk about it.
+
+[0:03:14 -> 0:03:15]
+What is the straight line?
+
+[0:03:16 -> 0:03:16]
+We have already done it.
+
+[0:03:17 -> 0:03:18]
+Mx plus b.
+
+[0:03:18 -> 0:03:20]
+Here, wx plus b, we call it as the base.
+
+[0:03:20 -> 0:03:21]
+What is w?
+
+[0:03:21 -> 0:03:22]
+Our weight.
+
+[0:03:22 -> 0:03:23]
+Wait.
+
+[0:03:23 -> 0:03:25]
+You can say, that my x feature is.
+
+[0:03:26 -> 0:03:27]
+The input feature is.
+
+[0:03:27 -> 0:03:28]
+It has a corresponding weight.
+
+[0:03:29 -> 0:03:29]
+What is w?
+
+[0:03:30 -> 0:03:32]
+So, if it is multiple, then it will be multiple weights.
+
+[0:03:32 -> 0:03:35]
+As if it is w, let's suppose, it is the x1.
+
+[0:03:35 -> 0:03:36]
+It is the x2 of the w2.
+
+[0:03:38 -> 0:03:39]
+And finally, what is b?
+
+[0:03:40 -> 0:03:40]
+
+
+[0:03:40 -> 0:03:42]
+You know the top of the bias.
+
+[0:03:42 -> 0:03:42]
+This is the straight line.
+
+[0:03:43 -> 0:03:44]
+So, that is your bias.
+
+[0:03:45 -> 0:03:47]
+And this weight and this will be your features.
+
+[0:03:47 -> 0:03:49]
+Let's suppose, I will talk about the example.
+
+[0:03:50 -> 0:03:51]
+If I want to classify,
+
+[0:03:52 -> 0:03:53]
+that you have given some data,
+
+[0:03:54 -> 0:03:55]
+you have done it by working on it.
+
+[0:03:55 -> 0:03:56]
+Then you have to check.
+
+[0:03:57 -> 0:03:59]
+That the cat will come in class.
+
+[0:03:59 -> 0:04:00]
+This is dog.
+
+[0:04:00 -> 0:04:01]
+So, cat will come in class.
+
+[0:04:01 -> 0:04:02]
+I have added the cat in class.
+
+[0:04:02 -> 0:04:04]
+Dog will come in class.
+
+[0:04:04 -> 0:04:06]
+So, based on the weighted and the base.
+
+[0:04:06 -> 0:04:08]
+So, here I have two features.
+
+[0:04:09 -> 0:04:11]
+One is the weight and the other is the height.
+
+[0:04:12 -> 0:04:14]
+So, my hyperplane could be water.
+
+[0:04:14 -> 0:04:18]
+3 into weight plus 2 into height minus 50.
+
+[0:04:19 -> 0:04:21]
+This is the way you have training.
+
+[0:04:21 -> 0:04:23]
+This is the equation.
+
+[0:04:23 -> 0:04:24]
+Take the example.
+
+[0:04:24 -> 0:04:26]
+So, here w1 is the weight.
+
+[0:04:26 -> 0:04:29]
+And this weight is the weight of its corresponding weight.
+
+[0:04:30 -> 0:04:30]
+The three.
+
+[0:04:30 -> 0:04:32]
+Whatever you have given, you have to multiply it from three.
+
+[0:04:32 -> 0:04:32]
+So, you have to multiply it from three.
+
+[0:04:33 -> 0:04:36]
+The height of its corresponding weight is 2.
+
+[0:04:37 -> 0:04:38]
+And what is minus 50?
+
+[0:04:38 -> 0:04:40]
+Why is it minus 50?
+
+[0:04:40 -> 0:04:42]
+So, this equation represents your three.
+
+[0:04:43 -> 0:04:46]
+Which you divide easily by your class.
+
+[0:04:47 -> 0:04:50]
+Now, here, the second thing is that
+
+[0:04:50 -> 0:04:52]
+Support vectors.
+
+[0:04:52 -> 0:04:54]
+Let's suppose, margin.
+
+[0:04:54 -> 0:04:55]
+What is margin?
+
+[0:04:56 -> 0:04:58]
+Margin is the distance between hyperplane
+
+[0:04:58 -> 0:05:02]
+and the nearest data point of either class.
+
+[0:05:02 -> 0:05:04]
+What is the margin?
+
+[0:05:04 -> 0:05:07]
+Margin is the distance between the hyperplane
+
+[0:05:07 -> 0:05:10]
+and the nearest data point of either class.
+
+[0:05:10 -> 0:05:11]
+What does it mean?
+
+[0:05:12 -> 0:05:12]
+We have understood hyperplane.
+
+[0:05:13 -> 0:05:15]
+The two classifies it.
+
+[0:05:15 -> 0:05:17]
+The two classifies it easily.
+
+[0:05:17 -> 0:05:18]
+It is working like a boundary.
+
+[0:05:19 -> 0:05:20]
+Or, go there or there.
+
+[0:05:20 -> 0:05:21]
+Like that.
+
+[0:05:21 -> 0:05:22]
+But, what is margin?
+
+[0:05:23 -> 0:05:23]
+What is margin?
+
+[0:05:24 -> 0:05:26]
+That this is my greatest data point.
+
+[0:05:26 -> 0:05:28]
+Let's suppose, this is the plus value of my class.
+
+[0:05:28 -> 0:05:31]
+The positive value of my class.
+
+[0:05:31 -> 0:05:36]
+The data point of hyperplane is the same.
+
+[0:05:37 -> 0:05:41]
+I have crossed the line of my class.
+
+[0:05:41 -> 0:05:43]
+In this negative class,
+
+[0:05:44 -> 0:05:48]
+I have a straight line of my class.
+
+[0:05:48 -> 0:05:49]
+It means, in hyperplane,
+
+[0:05:49 -> 0:05:54]
+I have a marginal line of my class.
+
+[0:05:54 -> 0:05:56]
+And the marginal line of my class
+
+[0:05:56 -> 0:05:59]
+is the nearest data point of hyperplane.
+
+[0:05:59 -> 0:06:01]
+Like this nearest data point,
+
+[0:06:01 -> 0:06:03]
+it will cross the line.
+
+[0:06:03 -> 0:06:04]
+One can be multiple.
+
+[0:06:05 -> 0:06:07]
+Like here, this is my 1 and this is my 2.
+
+[0:06:08 -> 0:06:09]
+Let's suppose, this is my nearest data point.
+
+[0:06:10 -> 0:06:12]
+So, the margin line is cross the line of these two.
+
+[0:06:13 -> 0:06:15]
+So, in one way, this margin line of my class
+
+[0:06:15 -> 0:06:16]
+is the positive value of my class.
+
+[0:06:16 -> 0:06:20]
+This margin line of my class is the hyperplane's parallel.
+
+[0:06:21 -> 0:06:24]
+So, here, I have to take the margin of this way.
+
+[0:06:25 -> 0:06:28]
+That my class is the separate data point of this value.
+
+[0:06:30 -> 0:06:34]
+So, between the hyperplane and the nearest data point,
+
+[0:06:34 -> 0:06:36]
+what is your margin?
+
+[0:06:36 -> 0:06:39]
+And as we try to maximize this margin,
+
+[0:06:39 -> 0:06:41]
+if you want to ask me in theory,
+
+[0:06:41 -> 0:06:43]
+I want to maximize the margin or minimize it.
+
+[0:06:44 -> 0:06:46]
+So, obviously, you can see that
+
+[0:06:46 -> 0:06:48]
+if I suppose, this way, there is a data set.
+
+[0:06:49 -> 0:06:51]
+And let's suppose, take a data set.
+
+[0:06:51 -> 0:06:54]
+And in that, your margin line is going this way.
+
+[0:06:55 -> 0:06:58]
+And this is your let's suppose hyperplane.
+
+[0:06:58 -> 0:07:01]
+And in this way, you have another negative value.
+
+[0:07:01 -> 0:07:02]
+Take the second class.
+
+[0:07:02 -> 0:07:05]
+And there, your data point is going this way.
+
+[0:07:05 -> 0:07:07]
+And a margin line is going this way.
+
+[0:07:07 -> 0:07:11]
+So, look, here, the margin is less than the distance between them.
+
+[0:07:12 -> 0:07:18]
+So, what we want is that, between the distance between my hyperplane and the distance between the distance between them.
+
+[0:07:20 -> 0:07:22]
+This is the greater the number of the difference.
+
+[0:07:22 -> 0:07:25]
+Because, as much as we can separate these two classes,
+
+[0:07:25 -> 0:07:26]
+we can easily separate them.
+
+[0:07:26 -> 0:07:29]
+So, if I ask them, which one is better?
+
+[0:07:30 -> 0:07:32]
+This one is better because, here,
+
+[0:07:33 -> 0:07:37]
+the distance between the hyperplane and the margin is more comparatively.
+
+[0:07:37 -> 0:07:39]
+So, that is why, we want to maximize this margin.
+
+[0:07:40 -> 0:07:43]
+Then, and what is the sport vector?
+
+[0:07:44 -> 0:07:44]
+What is the sport vector?
+
+[0:07:45 -> 0:07:48]
+These data points are closest to the hyperplane.
+
+[0:07:48 -> 0:07:49]
+And what are the points we say?
+
+[0:07:50 -> 0:07:51]
+Support vector.
+
+[0:07:52 -> 0:07:55]
+These points influence the orientation and position of the hyperplane.
+
+[0:07:55 -> 0:07:56]
+So, these help us.
+
+[0:07:56 -> 0:08:00]
+From one side, if I show you this here easily,
+
+[0:08:01 -> 0:08:07]
+and this is the point, which is helping the margin line to draw the margin line,
+
+[0:08:07 -> 0:08:11]
+the nearest data point of the hyperplane,
+
+[0:08:11 -> 0:08:15]
+we say, support vectors.
+
+[0:08:15 -> 0:08:18]
+This is the name of the group, which is called the number of the numbers.
+
+[0:08:18 -> 0:08:19]
+Hard margin.
+
+[0:08:19 -> 0:08:23]
+Hard margin is that, zoom that data is perfectly separable by the hyperplane.
+
+[0:08:23 -> 0:08:25]
+All points are light outside the margin.
+
+[0:08:25 -> 0:08:28]
+That means, if we are separating linearly,
+
+[0:08:28 -> 0:08:30]
+I mean, if I divide the two classes here and here,
+
+[0:08:31 -> 0:08:33]
+I divide them easily, then this is my one hand.
+
+[0:08:34 -> 0:08:36]
+We can't separate linearly in the soft.
+
+[0:08:36 -> 0:08:40]
+For example, my way is some star, star,
+
+[0:08:40 -> 0:08:41]
+and some points.
+
+[0:08:42 -> 0:08:44]
+And in the middle of that, let's suppose,
+
+[0:08:45 -> 0:08:48]
+some points are like this, minus, minus, minus, minus, minus,
+
+[0:08:48 -> 0:08:50]
+this way, some minus point is ahead.
+
+[0:08:51 -> 0:08:52]
+So, here, I can't separate properly.
+
+[0:08:53 -> 0:08:56]
+If I make a hyperplane like this,
+
+[0:08:57 -> 0:09:00]
+then some of my classes are also overlapping in the other class.
+
+[0:09:00 -> 0:09:03]
+So, this is my hard margin.
+
+[0:09:03 -> 0:09:08]
+We want to do this, but we can't separate linearly.
+
+[0:09:08 -> 0:09:08]
+So, if we want to do this,
+
+[0:09:08 -> 0:09:11]
+we can't do this.
+
+[0:09:11 -> 0:09:12]
+So, if we want to do this,
+
+[0:09:12 -> 0:09:13]
+we can't do this.
+
+[0:09:13 -> 0:09:14]
+So, if we want to increase the dimension,
+
+[0:09:15 -> 0:09:18]
+then we can do this in three dimensions.
+
+[0:09:18 -> 0:09:19]
+If we want to do this in three dimensions,
+
+[0:09:20 -> 0:09:23]
+then it becomes easier to separate linearly.
+
+[0:09:23 -> 0:09:25]
+Or we can increase it in more dimension.
+
+[0:09:25 -> 0:09:29]
+So, this is the kernel function.
+
+[0:09:30 -> 0:09:32]
+So, there are various kernel function.
+
+[0:09:32 -> 0:09:34]
+The kernel function is your simplest table.
+
+[0:09:35 -> 0:09:36]
+Because it is linearly separable data.
+
+[0:09:37 -> 0:09:38]
+When it is in that, it is not visible.
+
+[0:09:39 -> 0:09:41]
+But if your linear separable is not in that,
+
+[0:09:41 -> 0:09:42]
+then you are over-rapping it.
+
+[0:09:42 -> 0:09:43]
+So, you are doing polynomial kernel,
+
+[0:09:44 -> 0:09:45]
+radial basis function.
+
+[0:09:45 -> 0:09:46]
+We can use this method.
+
+[0:09:47 -> 0:09:50]
+We can use the two dimensions or three dimensions of the data
+
+[0:09:50 -> 0:09:51]
+to increase the dimension.
+
+[0:09:52 -> 0:09:55]
+And after increasing, we can easily separate them.
+
+[0:09:55 -> 0:09:58]
+So, we use these things further.
+
+[0:09:58 -> 0:10:02]
+So, here is only a basic theoretical introduction
+
+[0:10:02 -> 0:10:04]
+that we should generalize the model of SVM
+
+[0:10:04 -> 0:10:06]
+so that we can linearly separate it.
+
+[0:10:07 -> 0:10:10]
+So, the more the margin is, the better it is.
+
+[0:10:10 -> 0:10:11]
+And note all these points.
+
+[0:10:11 -> 0:10:13]
+Then we will do an example of an example.
+
+[0:10:13 -> 0:10:15]
+Which you will explain to us later.
+
+[0:10:16 -> 0:10:16]
+Thank you.
+

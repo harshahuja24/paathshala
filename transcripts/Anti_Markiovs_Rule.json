@@ -1,0 +1,5954 @@
+{
+  "video_id": "Anti_Markiovs_Rule",
+  "transcription_date": "2026-01-30T00:25:06.622071",
+  "language": "en",
+  "duration": 0,
+  "segments": [
+    {
+      "id": 0,
+      "start": 2.480000000000004,
+      "end": 6.9,
+      "start_time": "0:00:02",
+      "end_time": "0:00:06",
+      "text": "So the other reaction I want to show you is the anti-Marcovnikov hydrohallogenation.",
+      "words": [
+        {
+          "word": " So",
+          "start": 2.480000000000004,
+          "end": 3.0,
+          "start_time": "0:00:02",
+          "end_time": "0:00:03"
+        },
+        {
+          "word": " the",
+          "start": 3.0,
+          "end": 3.14,
+          "start_time": "0:00:03",
+          "end_time": "0:00:03"
+        },
+        {
+          "word": " other",
+          "start": 3.14,
+          "end": 3.26,
+          "start_time": "0:00:03",
+          "end_time": "0:00:03"
+        },
+        {
+          "word": " reaction",
+          "start": 3.26,
+          "end": 3.6,
+          "start_time": "0:00:03",
+          "end_time": "0:00:03"
+        },
+        {
+          "word": " I",
+          "start": 3.6,
+          "end": 3.72,
+          "start_time": "0:00:03",
+          "end_time": "0:00:03"
+        },
+        {
+          "word": " want",
+          "start": 3.72,
+          "end": 3.8,
+          "start_time": "0:00:03",
+          "end_time": "0:00:03"
+        },
+        {
+          "word": " to",
+          "start": 3.8,
+          "end": 3.88,
+          "start_time": "0:00:03",
+          "end_time": "0:00:03"
+        },
+        {
+          "word": " show",
+          "start": 3.88,
+          "end": 4.04,
+          "start_time": "0:00:03",
+          "end_time": "0:00:04"
+        },
+        {
+          "word": " you",
+          "start": 4.04,
+          "end": 4.22,
+          "start_time": "0:00:04",
+          "end_time": "0:00:04"
+        },
+        {
+          "word": " is",
+          "start": 4.22,
+          "end": 4.46,
+          "start_time": "0:00:04",
+          "end_time": "0:00:04"
+        },
+        {
+          "word": " the",
+          "start": 4.46,
+          "end": 4.66,
+          "start_time": "0:00:04",
+          "end_time": "0:00:04"
+        },
+        {
+          "word": " anti",
+          "start": 4.66,
+          "end": 5.14,
+          "start_time": "0:00:04",
+          "end_time": "0:00:05"
+        },
+        {
+          "word": "-Marcovnikov",
+          "start": 5.14,
+          "end": 6.04,
+          "start_time": "0:00:05",
+          "end_time": "0:00:06"
+        },
+        {
+          "word": " hydrohallogenation.",
+          "start": 6.04,
+          "end": 6.9,
+          "start_time": "0:00:06",
+          "end_time": "0:00:06"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "start": 7.22,
+      "end": 11.6,
+      "start_time": "0:00:07",
+      "end_time": "0:00:11",
+      "text": "So remember when we were looking at addition reactions, we were looking at hydrohallogenation",
+      "words": [
+        {
+          "word": " So",
+          "start": 7.22,
+          "end": 7.38,
+          "start_time": "0:00:07",
+          "end_time": "0:00:07"
+        },
+        {
+          "word": " remember",
+          "start": 7.38,
+          "end": 7.62,
+          "start_time": "0:00:07",
+          "end_time": "0:00:07"
+        },
+        {
+          "word": " when",
+          "start": 7.62,
+          "end": 7.86,
+          "start_time": "0:00:07",
+          "end_time": "0:00:07"
+        },
+        {
+          "word": " we",
+          "start": 7.86,
+          "end": 7.94,
+          "start_time": "0:00:07",
+          "end_time": "0:00:07"
+        },
+        {
+          "word": " were",
+          "start": 7.94,
+          "end": 8.04,
+          "start_time": "0:00:07",
+          "end_time": "0:00:08"
+        },
+        {
+          "word": " looking",
+          "start": 8.04,
+          "end": 8.24,
+          "start_time": "0:00:08",
+          "end_time": "0:00:08"
+        },
+        {
+          "word": " at",
+          "start": 8.24,
+          "end": 8.38,
+          "start_time": "0:00:08",
+          "end_time": "0:00:08"
+        },
+        {
+          "word": " addition",
+          "start": 8.38,
+          "end": 8.68,
+          "start_time": "0:00:08",
+          "end_time": "0:00:08"
+        },
+        {
+          "word": " reactions,",
+          "start": 8.68,
+          "end": 9.24,
+          "start_time": "0:00:08",
+          "end_time": "0:00:09"
+        },
+        {
+          "word": " we",
+          "start": 9.72,
+          "end": 9.92,
+          "start_time": "0:00:09",
+          "end_time": "0:00:09"
+        },
+        {
+          "word": " were",
+          "start": 9.92,
+          "end": 10.04,
+          "start_time": "0:00:09",
+          "end_time": "0:00:10"
+        },
+        {
+          "word": " looking",
+          "start": 10.04,
+          "end": 10.26,
+          "start_time": "0:00:10",
+          "end_time": "0:00:10"
+        },
+        {
+          "word": " at",
+          "start": 10.26,
+          "end": 10.44,
+          "start_time": "0:00:10",
+          "end_time": "0:00:10"
+        },
+        {
+          "word": " hydrohallogenation",
+          "start": 10.44,
+          "end": 11.6,
+          "start_time": "0:00:10",
+          "end_time": "0:00:11"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 11.6,
+      "end": 16.14,
+      "start_time": "0:00:11",
+      "end_time": "0:00:16",
+      "text": "and we were understanding that that was a regio-specific reaction.",
+      "words": [
+        {
+          "word": " and",
+          "start": 11.6,
+          "end": 12.02,
+          "start_time": "0:00:11",
+          "end_time": "0:00:12"
+        },
+        {
+          "word": " we",
+          "start": 12.02,
+          "end": 12.14,
+          "start_time": "0:00:12",
+          "end_time": "0:00:12"
+        },
+        {
+          "word": " were",
+          "start": 12.14,
+          "end": 12.24,
+          "start_time": "0:00:12",
+          "end_time": "0:00:12"
+        },
+        {
+          "word": " understanding",
+          "start": 12.24,
+          "end": 12.74,
+          "start_time": "0:00:12",
+          "end_time": "0:00:12"
+        },
+        {
+          "word": " that",
+          "start": 12.74,
+          "end": 12.98,
+          "start_time": "0:00:12",
+          "end_time": "0:00:12"
+        },
+        {
+          "word": " that",
+          "start": 12.98,
+          "end": 13.12,
+          "start_time": "0:00:12",
+          "end_time": "0:00:13"
+        },
+        {
+          "word": " was",
+          "start": 13.12,
+          "end": 13.3,
+          "start_time": "0:00:13",
+          "end_time": "0:00:13"
+        },
+        {
+          "word": " a",
+          "start": 13.3,
+          "end": 13.58,
+          "start_time": "0:00:13",
+          "end_time": "0:00:13"
+        },
+        {
+          "word": " regio",
+          "start": 13.58,
+          "end": 14.3,
+          "start_time": "0:00:13",
+          "end_time": "0:00:14"
+        },
+        {
+          "word": "-specific",
+          "start": 14.3,
+          "end": 14.9,
+          "start_time": "0:00:14",
+          "end_time": "0:00:14"
+        },
+        {
+          "word": " reaction.",
+          "start": 14.9,
+          "end": 16.14,
+          "start_time": "0:00:14",
+          "end_time": "0:00:16"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 16.780000000000005,
+      "end": 22.5,
+      "start_time": "0:00:16",
+      "end_time": "0:00:22",
+      "text": "Regio-specific meaning that the halogen would always go to the more substituted of the",
+      "words": [
+        {
+          "word": " Regio",
+          "start": 16.780000000000005,
+          "end": 17.3,
+          "start_time": "0:00:16",
+          "end_time": "0:00:17"
+        },
+        {
+          "word": "-specific",
+          "start": 17.3,
+          "end": 17.7,
+          "start_time": "0:00:17",
+          "end_time": "0:00:17"
+        },
+        {
+          "word": " meaning",
+          "start": 17.7,
+          "end": 18.12,
+          "start_time": "0:00:17",
+          "end_time": "0:00:18"
+        },
+        {
+          "word": " that",
+          "start": 18.12,
+          "end": 18.46,
+          "start_time": "0:00:18",
+          "end_time": "0:00:18"
+        },
+        {
+          "word": " the",
+          "start": 18.46,
+          "end": 18.78,
+          "start_time": "0:00:18",
+          "end_time": "0:00:18"
+        },
+        {
+          "word": " halogen",
+          "start": 18.78,
+          "end": 19.24,
+          "start_time": "0:00:18",
+          "end_time": "0:00:19"
+        },
+        {
+          "word": " would",
+          "start": 19.24,
+          "end": 19.4,
+          "start_time": "0:00:19",
+          "end_time": "0:00:19"
+        },
+        {
+          "word": " always",
+          "start": 19.4,
+          "end": 19.8,
+          "start_time": "0:00:19",
+          "end_time": "0:00:19"
+        },
+        {
+          "word": " go",
+          "start": 19.8,
+          "end": 20.06,
+          "start_time": "0:00:19",
+          "end_time": "0:00:20"
+        },
+        {
+          "word": " to",
+          "start": 20.06,
+          "end": 20.26,
+          "start_time": "0:00:20",
+          "end_time": "0:00:20"
+        },
+        {
+          "word": " the",
+          "start": 20.26,
+          "end": 20.4,
+          "start_time": "0:00:20",
+          "end_time": "0:00:20"
+        },
+        {
+          "word": " more",
+          "start": 20.4,
+          "end": 20.76,
+          "start_time": "0:00:20",
+          "end_time": "0:00:20"
+        },
+        {
+          "word": " substituted",
+          "start": 20.76,
+          "end": 21.82,
+          "start_time": "0:00:20",
+          "end_time": "0:00:21"
+        },
+        {
+          "word": " of",
+          "start": 21.82,
+          "end": 22.34,
+          "start_time": "0:00:21",
+          "end_time": "0:00:22"
+        },
+        {
+          "word": " the",
+          "start": 22.34,
+          "end": 22.5,
+          "start_time": "0:00:22",
+          "end_time": "0:00:22"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 22.5,
+      "end": 28.16,
+      "start_time": "0:00:22",
+      "end_time": "0:00:28",
+      "text": "two carbons participating in the pi bond because of the fact that it would only go by the",
+      "words": [
+        {
+          "word": " two",
+          "start": 22.5,
+          "end": 22.8,
+          "start_time": "0:00:22",
+          "end_time": "0:00:22"
+        },
+        {
+          "word": " carbons",
+          "start": 22.8,
+          "end": 23.34,
+          "start_time": "0:00:22",
+          "end_time": "0:00:23"
+        },
+        {
+          "word": " participating",
+          "start": 23.34,
+          "end": 23.86,
+          "start_time": "0:00:23",
+          "end_time": "0:00:23"
+        },
+        {
+          "word": " in",
+          "start": 23.86,
+          "end": 24.14,
+          "start_time": "0:00:23",
+          "end_time": "0:00:24"
+        },
+        {
+          "word": " the",
+          "start": 24.14,
+          "end": 24.28,
+          "start_time": "0:00:24",
+          "end_time": "0:00:24"
+        },
+        {
+          "word": " pi",
+          "start": 24.28,
+          "end": 24.46,
+          "start_time": "0:00:24",
+          "end_time": "0:00:24"
+        },
+        {
+          "word": " bond",
+          "start": 24.46,
+          "end": 24.8,
+          "start_time": "0:00:24",
+          "end_time": "0:00:24"
+        },
+        {
+          "word": " because",
+          "start": 24.8,
+          "end": 25.5,
+          "start_time": "0:00:24",
+          "end_time": "0:00:25"
+        },
+        {
+          "word": " of",
+          "start": 25.5,
+          "end": 25.8,
+          "start_time": "0:00:25",
+          "end_time": "0:00:25"
+        },
+        {
+          "word": " the",
+          "start": 25.8,
+          "end": 25.9,
+          "start_time": "0:00:25",
+          "end_time": "0:00:25"
+        },
+        {
+          "word": " fact",
+          "start": 25.9,
+          "end": 26.12,
+          "start_time": "0:00:25",
+          "end_time": "0:00:26"
+        },
+        {
+          "word": " that",
+          "start": 26.12,
+          "end": 26.3,
+          "start_time": "0:00:26",
+          "end_time": "0:00:26"
+        },
+        {
+          "word": " it",
+          "start": 26.3,
+          "end": 26.4,
+          "start_time": "0:00:26",
+          "end_time": "0:00:26"
+        },
+        {
+          "word": " would",
+          "start": 26.4,
+          "end": 26.54,
+          "start_time": "0:00:26",
+          "end_time": "0:00:26"
+        },
+        {
+          "word": " only",
+          "start": 26.54,
+          "end": 26.98,
+          "start_time": "0:00:26",
+          "end_time": "0:00:26"
+        },
+        {
+          "word": " go",
+          "start": 26.98,
+          "end": 27.36,
+          "start_time": "0:00:26",
+          "end_time": "0:00:27"
+        },
+        {
+          "word": " by",
+          "start": 27.36,
+          "end": 27.94,
+          "start_time": "0:00:27",
+          "end_time": "0:00:27"
+        },
+        {
+          "word": " the",
+          "start": 27.94,
+          "end": 28.16,
+          "start_time": "0:00:27",
+          "end_time": "0:00:28"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 28.16,
+      "end": 31.06,
+      "start_time": "0:00:28",
+      "end_time": "0:00:31",
+      "text": "more stable carbocation intermediate.",
+      "words": [
+        {
+          "word": " more",
+          "start": 28.16,
+          "end": 28.54,
+          "start_time": "0:00:28",
+          "end_time": "0:00:28"
+        },
+        {
+          "word": " stable",
+          "start": 28.54,
+          "end": 29.28,
+          "start_time": "0:00:28",
+          "end_time": "0:00:29"
+        },
+        {
+          "word": " carbocation",
+          "start": 29.28,
+          "end": 30.22,
+          "start_time": "0:00:29",
+          "end_time": "0:00:30"
+        },
+        {
+          "word": " intermediate.",
+          "start": 30.22,
+          "end": 31.06,
+          "start_time": "0:00:30",
+          "end_time": "0:00:31"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 31.2,
+      "end": 34.98,
+      "start_time": "0:00:31",
+      "end_time": "0:00:34",
+      "text": "Remember this pi bond would get the proton, leave the secondary carbocation and then",
+      "words": [
+        {
+          "word": " Remember",
+          "start": 31.2,
+          "end": 31.34,
+          "start_time": "0:00:31",
+          "end_time": "0:00:31"
+        },
+        {
+          "word": " this",
+          "start": 31.34,
+          "end": 31.6,
+          "start_time": "0:00:31",
+          "end_time": "0:00:31"
+        },
+        {
+          "word": " pi",
+          "start": 31.6,
+          "end": 31.82,
+          "start_time": "0:00:31",
+          "end_time": "0:00:31"
+        },
+        {
+          "word": " bond",
+          "start": 31.82,
+          "end": 32.04,
+          "start_time": "0:00:31",
+          "end_time": "0:00:32"
+        },
+        {
+          "word": " would",
+          "start": 32.04,
+          "end": 32.2,
+          "start_time": "0:00:32",
+          "end_time": "0:00:32"
+        },
+        {
+          "word": " get",
+          "start": 32.2,
+          "end": 32.36,
+          "start_time": "0:00:32",
+          "end_time": "0:00:32"
+        },
+        {
+          "word": " the",
+          "start": 32.36,
+          "end": 32.52,
+          "start_time": "0:00:32",
+          "end_time": "0:00:32"
+        },
+        {
+          "word": " proton,",
+          "start": 32.52,
+          "end": 32.86,
+          "start_time": "0:00:32",
+          "end_time": "0:00:32"
+        },
+        {
+          "word": " leave",
+          "start": 33.34,
+          "end": 33.44,
+          "start_time": "0:00:33",
+          "end_time": "0:00:33"
+        },
+        {
+          "word": " the",
+          "start": 33.44,
+          "end": 33.64,
+          "start_time": "0:00:33",
+          "end_time": "0:00:33"
+        },
+        {
+          "word": " secondary",
+          "start": 33.64,
+          "end": 34.02,
+          "start_time": "0:00:33",
+          "end_time": "0:00:34"
+        },
+        {
+          "word": " carbocation",
+          "start": 34.02,
+          "end": 34.68,
+          "start_time": "0:00:34",
+          "end_time": "0:00:34"
+        },
+        {
+          "word": " and",
+          "start": 34.68,
+          "end": 34.92,
+          "start_time": "0:00:34",
+          "end_time": "0:00:34"
+        },
+        {
+          "word": " then",
+          "start": 34.92,
+          "end": 34.98,
+          "start_time": "0:00:34",
+          "end_time": "0:00:34"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 34.98,
+      "end": 41.16,
+      "start_time": "0:00:34",
+      "end_time": "0:00:41",
+      "text": "that's where the bromide would go and we'd get the Marcovnikov product in a regio-specific",
+      "words": [
+        {
+          "word": " that's",
+          "start": 34.98,
+          "end": 35.34,
+          "start_time": "0:00:34",
+          "end_time": "0:00:35"
+        },
+        {
+          "word": " where",
+          "start": 35.34,
+          "end": 35.48,
+          "start_time": "0:00:35",
+          "end_time": "0:00:35"
+        },
+        {
+          "word": " the",
+          "start": 35.48,
+          "end": 35.6,
+          "start_time": "0:00:35",
+          "end_time": "0:00:35"
+        },
+        {
+          "word": " bromide",
+          "start": 35.6,
+          "end": 36.06,
+          "start_time": "0:00:35",
+          "end_time": "0:00:36"
+        },
+        {
+          "word": " would",
+          "start": 36.06,
+          "end": 36.3,
+          "start_time": "0:00:36",
+          "end_time": "0:00:36"
+        },
+        {
+          "word": " go",
+          "start": 36.3,
+          "end": 36.56,
+          "start_time": "0:00:36",
+          "end_time": "0:00:36"
+        },
+        {
+          "word": " and",
+          "start": 36.56,
+          "end": 37.1,
+          "start_time": "0:00:36",
+          "end_time": "0:00:37"
+        },
+        {
+          "word": " we'd",
+          "start": 37.1,
+          "end": 37.4,
+          "start_time": "0:00:37",
+          "end_time": "0:00:37"
+        },
+        {
+          "word": " get",
+          "start": 37.4,
+          "end": 37.56,
+          "start_time": "0:00:37",
+          "end_time": "0:00:37"
+        },
+        {
+          "word": " the",
+          "start": 37.56,
+          "end": 38.16,
+          "start_time": "0:00:37",
+          "end_time": "0:00:38"
+        },
+        {
+          "word": " Marcovnikov",
+          "start": 38.16,
+          "end": 39.36,
+          "start_time": "0:00:38",
+          "end_time": "0:00:39"
+        },
+        {
+          "word": " product",
+          "start": 39.36,
+          "end": 39.82,
+          "start_time": "0:00:39",
+          "end_time": "0:00:39"
+        },
+        {
+          "word": " in",
+          "start": 39.82,
+          "end": 40.26,
+          "start_time": "0:00:39",
+          "end_time": "0:00:40"
+        },
+        {
+          "word": " a",
+          "start": 40.26,
+          "end": 40.38,
+          "start_time": "0:00:40",
+          "end_time": "0:00:40"
+        },
+        {
+          "word": " regio",
+          "start": 40.38,
+          "end": 40.76,
+          "start_time": "0:00:40",
+          "end_time": "0:00:40"
+        },
+        {
+          "word": "-specific",
+          "start": 40.76,
+          "end": 41.16,
+          "start_time": "0:00:40",
+          "end_time": "0:00:41"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 41.16,
+      "end": 41.68,
+      "start_time": "0:00:41",
+      "end_time": "0:00:41",
+      "text": "manner.",
+      "words": [
+        {
+          "word": " manner.",
+          "start": 41.16,
+          "end": 41.68,
+          "start_time": "0:00:41",
+          "end_time": "0:00:41"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 42.04,
+      "end": 46.44,
+      "start_time": "0:00:42",
+      "end_time": "0:00:46",
+      "text": "But then we didn't look at the mechanism but we also noted the fact that in the presence",
+      "words": [
+        {
+          "word": " But",
+          "start": 42.04,
+          "end": 42.12,
+          "start_time": "0:00:42",
+          "end_time": "0:00:42"
+        },
+        {
+          "word": " then",
+          "start": 42.12,
+          "end": 42.44,
+          "start_time": "0:00:42",
+          "end_time": "0:00:42"
+        },
+        {
+          "word": " we",
+          "start": 42.44,
+          "end": 42.86,
+          "start_time": "0:00:42",
+          "end_time": "0:00:42"
+        },
+        {
+          "word": " didn't",
+          "start": 42.86,
+          "end": 43.0,
+          "start_time": "0:00:42",
+          "end_time": "0:00:43"
+        },
+        {
+          "word": " look",
+          "start": 43.0,
+          "end": 43.14,
+          "start_time": "0:00:43",
+          "end_time": "0:00:43"
+        },
+        {
+          "word": " at",
+          "start": 43.14,
+          "end": 43.24,
+          "start_time": "0:00:43",
+          "end_time": "0:00:43"
+        },
+        {
+          "word": " the",
+          "start": 43.24,
+          "end": 43.34,
+          "start_time": "0:00:43",
+          "end_time": "0:00:43"
+        },
+        {
+          "word": " mechanism",
+          "start": 43.34,
+          "end": 43.72,
+          "start_time": "0:00:43",
+          "end_time": "0:00:43"
+        },
+        {
+          "word": " but",
+          "start": 43.72,
+          "end": 43.94,
+          "start_time": "0:00:43",
+          "end_time": "0:00:43"
+        },
+        {
+          "word": " we",
+          "start": 43.94,
+          "end": 44.08,
+          "start_time": "0:00:43",
+          "end_time": "0:00:44"
+        },
+        {
+          "word": " also",
+          "start": 44.08,
+          "end": 44.38,
+          "start_time": "0:00:44",
+          "end_time": "0:00:44"
+        },
+        {
+          "word": " noted",
+          "start": 44.38,
+          "end": 44.58,
+          "start_time": "0:00:44",
+          "end_time": "0:00:44"
+        },
+        {
+          "word": " the",
+          "start": 44.58,
+          "end": 44.82,
+          "start_time": "0:00:44",
+          "end_time": "0:00:44"
+        },
+        {
+          "word": " fact",
+          "start": 44.82,
+          "end": 45.04,
+          "start_time": "0:00:44",
+          "end_time": "0:00:45"
+        },
+        {
+          "word": " that",
+          "start": 45.04,
+          "end": 45.44,
+          "start_time": "0:00:45",
+          "end_time": "0:00:45"
+        },
+        {
+          "word": " in",
+          "start": 45.44,
+          "end": 45.9,
+          "start_time": "0:00:45",
+          "end_time": "0:00:45"
+        },
+        {
+          "word": " the",
+          "start": 45.9,
+          "end": 46.04,
+          "start_time": "0:00:45",
+          "end_time": "0:00:46"
+        },
+        {
+          "word": " presence",
+          "start": 46.04,
+          "end": 46.44,
+          "start_time": "0:00:46",
+          "end_time": "0:00:46"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 46.44,
+      "end": 52.76,
+      "start_time": "0:00:46",
+      "end_time": "0:00:52",
+      "text": "of peroxides this would shift to anti-Marcovnikov regio-specificity.",
+      "words": [
+        {
+          "word": " of",
+          "start": 46.44,
+          "end": 46.78,
+          "start_time": "0:00:46",
+          "end_time": "0:00:46"
+        },
+        {
+          "word": " peroxides",
+          "start": 46.78,
+          "end": 47.56,
+          "start_time": "0:00:46",
+          "end_time": "0:00:47"
+        },
+        {
+          "word": " this",
+          "start": 47.56,
+          "end": 48.26,
+          "start_time": "0:00:47",
+          "end_time": "0:00:48"
+        },
+        {
+          "word": " would",
+          "start": 48.26,
+          "end": 48.48,
+          "start_time": "0:00:48",
+          "end_time": "0:00:48"
+        },
+        {
+          "word": " shift",
+          "start": 48.48,
+          "end": 48.88,
+          "start_time": "0:00:48",
+          "end_time": "0:00:48"
+        },
+        {
+          "word": " to",
+          "start": 48.88,
+          "end": 49.44,
+          "start_time": "0:00:48",
+          "end_time": "0:00:49"
+        },
+        {
+          "word": " anti",
+          "start": 49.44,
+          "end": 50.12,
+          "start_time": "0:00:49",
+          "end_time": "0:00:50"
+        },
+        {
+          "word": "-Marcovnikov",
+          "start": 50.12,
+          "end": 51.28,
+          "start_time": "0:00:50",
+          "end_time": "0:00:51"
+        },
+        {
+          "word": " regio",
+          "start": 51.28,
+          "end": 51.94,
+          "start_time": "0:00:51",
+          "end_time": "0:00:51"
+        },
+        {
+          "word": "-specificity.",
+          "start": 51.94,
+          "end": 52.76,
+          "start_time": "0:00:51",
+          "end_time": "0:00:52"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 52.76,
+      "end": 59.1,
+      "start_time": "0:00:52",
+      "end_time": "0:00:59",
+      "text": "In other words we would get the halogen on the less substituted of the two carbons participating",
+      "words": [
+        {
+          "word": " In",
+          "start": 52.76,
+          "end": 52.92,
+          "start_time": "0:00:52",
+          "end_time": "0:00:52"
+        },
+        {
+          "word": " other",
+          "start": 52.92,
+          "end": 53.06,
+          "start_time": "0:00:52",
+          "end_time": "0:00:53"
+        },
+        {
+          "word": " words",
+          "start": 53.06,
+          "end": 53.24,
+          "start_time": "0:00:53",
+          "end_time": "0:00:53"
+        },
+        {
+          "word": " we",
+          "start": 53.24,
+          "end": 53.5,
+          "start_time": "0:00:53",
+          "end_time": "0:00:53"
+        },
+        {
+          "word": " would",
+          "start": 53.5,
+          "end": 53.68,
+          "start_time": "0:00:53",
+          "end_time": "0:00:53"
+        },
+        {
+          "word": " get",
+          "start": 53.68,
+          "end": 53.86,
+          "start_time": "0:00:53",
+          "end_time": "0:00:53"
+        },
+        {
+          "word": " the",
+          "start": 53.86,
+          "end": 54.34,
+          "start_time": "0:00:53",
+          "end_time": "0:00:54"
+        },
+        {
+          "word": " halogen",
+          "start": 54.34,
+          "end": 54.8,
+          "start_time": "0:00:54",
+          "end_time": "0:00:54"
+        },
+        {
+          "word": " on",
+          "start": 54.8,
+          "end": 55.1,
+          "start_time": "0:00:54",
+          "end_time": "0:00:55"
+        },
+        {
+          "word": " the",
+          "start": 55.1,
+          "end": 55.34,
+          "start_time": "0:00:55",
+          "end_time": "0:00:55"
+        },
+        {
+          "word": " less",
+          "start": 55.34,
+          "end": 55.78,
+          "start_time": "0:00:55",
+          "end_time": "0:00:55"
+        },
+        {
+          "word": " substituted",
+          "start": 55.78,
+          "end": 56.94,
+          "start_time": "0:00:55",
+          "end_time": "0:00:56"
+        },
+        {
+          "word": " of",
+          "start": 56.94,
+          "end": 57.38,
+          "start_time": "0:00:56",
+          "end_time": "0:00:57"
+        },
+        {
+          "word": " the",
+          "start": 57.38,
+          "end": 57.54,
+          "start_time": "0:00:57",
+          "end_time": "0:00:57"
+        },
+        {
+          "word": " two",
+          "start": 57.54,
+          "end": 57.82,
+          "start_time": "0:00:57",
+          "end_time": "0:00:57"
+        },
+        {
+          "word": " carbons",
+          "start": 57.82,
+          "end": 58.36,
+          "start_time": "0:00:57",
+          "end_time": "0:00:58"
+        },
+        {
+          "word": " participating",
+          "start": 58.36,
+          "end": 59.1,
+          "start_time": "0:00:58",
+          "end_time": "0:00:59"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 59.1,
+      "end": 59.9,
+      "start_time": "0:00:59",
+      "end_time": "0:00:59",
+      "text": "in the pi bond.",
+      "words": [
+        {
+          "word": " in",
+          "start": 59.1,
+          "end": 59.38,
+          "start_time": "0:00:59",
+          "end_time": "0:00:59"
+        },
+        {
+          "word": " the",
+          "start": 59.38,
+          "end": 59.48,
+          "start_time": "0:00:59",
+          "end_time": "0:00:59"
+        },
+        {
+          "word": " pi",
+          "start": 59.48,
+          "end": 59.68,
+          "start_time": "0:00:59",
+          "end_time": "0:00:59"
+        },
+        {
+          "word": " bond.",
+          "start": 59.68,
+          "end": 59.9,
+          "start_time": "0:00:59",
+          "end_time": "0:00:59"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 60.26,
+      "end": 66.24,
+      "start_time": "0:01:00",
+      "end_time": "0:01:06",
+      "text": "And we didn't look at why, well here's why, it's a free radical reaction and so the peroxides",
+      "words": [
+        {
+          "word": " And",
+          "start": 60.26,
+          "end": 60.28,
+          "start_time": "0:01:00",
+          "end_time": "0:01:00"
+        },
+        {
+          "word": " we",
+          "start": 60.28,
+          "end": 60.38,
+          "start_time": "0:01:00",
+          "end_time": "0:01:00"
+        },
+        {
+          "word": " didn't",
+          "start": 60.38,
+          "end": 60.56,
+          "start_time": "0:01:00",
+          "end_time": "0:01:00"
+        },
+        {
+          "word": " look",
+          "start": 60.56,
+          "end": 60.72,
+          "start_time": "0:01:00",
+          "end_time": "0:01:00"
+        },
+        {
+          "word": " at",
+          "start": 60.72,
+          "end": 60.84,
+          "start_time": "0:01:00",
+          "end_time": "0:01:00"
+        },
+        {
+          "word": " why,",
+          "start": 60.84,
+          "end": 61.18,
+          "start_time": "0:01:00",
+          "end_time": "0:01:01"
+        },
+        {
+          "word": " well",
+          "start": 61.54,
+          "end": 62.16,
+          "start_time": "0:01:01",
+          "end_time": "0:01:02"
+        },
+        {
+          "word": " here's",
+          "start": 62.16,
+          "end": 62.54,
+          "start_time": "0:01:02",
+          "end_time": "0:01:02"
+        },
+        {
+          "word": " why,",
+          "start": 62.54,
+          "end": 62.76,
+          "start_time": "0:01:02",
+          "end_time": "0:01:02"
+        },
+        {
+          "word": " it's",
+          "start": 62.94,
+          "end": 63.16,
+          "start_time": "0:01:02",
+          "end_time": "0:01:03"
+        },
+        {
+          "word": " a",
+          "start": 63.16,
+          "end": 63.2,
+          "start_time": "0:01:03",
+          "end_time": "0:01:03"
+        },
+        {
+          "word": " free",
+          "start": 63.2,
+          "end": 63.36,
+          "start_time": "0:01:03",
+          "end_time": "0:01:03"
+        },
+        {
+          "word": " radical",
+          "start": 63.36,
+          "end": 63.64,
+          "start_time": "0:01:03",
+          "end_time": "0:01:03"
+        },
+        {
+          "word": " reaction",
+          "start": 63.64,
+          "end": 64.2,
+          "start_time": "0:01:03",
+          "end_time": "0:01:04"
+        },
+        {
+          "word": " and",
+          "start": 64.2,
+          "end": 64.62,
+          "start_time": "0:01:04",
+          "end_time": "0:01:04"
+        },
+        {
+          "word": " so",
+          "start": 64.62,
+          "end": 64.82,
+          "start_time": "0:01:04",
+          "end_time": "0:01:04"
+        },
+        {
+          "word": " the",
+          "start": 64.82,
+          "end": 65.32,
+          "start_time": "0:01:04",
+          "end_time": "0:01:05"
+        },
+        {
+          "word": " peroxides",
+          "start": 65.32,
+          "end": 66.24,
+          "start_time": "0:01:05",
+          "end_time": "0:01:06"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 66.24,
+      "end": 68.36,
+      "start_time": "0:01:06",
+      "end_time": "0:01:08",
+      "text": "obviously play a very key role in this.",
+      "words": [
+        {
+          "word": " obviously",
+          "start": 66.24,
+          "end": 66.74,
+          "start_time": "0:01:06",
+          "end_time": "0:01:06"
+        },
+        {
+          "word": " play",
+          "start": 66.74,
+          "end": 67.0,
+          "start_time": "0:01:06",
+          "end_time": "0:01:07"
+        },
+        {
+          "word": " a",
+          "start": 67.0,
+          "end": 67.28,
+          "start_time": "0:01:07",
+          "end_time": "0:01:07"
+        },
+        {
+          "word": " very",
+          "start": 67.28,
+          "end": 67.46,
+          "start_time": "0:01:07",
+          "end_time": "0:01:07"
+        },
+        {
+          "word": " key",
+          "start": 67.46,
+          "end": 67.7,
+          "start_time": "0:01:07",
+          "end_time": "0:01:07"
+        },
+        {
+          "word": " role",
+          "start": 67.7,
+          "end": 67.98,
+          "start_time": "0:01:07",
+          "end_time": "0:01:07"
+        },
+        {
+          "word": " in",
+          "start": 67.98,
+          "end": 68.22,
+          "start_time": "0:01:07",
+          "end_time": "0:01:08"
+        },
+        {
+          "word": " this.",
+          "start": 68.22,
+          "end": 68.36,
+          "start_time": "0:01:08",
+          "end_time": "0:01:08"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 68.7,
+      "end": 69.38,
+      "start_time": "0:01:08",
+      "end_time": "0:01:09",
+      "text": "So let's take a look.",
+      "words": [
+        {
+          "word": " So",
+          "start": 68.7,
+          "end": 68.8,
+          "start_time": "0:01:08",
+          "end_time": "0:01:08"
+        },
+        {
+          "word": " let's",
+          "start": 68.8,
+          "end": 68.98,
+          "start_time": "0:01:08",
+          "end_time": "0:01:08"
+        },
+        {
+          "word": " take",
+          "start": 68.98,
+          "end": 69.12,
+          "start_time": "0:01:08",
+          "end_time": "0:01:09"
+        },
+        {
+          "word": " a",
+          "start": 69.12,
+          "end": 69.24,
+          "start_time": "0:01:09",
+          "end_time": "0:01:09"
+        },
+        {
+          "word": " look.",
+          "start": 69.24,
+          "end": 69.38,
+          "start_time": "0:01:09",
+          "end_time": "0:01:09"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 69.82,
+      "end": 74.84,
+      "start_time": "0:01:09",
+      "end_time": "0:01:14",
+      "text": "The initiation step is going to be provided by the peroxides and so remember when we talked",
+      "words": [
+        {
+          "word": " The",
+          "start": 69.82,
+          "end": 69.9,
+          "start_time": "0:01:09",
+          "end_time": "0:01:09"
+        },
+        {
+          "word": " initiation",
+          "start": 69.9,
+          "end": 70.36,
+          "start_time": "0:01:09",
+          "end_time": "0:01:10"
+        },
+        {
+          "word": " step",
+          "start": 70.36,
+          "end": 71.06,
+          "start_time": "0:01:10",
+          "end_time": "0:01:11"
+        },
+        {
+          "word": " is",
+          "start": 71.06,
+          "end": 71.56,
+          "start_time": "0:01:11",
+          "end_time": "0:01:11"
+        },
+        {
+          "word": " going",
+          "start": 71.56,
+          "end": 71.96,
+          "start_time": "0:01:11",
+          "end_time": "0:01:11"
+        },
+        {
+          "word": " to",
+          "start": 71.96,
+          "end": 72.06,
+          "start_time": "0:01:11",
+          "end_time": "0:01:12"
+        },
+        {
+          "word": " be",
+          "start": 72.06,
+          "end": 72.16,
+          "start_time": "0:01:12",
+          "end_time": "0:01:12"
+        },
+        {
+          "word": " provided",
+          "start": 72.16,
+          "end": 72.54,
+          "start_time": "0:01:12",
+          "end_time": "0:01:12"
+        },
+        {
+          "word": " by",
+          "start": 72.54,
+          "end": 72.8,
+          "start_time": "0:01:12",
+          "end_time": "0:01:12"
+        },
+        {
+          "word": " the",
+          "start": 72.8,
+          "end": 72.96,
+          "start_time": "0:01:12",
+          "end_time": "0:01:12"
+        },
+        {
+          "word": " peroxides",
+          "start": 72.96,
+          "end": 73.58,
+          "start_time": "0:01:12",
+          "end_time": "0:01:13"
+        },
+        {
+          "word": " and",
+          "start": 73.58,
+          "end": 73.82,
+          "start_time": "0:01:13",
+          "end_time": "0:01:13"
+        },
+        {
+          "word": " so",
+          "start": 73.82,
+          "end": 74.04,
+          "start_time": "0:01:13",
+          "end_time": "0:01:14"
+        },
+        {
+          "word": " remember",
+          "start": 74.04,
+          "end": 74.36,
+          "start_time": "0:01:14",
+          "end_time": "0:01:14"
+        },
+        {
+          "word": " when",
+          "start": 74.36,
+          "end": 74.54,
+          "start_time": "0:01:14",
+          "end_time": "0:01:14"
+        },
+        {
+          "word": " we",
+          "start": 74.54,
+          "end": 74.64,
+          "start_time": "0:01:14",
+          "end_time": "0:01:14"
+        },
+        {
+          "word": " talked",
+          "start": 74.64,
+          "end": 74.84,
+          "start_time": "0:01:14",
+          "end_time": "0:01:14"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 74.84,
+      "end": 81.52,
+      "start_time": "0:01:14",
+      "end_time": "0:01:21",
+      "text": "about oxygen, oxygen, covalent bonds as ones that are able to undergo homolytic bond",
+      "words": [
+        {
+          "word": " about",
+          "start": 74.84,
+          "end": 75.2,
+          "start_time": "0:01:14",
+          "end_time": "0:01:15"
+        },
+        {
+          "word": " oxygen,",
+          "start": 75.2,
+          "end": 75.64,
+          "start_time": "0:01:15",
+          "end_time": "0:01:15"
+        },
+        {
+          "word": " oxygen,",
+          "start": 75.9,
+          "end": 76.22,
+          "start_time": "0:01:15",
+          "end_time": "0:01:16"
+        },
+        {
+          "word": " covalent",
+          "start": 76.38,
+          "end": 76.78,
+          "start_time": "0:01:16",
+          "end_time": "0:01:16"
+        },
+        {
+          "word": " bonds",
+          "start": 76.78,
+          "end": 77.02,
+          "start_time": "0:01:16",
+          "end_time": "0:01:17"
+        },
+        {
+          "word": " as",
+          "start": 77.02,
+          "end": 77.68,
+          "start_time": "0:01:17",
+          "end_time": "0:01:17"
+        },
+        {
+          "word": " ones",
+          "start": 77.68,
+          "end": 78.06,
+          "start_time": "0:01:17",
+          "end_time": "0:01:18"
+        },
+        {
+          "word": " that",
+          "start": 78.06,
+          "end": 78.38,
+          "start_time": "0:01:18",
+          "end_time": "0:01:18"
+        },
+        {
+          "word": " are",
+          "start": 78.38,
+          "end": 78.58,
+          "start_time": "0:01:18",
+          "end_time": "0:01:18"
+        },
+        {
+          "word": " able",
+          "start": 78.58,
+          "end": 79.2,
+          "start_time": "0:01:18",
+          "end_time": "0:01:19"
+        },
+        {
+          "word": " to",
+          "start": 79.2,
+          "end": 79.56,
+          "start_time": "0:01:19",
+          "end_time": "0:01:19"
+        },
+        {
+          "word": " undergo",
+          "start": 79.56,
+          "end": 80.68,
+          "start_time": "0:01:19",
+          "end_time": "0:01:20"
+        },
+        {
+          "word": " homolytic",
+          "start": 80.68,
+          "end": 81.28,
+          "start_time": "0:01:20",
+          "end_time": "0:01:21"
+        },
+        {
+          "word": " bond",
+          "start": 81.28,
+          "end": 81.52,
+          "start_time": "0:01:21",
+          "end_time": "0:01:21"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 81.52,
+      "end": 82.0,
+      "start_time": "0:01:21",
+      "end_time": "0:01:22",
+      "text": "cleavage.",
+      "words": [
+        {
+          "word": " cleavage.",
+          "start": 81.52,
+          "end": 82.0,
+          "start_time": "0:01:21",
+          "end_time": "0:01:22"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 82.0,
+      "end": 83.58,
+      "start_time": "0:01:22",
+      "end_time": "0:01:23",
+      "text": "That's the initiation step.",
+      "words": [
+        {
+          "word": " That's",
+          "start": 82.0,
+          "end": 82.48,
+          "start_time": "0:01:22",
+          "end_time": "0:01:22"
+        },
+        {
+          "word": " the",
+          "start": 82.48,
+          "end": 82.6,
+          "start_time": "0:01:22",
+          "end_time": "0:01:22"
+        },
+        {
+          "word": " initiation",
+          "start": 82.6,
+          "end": 83.1,
+          "start_time": "0:01:22",
+          "end_time": "0:01:23"
+        },
+        {
+          "word": " step.",
+          "start": 83.1,
+          "end": 83.58,
+          "start_time": "0:01:23",
+          "end_time": "0:01:23"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 83.92,
+      "end": 88.74,
+      "start_time": "0:01:23",
+      "end_time": "0:01:28",
+      "text": "So we have this oxygen oxygen covalent bond undergoing homolysis and then we get two",
+      "words": [
+        {
+          "word": " So",
+          "start": 83.92,
+          "end": 83.94,
+          "start_time": "0:01:23",
+          "end_time": "0:01:23"
+        },
+        {
+          "word": " we",
+          "start": 83.94,
+          "end": 84.06,
+          "start_time": "0:01:23",
+          "end_time": "0:01:24"
+        },
+        {
+          "word": " have",
+          "start": 84.06,
+          "end": 84.16,
+          "start_time": "0:01:24",
+          "end_time": "0:01:24"
+        },
+        {
+          "word": " this",
+          "start": 84.16,
+          "end": 84.36,
+          "start_time": "0:01:24",
+          "end_time": "0:01:24"
+        },
+        {
+          "word": " oxygen",
+          "start": 84.36,
+          "end": 84.8,
+          "start_time": "0:01:24",
+          "end_time": "0:01:24"
+        },
+        {
+          "word": " oxygen",
+          "start": 84.8,
+          "end": 85.16,
+          "start_time": "0:01:24",
+          "end_time": "0:01:25"
+        },
+        {
+          "word": " covalent",
+          "start": 85.16,
+          "end": 85.7,
+          "start_time": "0:01:25",
+          "end_time": "0:01:25"
+        },
+        {
+          "word": " bond",
+          "start": 85.7,
+          "end": 85.96,
+          "start_time": "0:01:25",
+          "end_time": "0:01:25"
+        },
+        {
+          "word": " undergoing",
+          "start": 85.96,
+          "end": 87.0,
+          "start_time": "0:01:25",
+          "end_time": "0:01:27"
+        },
+        {
+          "word": " homolysis",
+          "start": 87.0,
+          "end": 87.74,
+          "start_time": "0:01:27",
+          "end_time": "0:01:27"
+        },
+        {
+          "word": " and",
+          "start": 87.74,
+          "end": 87.96,
+          "start_time": "0:01:27",
+          "end_time": "0:01:27"
+        },
+        {
+          "word": " then",
+          "start": 87.96,
+          "end": 88.02,
+          "start_time": "0:01:27",
+          "end_time": "0:01:28"
+        },
+        {
+          "word": " we",
+          "start": 88.02,
+          "end": 88.16,
+          "start_time": "0:01:28",
+          "end_time": "0:01:28"
+        },
+        {
+          "word": " get",
+          "start": 88.16,
+          "end": 88.34,
+          "start_time": "0:01:28",
+          "end_time": "0:01:28"
+        },
+        {
+          "word": " two",
+          "start": 88.34,
+          "end": 88.74,
+          "start_time": "0:01:28",
+          "end_time": "0:01:28"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 88.74,
+      "end": 90.66,
+      "start_time": "0:01:28",
+      "end_time": "0:01:30",
+      "text": "hydroxyl radicals.",
+      "words": [
+        {
+          "word": " hydroxyl",
+          "start": 88.74,
+          "end": 89.78,
+          "start_time": "0:01:28",
+          "end_time": "0:01:29"
+        },
+        {
+          "word": " radicals.",
+          "start": 89.78,
+          "end": 90.66,
+          "start_time": "0:01:29",
+          "end_time": "0:01:30"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 90.94,
+      "end": 94.9,
+      "start_time": "0:01:30",
+      "end_time": "0:01:34",
+      "text": "So it's those hydroxyl radicals that are going to propagate the formation above other",
+      "words": [
+        {
+          "word": " So",
+          "start": 90.94,
+          "end": 91.1,
+          "start_time": "0:01:30",
+          "end_time": "0:01:31"
+        },
+        {
+          "word": " it's",
+          "start": 91.1,
+          "end": 91.3,
+          "start_time": "0:01:31",
+          "end_time": "0:01:31"
+        },
+        {
+          "word": " those",
+          "start": 91.3,
+          "end": 91.48,
+          "start_time": "0:01:31",
+          "end_time": "0:01:31"
+        },
+        {
+          "word": " hydroxyl",
+          "start": 91.48,
+          "end": 92.24,
+          "start_time": "0:01:31",
+          "end_time": "0:01:32"
+        },
+        {
+          "word": " radicals",
+          "start": 92.24,
+          "end": 92.74,
+          "start_time": "0:01:32",
+          "end_time": "0:01:32"
+        },
+        {
+          "word": " that",
+          "start": 92.74,
+          "end": 92.82,
+          "start_time": "0:01:32",
+          "end_time": "0:01:32"
+        },
+        {
+          "word": " are",
+          "start": 92.82,
+          "end": 92.9,
+          "start_time": "0:01:32",
+          "end_time": "0:01:32"
+        },
+        {
+          "word": " going",
+          "start": 92.9,
+          "end": 93.02,
+          "start_time": "0:01:32",
+          "end_time": "0:01:33"
+        },
+        {
+          "word": " to",
+          "start": 93.02,
+          "end": 93.06,
+          "start_time": "0:01:33",
+          "end_time": "0:01:33"
+        },
+        {
+          "word": " propagate",
+          "start": 93.06,
+          "end": 93.54,
+          "start_time": "0:01:33",
+          "end_time": "0:01:33"
+        },
+        {
+          "word": " the",
+          "start": 93.54,
+          "end": 93.7,
+          "start_time": "0:01:33",
+          "end_time": "0:01:33"
+        },
+        {
+          "word": " formation",
+          "start": 93.7,
+          "end": 94.14,
+          "start_time": "0:01:33",
+          "end_time": "0:01:34"
+        },
+        {
+          "word": " above",
+          "start": 94.14,
+          "end": 94.4,
+          "start_time": "0:01:34",
+          "end_time": "0:01:34"
+        },
+        {
+          "word": " other",
+          "start": 94.4,
+          "end": 94.9,
+          "start_time": "0:01:34",
+          "end_time": "0:01:34"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 94.9,
+      "end": 95.4,
+      "start_time": "0:01:34",
+      "end_time": "0:01:35",
+      "text": "radicals.",
+      "words": [
+        {
+          "word": " radicals.",
+          "start": 94.9,
+          "end": 95.4,
+          "start_time": "0:01:34",
+          "end_time": "0:01:35"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 95.52,
+      "end": 100.22,
+      "start_time": "0:01:35",
+      "end_time": "0:01:40",
+      "text": "So let's say that a hydroxyl radical finds one of these molecules of HBR.",
+      "words": [
+        {
+          "word": " So",
+          "start": 95.52,
+          "end": 95.52,
+          "start_time": "0:01:35",
+          "end_time": "0:01:35"
+        },
+        {
+          "word": " let's",
+          "start": 95.52,
+          "end": 96.06,
+          "start_time": "0:01:35",
+          "end_time": "0:01:36"
+        },
+        {
+          "word": " say",
+          "start": 96.06,
+          "end": 96.22,
+          "start_time": "0:01:36",
+          "end_time": "0:01:36"
+        },
+        {
+          "word": " that",
+          "start": 96.22,
+          "end": 96.5,
+          "start_time": "0:01:36",
+          "end_time": "0:01:36"
+        },
+        {
+          "word": " a",
+          "start": 96.5,
+          "end": 96.62,
+          "start_time": "0:01:36",
+          "end_time": "0:01:36"
+        },
+        {
+          "word": " hydroxyl",
+          "start": 96.62,
+          "end": 97.1,
+          "start_time": "0:01:36",
+          "end_time": "0:01:37"
+        },
+        {
+          "word": " radical",
+          "start": 97.1,
+          "end": 97.44,
+          "start_time": "0:01:37",
+          "end_time": "0:01:37"
+        },
+        {
+          "word": " finds",
+          "start": 97.44,
+          "end": 97.96,
+          "start_time": "0:01:37",
+          "end_time": "0:01:37"
+        },
+        {
+          "word": " one",
+          "start": 97.96,
+          "end": 98.58,
+          "start_time": "0:01:37",
+          "end_time": "0:01:38"
+        },
+        {
+          "word": " of",
+          "start": 98.58,
+          "end": 98.68,
+          "start_time": "0:01:38",
+          "end_time": "0:01:38"
+        },
+        {
+          "word": " these",
+          "start": 98.68,
+          "end": 98.88,
+          "start_time": "0:01:38",
+          "end_time": "0:01:38"
+        },
+        {
+          "word": " molecules",
+          "start": 98.88,
+          "end": 99.36,
+          "start_time": "0:01:38",
+          "end_time": "0:01:39"
+        },
+        {
+          "word": " of",
+          "start": 99.36,
+          "end": 99.66,
+          "start_time": "0:01:39",
+          "end_time": "0:01:39"
+        },
+        {
+          "word": " HBR.",
+          "start": 99.66,
+          "end": 100.22,
+          "start_time": "0:01:39",
+          "end_time": "0:01:40"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 100.6,
+      "end": 105.48,
+      "start_time": "0:01:40",
+      "end_time": "0:01:45",
+      "text": "Well what's going to happen is this radical and then one electron from this covalent bond",
+      "words": [
+        {
+          "word": " Well",
+          "start": 100.6,
+          "end": 100.84,
+          "start_time": "0:01:40",
+          "end_time": "0:01:40"
+        },
+        {
+          "word": " what's",
+          "start": 100.84,
+          "end": 101.14,
+          "start_time": "0:01:40",
+          "end_time": "0:01:41"
+        },
+        {
+          "word": " going",
+          "start": 101.14,
+          "end": 101.24,
+          "start_time": "0:01:41",
+          "end_time": "0:01:41"
+        },
+        {
+          "word": " to",
+          "start": 101.24,
+          "end": 101.3,
+          "start_time": "0:01:41",
+          "end_time": "0:01:41"
+        },
+        {
+          "word": " happen",
+          "start": 101.3,
+          "end": 101.64,
+          "start_time": "0:01:41",
+          "end_time": "0:01:41"
+        },
+        {
+          "word": " is",
+          "start": 101.64,
+          "end": 101.94,
+          "start_time": "0:01:41",
+          "end_time": "0:01:41"
+        },
+        {
+          "word": " this",
+          "start": 101.94,
+          "end": 102.24,
+          "start_time": "0:01:41",
+          "end_time": "0:01:42"
+        },
+        {
+          "word": " radical",
+          "start": 102.24,
+          "end": 102.7,
+          "start_time": "0:01:42",
+          "end_time": "0:01:42"
+        },
+        {
+          "word": " and",
+          "start": 102.7,
+          "end": 102.98,
+          "start_time": "0:01:42",
+          "end_time": "0:01:42"
+        },
+        {
+          "word": " then",
+          "start": 102.98,
+          "end": 103.14,
+          "start_time": "0:01:42",
+          "end_time": "0:01:43"
+        },
+        {
+          "word": " one",
+          "start": 103.14,
+          "end": 103.48,
+          "start_time": "0:01:43",
+          "end_time": "0:01:43"
+        },
+        {
+          "word": " electron",
+          "start": 103.48,
+          "end": 104.16,
+          "start_time": "0:01:43",
+          "end_time": "0:01:44"
+        },
+        {
+          "word": " from",
+          "start": 104.16,
+          "end": 104.6,
+          "start_time": "0:01:44",
+          "end_time": "0:01:44"
+        },
+        {
+          "word": " this",
+          "start": 104.6,
+          "end": 104.82,
+          "start_time": "0:01:44",
+          "end_time": "0:01:44"
+        },
+        {
+          "word": " covalent",
+          "start": 104.82,
+          "end": 105.2,
+          "start_time": "0:01:44",
+          "end_time": "0:01:45"
+        },
+        {
+          "word": " bond",
+          "start": 105.2,
+          "end": 105.48,
+          "start_time": "0:01:45",
+          "end_time": "0:01:45"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 105.48,
+      "end": 109.68,
+      "start_time": "0:01:45",
+      "end_time": "0:01:49",
+      "text": "are going to form a new one and now we've got a water molecule and then that's going",
+      "words": [
+        {
+          "word": " are",
+          "start": 105.48,
+          "end": 105.88,
+          "start_time": "0:01:45",
+          "end_time": "0:01:45"
+        },
+        {
+          "word": " going",
+          "start": 105.88,
+          "end": 106.02,
+          "start_time": "0:01:45",
+          "end_time": "0:01:46"
+        },
+        {
+          "word": " to",
+          "start": 106.02,
+          "end": 106.08,
+          "start_time": "0:01:46",
+          "end_time": "0:01:46"
+        },
+        {
+          "word": " form",
+          "start": 106.08,
+          "end": 106.3,
+          "start_time": "0:01:46",
+          "end_time": "0:01:46"
+        },
+        {
+          "word": " a",
+          "start": 106.3,
+          "end": 106.44,
+          "start_time": "0:01:46",
+          "end_time": "0:01:46"
+        },
+        {
+          "word": " new",
+          "start": 106.44,
+          "end": 106.62,
+          "start_time": "0:01:46",
+          "end_time": "0:01:46"
+        },
+        {
+          "word": " one",
+          "start": 106.62,
+          "end": 106.84,
+          "start_time": "0:01:46",
+          "end_time": "0:01:46"
+        },
+        {
+          "word": " and",
+          "start": 106.84,
+          "end": 107.02,
+          "start_time": "0:01:46",
+          "end_time": "0:01:47"
+        },
+        {
+          "word": " now",
+          "start": 107.02,
+          "end": 107.24,
+          "start_time": "0:01:47",
+          "end_time": "0:01:47"
+        },
+        {
+          "word": " we've",
+          "start": 107.24,
+          "end": 107.46,
+          "start_time": "0:01:47",
+          "end_time": "0:01:47"
+        },
+        {
+          "word": " got",
+          "start": 107.46,
+          "end": 107.6,
+          "start_time": "0:01:47",
+          "end_time": "0:01:47"
+        },
+        {
+          "word": " a",
+          "start": 107.6,
+          "end": 107.72,
+          "start_time": "0:01:47",
+          "end_time": "0:01:47"
+        },
+        {
+          "word": " water",
+          "start": 107.72,
+          "end": 107.98,
+          "start_time": "0:01:47",
+          "end_time": "0:01:47"
+        },
+        {
+          "word": " molecule",
+          "start": 107.98,
+          "end": 108.46,
+          "start_time": "0:01:47",
+          "end_time": "0:01:48"
+        },
+        {
+          "word": " and",
+          "start": 108.46,
+          "end": 109.02,
+          "start_time": "0:01:48",
+          "end_time": "0:01:49"
+        },
+        {
+          "word": " then",
+          "start": 109.02,
+          "end": 109.16,
+          "start_time": "0:01:49",
+          "end_time": "0:01:49"
+        },
+        {
+          "word": " that's",
+          "start": 109.16,
+          "end": 109.56,
+          "start_time": "0:01:49",
+          "end_time": "0:01:49"
+        },
+        {
+          "word": " going",
+          "start": 109.56,
+          "end": 109.68,
+          "start_time": "0:01:49",
+          "end_time": "0:01:49"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 109.68,
+      "end": 112.86,
+      "start_time": "0:01:49",
+      "end_time": "0:01:52",
+      "text": "to propagate the existence of a bromine radical.",
+      "words": [
+        {
+          "word": " to",
+          "start": 109.68,
+          "end": 109.74,
+          "start_time": "0:01:49",
+          "end_time": "0:01:49"
+        },
+        {
+          "word": " propagate",
+          "start": 109.74,
+          "end": 110.16,
+          "start_time": "0:01:49",
+          "end_time": "0:01:50"
+        },
+        {
+          "word": " the",
+          "start": 110.16,
+          "end": 110.34,
+          "start_time": "0:01:50",
+          "end_time": "0:01:50"
+        },
+        {
+          "word": " existence",
+          "start": 110.34,
+          "end": 110.74,
+          "start_time": "0:01:50",
+          "end_time": "0:01:50"
+        },
+        {
+          "word": " of",
+          "start": 110.74,
+          "end": 111.18,
+          "start_time": "0:01:50",
+          "end_time": "0:01:51"
+        },
+        {
+          "word": " a",
+          "start": 111.18,
+          "end": 111.56,
+          "start_time": "0:01:51",
+          "end_time": "0:01:51"
+        },
+        {
+          "word": " bromine",
+          "start": 111.56,
+          "end": 112.28,
+          "start_time": "0:01:51",
+          "end_time": "0:01:52"
+        },
+        {
+          "word": " radical.",
+          "start": 112.28,
+          "end": 112.86,
+          "start_time": "0:01:52",
+          "end_time": "0:01:52"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 113.52,
+      "end": 119.14,
+      "start_time": "0:01:53",
+      "end_time": "0:01:59",
+      "text": "Then from there this is the key step because this is where the regio specificity is involved.",
+      "words": [
+        {
+          "word": " Then",
+          "start": 113.52,
+          "end": 113.76,
+          "start_time": "0:01:53",
+          "end_time": "0:01:53"
+        },
+        {
+          "word": " from",
+          "start": 113.76,
+          "end": 114.02,
+          "start_time": "0:01:53",
+          "end_time": "0:01:54"
+        },
+        {
+          "word": " there",
+          "start": 114.02,
+          "end": 114.32,
+          "start_time": "0:01:54",
+          "end_time": "0:01:54"
+        },
+        {
+          "word": " this",
+          "start": 114.32,
+          "end": 114.72,
+          "start_time": "0:01:54",
+          "end_time": "0:01:54"
+        },
+        {
+          "word": " is",
+          "start": 114.72,
+          "end": 114.88,
+          "start_time": "0:01:54",
+          "end_time": "0:01:54"
+        },
+        {
+          "word": " the",
+          "start": 114.88,
+          "end": 115.04,
+          "start_time": "0:01:54",
+          "end_time": "0:01:55"
+        },
+        {
+          "word": " key",
+          "start": 115.04,
+          "end": 115.22,
+          "start_time": "0:01:55",
+          "end_time": "0:01:55"
+        },
+        {
+          "word": " step",
+          "start": 115.22,
+          "end": 115.58,
+          "start_time": "0:01:55",
+          "end_time": "0:01:55"
+        },
+        {
+          "word": " because",
+          "start": 115.58,
+          "end": 116.18,
+          "start_time": "0:01:55",
+          "end_time": "0:01:56"
+        },
+        {
+          "word": " this",
+          "start": 116.18,
+          "end": 117.3,
+          "start_time": "0:01:56",
+          "end_time": "0:01:57"
+        },
+        {
+          "word": " is",
+          "start": 117.3,
+          "end": 117.46,
+          "start_time": "0:01:57",
+          "end_time": "0:01:57"
+        },
+        {
+          "word": " where",
+          "start": 117.46,
+          "end": 117.64,
+          "start_time": "0:01:57",
+          "end_time": "0:01:57"
+        },
+        {
+          "word": " the",
+          "start": 117.64,
+          "end": 117.76,
+          "start_time": "0:01:57",
+          "end_time": "0:01:57"
+        },
+        {
+          "word": " regio",
+          "start": 117.76,
+          "end": 118.04,
+          "start_time": "0:01:57",
+          "end_time": "0:01:58"
+        },
+        {
+          "word": " specificity",
+          "start": 118.04,
+          "end": 118.72,
+          "start_time": "0:01:58",
+          "end_time": "0:01:58"
+        },
+        {
+          "word": " is",
+          "start": 118.72,
+          "end": 118.86,
+          "start_time": "0:01:58",
+          "end_time": "0:01:58"
+        },
+        {
+          "word": " involved.",
+          "start": 118.86,
+          "end": 119.14,
+          "start_time": "0:01:58",
+          "end_time": "0:01:59"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 119.7,
+      "end": 124.52,
+      "start_time": "0:01:59",
+      "end_time": "0:02:04",
+      "text": "The bromine radical is going to interact with this pi bond that is necessary for the",
+      "words": [
+        {
+          "word": " The",
+          "start": 119.7,
+          "end": 119.82,
+          "start_time": "0:01:59",
+          "end_time": "0:01:59"
+        },
+        {
+          "word": " bromine",
+          "start": 119.82,
+          "end": 120.34,
+          "start_time": "0:01:59",
+          "end_time": "0:02:00"
+        },
+        {
+          "word": " radical",
+          "start": 120.34,
+          "end": 120.86,
+          "start_time": "0:02:00",
+          "end_time": "0:02:00"
+        },
+        {
+          "word": " is",
+          "start": 120.86,
+          "end": 121.16,
+          "start_time": "0:02:00",
+          "end_time": "0:02:01"
+        },
+        {
+          "word": " going",
+          "start": 121.16,
+          "end": 121.32,
+          "start_time": "0:02:01",
+          "end_time": "0:02:01"
+        },
+        {
+          "word": " to",
+          "start": 121.32,
+          "end": 121.42,
+          "start_time": "0:02:01",
+          "end_time": "0:02:01"
+        },
+        {
+          "word": " interact",
+          "start": 121.42,
+          "end": 121.98,
+          "start_time": "0:02:01",
+          "end_time": "0:02:01"
+        },
+        {
+          "word": " with",
+          "start": 121.98,
+          "end": 122.24,
+          "start_time": "0:02:01",
+          "end_time": "0:02:02"
+        },
+        {
+          "word": " this",
+          "start": 122.24,
+          "end": 122.52,
+          "start_time": "0:02:02",
+          "end_time": "0:02:02"
+        },
+        {
+          "word": " pi",
+          "start": 122.52,
+          "end": 122.84,
+          "start_time": "0:02:02",
+          "end_time": "0:02:02"
+        },
+        {
+          "word": " bond",
+          "start": 122.84,
+          "end": 123.26,
+          "start_time": "0:02:02",
+          "end_time": "0:02:03"
+        },
+        {
+          "word": " that",
+          "start": 123.26,
+          "end": 123.56,
+          "start_time": "0:02:03",
+          "end_time": "0:02:03"
+        },
+        {
+          "word": " is",
+          "start": 123.56,
+          "end": 123.68,
+          "start_time": "0:02:03",
+          "end_time": "0:02:03"
+        },
+        {
+          "word": " necessary",
+          "start": 123.68,
+          "end": 124.04,
+          "start_time": "0:02:03",
+          "end_time": "0:02:04"
+        },
+        {
+          "word": " for",
+          "start": 124.04,
+          "end": 124.36,
+          "start_time": "0:02:04",
+          "end_time": "0:02:04"
+        },
+        {
+          "word": " the",
+          "start": 124.36,
+          "end": 124.52,
+          "start_time": "0:02:04",
+          "end_time": "0:02:04"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 124.52,
+      "end": 128.62,
+      "start_time": "0:02:04",
+      "end_time": "0:02:08",
+      "text": "addition reaction and what's going to happen is it's going to form a new carbon bromine",
+      "words": [
+        {
+          "word": " addition",
+          "start": 124.52,
+          "end": 124.82,
+          "start_time": "0:02:04",
+          "end_time": "0:02:04"
+        },
+        {
+          "word": " reaction",
+          "start": 124.82,
+          "end": 125.24,
+          "start_time": "0:02:04",
+          "end_time": "0:02:05"
+        },
+        {
+          "word": " and",
+          "start": 125.24,
+          "end": 125.78,
+          "start_time": "0:02:05",
+          "end_time": "0:02:05"
+        },
+        {
+          "word": " what's",
+          "start": 125.78,
+          "end": 125.94,
+          "start_time": "0:02:05",
+          "end_time": "0:02:05"
+        },
+        {
+          "word": " going",
+          "start": 125.94,
+          "end": 126.02,
+          "start_time": "0:02:05",
+          "end_time": "0:02:06"
+        },
+        {
+          "word": " to",
+          "start": 126.02,
+          "end": 126.08,
+          "start_time": "0:02:06",
+          "end_time": "0:02:06"
+        },
+        {
+          "word": " happen",
+          "start": 126.08,
+          "end": 126.36,
+          "start_time": "0:02:06",
+          "end_time": "0:02:06"
+        },
+        {
+          "word": " is",
+          "start": 126.36,
+          "end": 126.54,
+          "start_time": "0:02:06",
+          "end_time": "0:02:06"
+        },
+        {
+          "word": " it's",
+          "start": 126.54,
+          "end": 126.68,
+          "start_time": "0:02:06",
+          "end_time": "0:02:06"
+        },
+        {
+          "word": " going",
+          "start": 126.68,
+          "end": 126.78,
+          "start_time": "0:02:06",
+          "end_time": "0:02:06"
+        },
+        {
+          "word": " to",
+          "start": 126.78,
+          "end": 126.84,
+          "start_time": "0:02:06",
+          "end_time": "0:02:06"
+        },
+        {
+          "word": " form",
+          "start": 126.84,
+          "end": 127.18,
+          "start_time": "0:02:06",
+          "end_time": "0:02:07"
+        },
+        {
+          "word": " a",
+          "start": 127.18,
+          "end": 127.3,
+          "start_time": "0:02:07",
+          "end_time": "0:02:07"
+        },
+        {
+          "word": " new",
+          "start": 127.3,
+          "end": 127.56,
+          "start_time": "0:02:07",
+          "end_time": "0:02:07"
+        },
+        {
+          "word": " carbon",
+          "start": 127.56,
+          "end": 128.0,
+          "start_time": "0:02:07",
+          "end_time": "0:02:08"
+        },
+        {
+          "word": " bromine",
+          "start": 128.0,
+          "end": 128.62,
+          "start_time": "0:02:08",
+          "end_time": "0:02:08"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 128.62,
+      "end": 134.56,
+      "start_time": "0:02:08",
+      "end_time": "0:02:14",
+      "text": "bond but it is going to do it in regio specific manner because of the stability of the alkyo",
+      "words": [
+        {
+          "word": " bond",
+          "start": 128.62,
+          "end": 129.02,
+          "start_time": "0:02:08",
+          "end_time": "0:02:09"
+        },
+        {
+          "word": " but",
+          "start": 129.02,
+          "end": 129.46,
+          "start_time": "0:02:09",
+          "end_time": "0:02:09"
+        },
+        {
+          "word": " it",
+          "start": 129.46,
+          "end": 129.56,
+          "start_time": "0:02:09",
+          "end_time": "0:02:09"
+        },
+        {
+          "word": " is",
+          "start": 129.56,
+          "end": 129.66,
+          "start_time": "0:02:09",
+          "end_time": "0:02:09"
+        },
+        {
+          "word": " going",
+          "start": 129.66,
+          "end": 129.8,
+          "start_time": "0:02:09",
+          "end_time": "0:02:09"
+        },
+        {
+          "word": " to",
+          "start": 129.8,
+          "end": 129.9,
+          "start_time": "0:02:09",
+          "end_time": "0:02:09"
+        },
+        {
+          "word": " do",
+          "start": 129.9,
+          "end": 130.08,
+          "start_time": "0:02:09",
+          "end_time": "0:02:10"
+        },
+        {
+          "word": " it",
+          "start": 130.08,
+          "end": 130.24,
+          "start_time": "0:02:10",
+          "end_time": "0:02:10"
+        },
+        {
+          "word": " in",
+          "start": 130.24,
+          "end": 130.32,
+          "start_time": "0:02:10",
+          "end_time": "0:02:10"
+        },
+        {
+          "word": " regio",
+          "start": 130.32,
+          "end": 130.74,
+          "start_time": "0:02:10",
+          "end_time": "0:02:10"
+        },
+        {
+          "word": " specific",
+          "start": 130.74,
+          "end": 131.08,
+          "start_time": "0:02:10",
+          "end_time": "0:02:11"
+        },
+        {
+          "word": " manner",
+          "start": 131.08,
+          "end": 131.62,
+          "start_time": "0:02:11",
+          "end_time": "0:02:11"
+        },
+        {
+          "word": " because",
+          "start": 131.62,
+          "end": 132.24,
+          "start_time": "0:02:11",
+          "end_time": "0:02:12"
+        },
+        {
+          "word": " of",
+          "start": 132.24,
+          "end": 132.8,
+          "start_time": "0:02:12",
+          "end_time": "0:02:12"
+        },
+        {
+          "word": " the",
+          "start": 132.8,
+          "end": 133.1,
+          "start_time": "0:02:12",
+          "end_time": "0:02:13"
+        },
+        {
+          "word": " stability",
+          "start": 133.1,
+          "end": 133.64,
+          "start_time": "0:02:13",
+          "end_time": "0:02:13"
+        },
+        {
+          "word": " of",
+          "start": 133.64,
+          "end": 133.94,
+          "start_time": "0:02:13",
+          "end_time": "0:02:13"
+        },
+        {
+          "word": " the",
+          "start": 133.94,
+          "end": 134.1,
+          "start_time": "0:02:13",
+          "end_time": "0:02:14"
+        },
+        {
+          "word": " alkyo",
+          "start": 134.1,
+          "end": 134.56,
+          "start_time": "0:02:14",
+          "end_time": "0:02:14"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 134.56,
+      "end": 135.74,
+      "start_time": "0:02:14",
+      "end_time": "0:02:15",
+      "text": "radical that it will generate.",
+      "words": [
+        {
+          "word": " radical",
+          "start": 134.56,
+          "end": 134.88,
+          "start_time": "0:02:14",
+          "end_time": "0:02:14"
+        },
+        {
+          "word": " that",
+          "start": 134.88,
+          "end": 135.08,
+          "start_time": "0:02:14",
+          "end_time": "0:02:15"
+        },
+        {
+          "word": " it",
+          "start": 135.08,
+          "end": 135.18,
+          "start_time": "0:02:15",
+          "end_time": "0:02:15"
+        },
+        {
+          "word": " will",
+          "start": 135.18,
+          "end": 135.32,
+          "start_time": "0:02:15",
+          "end_time": "0:02:15"
+        },
+        {
+          "word": " generate.",
+          "start": 135.32,
+          "end": 135.74,
+          "start_time": "0:02:15",
+          "end_time": "0:02:15"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 135.74,
+      "end": 141.4,
+      "start_time": "0:02:15",
+      "end_time": "0:02:21",
+      "text": "So in other words one of these pi electrons is going to go to form a covalent bond with",
+      "words": [
+        {
+          "word": " So",
+          "start": 135.74,
+          "end": 136.24,
+          "start_time": "0:02:15",
+          "end_time": "0:02:16"
+        },
+        {
+          "word": " in",
+          "start": 136.24,
+          "end": 136.34,
+          "start_time": "0:02:16",
+          "end_time": "0:02:16"
+        },
+        {
+          "word": " other",
+          "start": 136.34,
+          "end": 136.5,
+          "start_time": "0:02:16",
+          "end_time": "0:02:16"
+        },
+        {
+          "word": " words",
+          "start": 136.5,
+          "end": 136.74,
+          "start_time": "0:02:16",
+          "end_time": "0:02:16"
+        },
+        {
+          "word": " one",
+          "start": 136.74,
+          "end": 137.26,
+          "start_time": "0:02:16",
+          "end_time": "0:02:17"
+        },
+        {
+          "word": " of",
+          "start": 137.26,
+          "end": 137.42,
+          "start_time": "0:02:17",
+          "end_time": "0:02:17"
+        },
+        {
+          "word": " these",
+          "start": 137.42,
+          "end": 137.68,
+          "start_time": "0:02:17",
+          "end_time": "0:02:17"
+        },
+        {
+          "word": " pi",
+          "start": 137.68,
+          "end": 137.94,
+          "start_time": "0:02:17",
+          "end_time": "0:02:17"
+        },
+        {
+          "word": " electrons",
+          "start": 137.94,
+          "end": 138.5,
+          "start_time": "0:02:17",
+          "end_time": "0:02:18"
+        },
+        {
+          "word": " is",
+          "start": 138.5,
+          "end": 138.9,
+          "start_time": "0:02:18",
+          "end_time": "0:02:18"
+        },
+        {
+          "word": " going",
+          "start": 138.9,
+          "end": 139.1,
+          "start_time": "0:02:18",
+          "end_time": "0:02:19"
+        },
+        {
+          "word": " to",
+          "start": 139.1,
+          "end": 139.2,
+          "start_time": "0:02:19",
+          "end_time": "0:02:19"
+        },
+        {
+          "word": " go",
+          "start": 139.2,
+          "end": 139.44,
+          "start_time": "0:02:19",
+          "end_time": "0:02:19"
+        },
+        {
+          "word": " to",
+          "start": 139.44,
+          "end": 139.72,
+          "start_time": "0:02:19",
+          "end_time": "0:02:19"
+        },
+        {
+          "word": " form",
+          "start": 139.72,
+          "end": 140.1,
+          "start_time": "0:02:19",
+          "end_time": "0:02:20"
+        },
+        {
+          "word": " a",
+          "start": 140.1,
+          "end": 140.26,
+          "start_time": "0:02:20",
+          "end_time": "0:02:20"
+        },
+        {
+          "word": " covalent",
+          "start": 140.26,
+          "end": 140.7,
+          "start_time": "0:02:20",
+          "end_time": "0:02:20"
+        },
+        {
+          "word": " bond",
+          "start": 140.7,
+          "end": 140.9,
+          "start_time": "0:02:20",
+          "end_time": "0:02:20"
+        },
+        {
+          "word": " with",
+          "start": 140.9,
+          "end": 141.4,
+          "start_time": "0:02:20",
+          "end_time": "0:02:21"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 141.4,
+      "end": 147.14,
+      "start_time": "0:02:21",
+      "end_time": "0:02:27",
+      "text": "this bromine radical and it is only going to happen here because if it does so then the",
+      "words": [
+        {
+          "word": " this",
+          "start": 141.4,
+          "end": 141.76,
+          "start_time": "0:02:21",
+          "end_time": "0:02:21"
+        },
+        {
+          "word": " bromine",
+          "start": 141.76,
+          "end": 142.14,
+          "start_time": "0:02:21",
+          "end_time": "0:02:22"
+        },
+        {
+          "word": " radical",
+          "start": 142.14,
+          "end": 142.5,
+          "start_time": "0:02:22",
+          "end_time": "0:02:22"
+        },
+        {
+          "word": " and",
+          "start": 142.5,
+          "end": 143.06,
+          "start_time": "0:02:22",
+          "end_time": "0:02:23"
+        },
+        {
+          "word": " it",
+          "start": 143.06,
+          "end": 143.2,
+          "start_time": "0:02:23",
+          "end_time": "0:02:23"
+        },
+        {
+          "word": " is",
+          "start": 143.2,
+          "end": 143.4,
+          "start_time": "0:02:23",
+          "end_time": "0:02:23"
+        },
+        {
+          "word": " only",
+          "start": 143.4,
+          "end": 143.7,
+          "start_time": "0:02:23",
+          "end_time": "0:02:23"
+        },
+        {
+          "word": " going",
+          "start": 143.7,
+          "end": 143.94,
+          "start_time": "0:02:23",
+          "end_time": "0:02:23"
+        },
+        {
+          "word": " to",
+          "start": 143.94,
+          "end": 144.0,
+          "start_time": "0:02:23",
+          "end_time": "0:02:24"
+        },
+        {
+          "word": " happen",
+          "start": 144.0,
+          "end": 144.34,
+          "start_time": "0:02:24",
+          "end_time": "0:02:24"
+        },
+        {
+          "word": " here",
+          "start": 144.34,
+          "end": 144.8,
+          "start_time": "0:02:24",
+          "end_time": "0:02:24"
+        },
+        {
+          "word": " because",
+          "start": 144.8,
+          "end": 145.32,
+          "start_time": "0:02:24",
+          "end_time": "0:02:25"
+        },
+        {
+          "word": " if",
+          "start": 145.32,
+          "end": 145.66,
+          "start_time": "0:02:25",
+          "end_time": "0:02:25"
+        },
+        {
+          "word": " it",
+          "start": 145.66,
+          "end": 145.84,
+          "start_time": "0:02:25",
+          "end_time": "0:02:25"
+        },
+        {
+          "word": " does",
+          "start": 145.84,
+          "end": 146.06,
+          "start_time": "0:02:25",
+          "end_time": "0:02:26"
+        },
+        {
+          "word": " so",
+          "start": 146.06,
+          "end": 146.46,
+          "start_time": "0:02:26",
+          "end_time": "0:02:26"
+        },
+        {
+          "word": " then",
+          "start": 146.46,
+          "end": 146.98,
+          "start_time": "0:02:26",
+          "end_time": "0:02:26"
+        },
+        {
+          "word": " the",
+          "start": 146.98,
+          "end": 147.14,
+          "start_time": "0:02:26",
+          "end_time": "0:02:27"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 147.14,
+      "end": 153.42,
+      "start_time": "0:02:27",
+      "end_time": "0:02:33",
+      "text": "other pi electron will go to this carbon, the secondary carbon leaving the more stable",
+      "words": [
+        {
+          "word": " other",
+          "start": 147.14,
+          "end": 147.42,
+          "start_time": "0:02:27",
+          "end_time": "0:02:27"
+        },
+        {
+          "word": " pi",
+          "start": 147.42,
+          "end": 147.68,
+          "start_time": "0:02:27",
+          "end_time": "0:02:27"
+        },
+        {
+          "word": " electron",
+          "start": 147.68,
+          "end": 148.18,
+          "start_time": "0:02:27",
+          "end_time": "0:02:28"
+        },
+        {
+          "word": " will",
+          "start": 148.18,
+          "end": 148.7,
+          "start_time": "0:02:28",
+          "end_time": "0:02:28"
+        },
+        {
+          "word": " go",
+          "start": 148.7,
+          "end": 148.94,
+          "start_time": "0:02:28",
+          "end_time": "0:02:28"
+        },
+        {
+          "word": " to",
+          "start": 148.94,
+          "end": 149.14,
+          "start_time": "0:02:28",
+          "end_time": "0:02:29"
+        },
+        {
+          "word": " this",
+          "start": 149.14,
+          "end": 149.42,
+          "start_time": "0:02:29",
+          "end_time": "0:02:29"
+        },
+        {
+          "word": " carbon,",
+          "start": 149.42,
+          "end": 149.8,
+          "start_time": "0:02:29",
+          "end_time": "0:02:29"
+        },
+        {
+          "word": " the",
+          "start": 150.18,
+          "end": 150.22,
+          "start_time": "0:02:30",
+          "end_time": "0:02:30"
+        },
+        {
+          "word": " secondary",
+          "start": 150.22,
+          "end": 150.76,
+          "start_time": "0:02:30",
+          "end_time": "0:02:30"
+        },
+        {
+          "word": " carbon",
+          "start": 150.76,
+          "end": 151.4,
+          "start_time": "0:02:30",
+          "end_time": "0:02:31"
+        },
+        {
+          "word": " leaving",
+          "start": 151.4,
+          "end": 151.94,
+          "start_time": "0:02:31",
+          "end_time": "0:02:31"
+        },
+        {
+          "word": " the",
+          "start": 151.94,
+          "end": 152.26,
+          "start_time": "0:02:31",
+          "end_time": "0:02:32"
+        },
+        {
+          "word": " more",
+          "start": 152.26,
+          "end": 152.62,
+          "start_time": "0:02:32",
+          "end_time": "0:02:32"
+        },
+        {
+          "word": " stable",
+          "start": 152.62,
+          "end": 153.42,
+          "start_time": "0:02:32",
+          "end_time": "0:02:33"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 153.42,
+      "end": 156.12,
+      "start_time": "0:02:33",
+      "end_time": "0:02:36",
+      "text": "of the two possible alkyo radical intermediates.",
+      "words": [
+        {
+          "word": " of",
+          "start": 153.42,
+          "end": 153.74,
+          "start_time": "0:02:33",
+          "end_time": "0:02:33"
+        },
+        {
+          "word": " the",
+          "start": 153.74,
+          "end": 153.84,
+          "start_time": "0:02:33",
+          "end_time": "0:02:33"
+        },
+        {
+          "word": " two",
+          "start": 153.84,
+          "end": 154.06,
+          "start_time": "0:02:33",
+          "end_time": "0:02:34"
+        },
+        {
+          "word": " possible",
+          "start": 154.06,
+          "end": 154.58,
+          "start_time": "0:02:34",
+          "end_time": "0:02:34"
+        },
+        {
+          "word": " alkyo",
+          "start": 154.58,
+          "end": 155.12,
+          "start_time": "0:02:34",
+          "end_time": "0:02:35"
+        },
+        {
+          "word": " radical",
+          "start": 155.12,
+          "end": 155.34,
+          "start_time": "0:02:35",
+          "end_time": "0:02:35"
+        },
+        {
+          "word": " intermediates.",
+          "start": 155.34,
+          "end": 156.12,
+          "start_time": "0:02:35",
+          "end_time": "0:02:36"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 156.3,
+      "end": 161.98000000000002,
+      "start_time": "0:02:36",
+      "end_time": "0:02:41",
+      "text": "If the bromine radical interacted at this position and this pi electron went to form the",
+      "words": [
+        {
+          "word": " If",
+          "start": 156.3,
+          "end": 156.62,
+          "start_time": "0:02:36",
+          "end_time": "0:02:36"
+        },
+        {
+          "word": " the",
+          "start": 156.62,
+          "end": 156.78,
+          "start_time": "0:02:36",
+          "end_time": "0:02:36"
+        },
+        {
+          "word": " bromine",
+          "start": 156.78,
+          "end": 157.14,
+          "start_time": "0:02:36",
+          "end_time": "0:02:37"
+        },
+        {
+          "word": " radical",
+          "start": 157.14,
+          "end": 157.58,
+          "start_time": "0:02:37",
+          "end_time": "0:02:37"
+        },
+        {
+          "word": " interacted",
+          "start": 157.58,
+          "end": 158.54,
+          "start_time": "0:02:37",
+          "end_time": "0:02:38"
+        },
+        {
+          "word": " at",
+          "start": 158.54,
+          "end": 158.74,
+          "start_time": "0:02:38",
+          "end_time": "0:02:38"
+        },
+        {
+          "word": " this",
+          "start": 158.74,
+          "end": 158.94,
+          "start_time": "0:02:38",
+          "end_time": "0:02:38"
+        },
+        {
+          "word": " position",
+          "start": 158.94,
+          "end": 159.46,
+          "start_time": "0:02:38",
+          "end_time": "0:02:39"
+        },
+        {
+          "word": " and",
+          "start": 159.46,
+          "end": 160.0,
+          "start_time": "0:02:39",
+          "end_time": "0:02:40"
+        },
+        {
+          "word": " this",
+          "start": 160.0,
+          "end": 160.32,
+          "start_time": "0:02:40",
+          "end_time": "0:02:40"
+        },
+        {
+          "word": " pi",
+          "start": 160.32,
+          "end": 160.54,
+          "start_time": "0:02:40",
+          "end_time": "0:02:40"
+        },
+        {
+          "word": " electron",
+          "start": 160.54,
+          "end": 161.0,
+          "start_time": "0:02:40",
+          "end_time": "0:02:41"
+        },
+        {
+          "word": " went",
+          "start": 161.0,
+          "end": 161.3,
+          "start_time": "0:02:41",
+          "end_time": "0:02:41"
+        },
+        {
+          "word": " to",
+          "start": 161.3,
+          "end": 161.5,
+          "start_time": "0:02:41",
+          "end_time": "0:02:41"
+        },
+        {
+          "word": " form",
+          "start": 161.5,
+          "end": 161.8,
+          "start_time": "0:02:41",
+          "end_time": "0:02:41"
+        },
+        {
+          "word": " the",
+          "start": 161.8,
+          "end": 162.12,
+          "start_time": "0:02:41",
+          "end_time": "0:02:42"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 162.12,
+      "end": 166.22,
+      "start_time": "0:02:42",
+      "end_time": "0:02:46",
+      "text": "new carbon bromine bond there then that would mean that the other pi electron would be",
+      "words": [
+        {
+          "word": " new",
+          "start": 162.12,
+          "end": 162.12,
+          "start_time": "0:02:42",
+          "end_time": "0:02:42"
+        },
+        {
+          "word": " carbon",
+          "start": 162.12,
+          "end": 162.4,
+          "start_time": "0:02:42",
+          "end_time": "0:02:42"
+        },
+        {
+          "word": " bromine",
+          "start": 162.4,
+          "end": 162.8,
+          "start_time": "0:02:42",
+          "end_time": "0:02:42"
+        },
+        {
+          "word": " bond",
+          "start": 162.8,
+          "end": 163.04,
+          "start_time": "0:02:42",
+          "end_time": "0:02:43"
+        },
+        {
+          "word": " there",
+          "start": 163.04,
+          "end": 163.42,
+          "start_time": "0:02:43",
+          "end_time": "0:02:43"
+        },
+        {
+          "word": " then",
+          "start": 163.42,
+          "end": 163.88,
+          "start_time": "0:02:43",
+          "end_time": "0:02:43"
+        },
+        {
+          "word": " that",
+          "start": 163.88,
+          "end": 164.06,
+          "start_time": "0:02:43",
+          "end_time": "0:02:44"
+        },
+        {
+          "word": " would",
+          "start": 164.06,
+          "end": 164.18,
+          "start_time": "0:02:44",
+          "end_time": "0:02:44"
+        },
+        {
+          "word": " mean",
+          "start": 164.18,
+          "end": 164.36,
+          "start_time": "0:02:44",
+          "end_time": "0:02:44"
+        },
+        {
+          "word": " that",
+          "start": 164.36,
+          "end": 164.52,
+          "start_time": "0:02:44",
+          "end_time": "0:02:44"
+        },
+        {
+          "word": " the",
+          "start": 164.52,
+          "end": 164.68,
+          "start_time": "0:02:44",
+          "end_time": "0:02:44"
+        },
+        {
+          "word": " other",
+          "start": 164.68,
+          "end": 164.88,
+          "start_time": "0:02:44",
+          "end_time": "0:02:44"
+        },
+        {
+          "word": " pi",
+          "start": 164.88,
+          "end": 165.1,
+          "start_time": "0:02:44",
+          "end_time": "0:02:45"
+        },
+        {
+          "word": " electron",
+          "start": 165.1,
+          "end": 165.56,
+          "start_time": "0:02:45",
+          "end_time": "0:02:45"
+        },
+        {
+          "word": " would",
+          "start": 165.56,
+          "end": 166.06,
+          "start_time": "0:02:45",
+          "end_time": "0:02:46"
+        },
+        {
+          "word": " be",
+          "start": 166.06,
+          "end": 166.22,
+          "start_time": "0:02:46",
+          "end_time": "0:02:46"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 166.22,
+      "end": 172.66,
+      "start_time": "0:02:46",
+      "end_time": "0:02:52",
+      "text": "left on the primary carbon and we then have a primary alkyo radical intermediate and",
+      "words": [
+        {
+          "word": " left",
+          "start": 166.22,
+          "end": 166.44,
+          "start_time": "0:02:46",
+          "end_time": "0:02:46"
+        },
+        {
+          "word": " on",
+          "start": 166.44,
+          "end": 166.62,
+          "start_time": "0:02:46",
+          "end_time": "0:02:46"
+        },
+        {
+          "word": " the",
+          "start": 166.62,
+          "end": 166.72,
+          "start_time": "0:02:46",
+          "end_time": "0:02:46"
+        },
+        {
+          "word": " primary",
+          "start": 166.72,
+          "end": 167.12,
+          "start_time": "0:02:46",
+          "end_time": "0:02:47"
+        },
+        {
+          "word": " carbon",
+          "start": 167.12,
+          "end": 167.6,
+          "start_time": "0:02:47",
+          "end_time": "0:02:47"
+        },
+        {
+          "word": " and",
+          "start": 167.6,
+          "end": 168.04,
+          "start_time": "0:02:47",
+          "end_time": "0:02:48"
+        },
+        {
+          "word": " we",
+          "start": 168.04,
+          "end": 168.18,
+          "start_time": "0:02:48",
+          "end_time": "0:02:48"
+        },
+        {
+          "word": " then",
+          "start": 168.18,
+          "end": 168.42,
+          "start_time": "0:02:48",
+          "end_time": "0:02:48"
+        },
+        {
+          "word": " have",
+          "start": 168.42,
+          "end": 168.66,
+          "start_time": "0:02:48",
+          "end_time": "0:02:48"
+        },
+        {
+          "word": " a",
+          "start": 168.66,
+          "end": 168.8,
+          "start_time": "0:02:48",
+          "end_time": "0:02:48"
+        },
+        {
+          "word": " primary",
+          "start": 168.8,
+          "end": 169.56,
+          "start_time": "0:02:48",
+          "end_time": "0:02:49"
+        },
+        {
+          "word": " alkyo",
+          "start": 169.56,
+          "end": 170.96,
+          "start_time": "0:02:49",
+          "end_time": "0:02:50"
+        },
+        {
+          "word": " radical",
+          "start": 170.96,
+          "end": 171.68,
+          "start_time": "0:02:50",
+          "end_time": "0:02:51"
+        },
+        {
+          "word": " intermediate",
+          "start": 171.68,
+          "end": 172.32,
+          "start_time": "0:02:51",
+          "end_time": "0:02:52"
+        },
+        {
+          "word": " and",
+          "start": 172.32,
+          "end": 172.66,
+          "start_time": "0:02:52",
+          "end_time": "0:02:52"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 172.66,
+      "end": 175.96,
+      "start_time": "0:02:52",
+      "end_time": "0:02:55",
+      "text": "that is the less stable of the two so it will not produce that.",
+      "words": [
+        {
+          "word": " that",
+          "start": 172.66,
+          "end": 172.78,
+          "start_time": "0:02:52",
+          "end_time": "0:02:52"
+        },
+        {
+          "word": " is",
+          "start": 172.78,
+          "end": 172.94,
+          "start_time": "0:02:52",
+          "end_time": "0:02:52"
+        },
+        {
+          "word": " the",
+          "start": 172.94,
+          "end": 173.06,
+          "start_time": "0:02:52",
+          "end_time": "0:02:53"
+        },
+        {
+          "word": " less",
+          "start": 173.06,
+          "end": 173.28,
+          "start_time": "0:02:53",
+          "end_time": "0:02:53"
+        },
+        {
+          "word": " stable",
+          "start": 173.28,
+          "end": 173.64,
+          "start_time": "0:02:53",
+          "end_time": "0:02:53"
+        },
+        {
+          "word": " of",
+          "start": 173.64,
+          "end": 173.8,
+          "start_time": "0:02:53",
+          "end_time": "0:02:53"
+        },
+        {
+          "word": " the",
+          "start": 173.8,
+          "end": 173.86,
+          "start_time": "0:02:53",
+          "end_time": "0:02:53"
+        },
+        {
+          "word": " two",
+          "start": 173.86,
+          "end": 174.1,
+          "start_time": "0:02:53",
+          "end_time": "0:02:54"
+        },
+        {
+          "word": " so",
+          "start": 174.1,
+          "end": 174.56,
+          "start_time": "0:02:54",
+          "end_time": "0:02:54"
+        },
+        {
+          "word": " it",
+          "start": 174.56,
+          "end": 174.74,
+          "start_time": "0:02:54",
+          "end_time": "0:02:54"
+        },
+        {
+          "word": " will",
+          "start": 174.74,
+          "end": 174.94,
+          "start_time": "0:02:54",
+          "end_time": "0:02:54"
+        },
+        {
+          "word": " not",
+          "start": 174.94,
+          "end": 175.22,
+          "start_time": "0:02:54",
+          "end_time": "0:02:55"
+        },
+        {
+          "word": " produce",
+          "start": 175.22,
+          "end": 175.58,
+          "start_time": "0:02:55",
+          "end_time": "0:02:55"
+        },
+        {
+          "word": " that.",
+          "start": 175.58,
+          "end": 175.96,
+          "start_time": "0:02:55",
+          "end_time": "0:02:55"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 176.36,
+      "end": 182.3,
+      "start_time": "0:02:56",
+      "end_time": "0:03:02",
+      "text": "So in a regio specific manner the bromine will add to the less substituted of the two",
+      "words": [
+        {
+          "word": " So",
+          "start": 176.36,
+          "end": 176.36,
+          "start_time": "0:02:56",
+          "end_time": "0:02:56"
+        },
+        {
+          "word": " in",
+          "start": 176.36,
+          "end": 176.46,
+          "start_time": "0:02:56",
+          "end_time": "0:02:56"
+        },
+        {
+          "word": " a",
+          "start": 176.46,
+          "end": 176.54,
+          "start_time": "0:02:56",
+          "end_time": "0:02:56"
+        },
+        {
+          "word": " regio",
+          "start": 176.54,
+          "end": 176.88,
+          "start_time": "0:02:56",
+          "end_time": "0:02:56"
+        },
+        {
+          "word": " specific",
+          "start": 176.88,
+          "end": 177.18,
+          "start_time": "0:02:56",
+          "end_time": "0:02:57"
+        },
+        {
+          "word": " manner",
+          "start": 177.18,
+          "end": 177.68,
+          "start_time": "0:02:57",
+          "end_time": "0:02:57"
+        },
+        {
+          "word": " the",
+          "start": 177.68,
+          "end": 178.1,
+          "start_time": "0:02:57",
+          "end_time": "0:02:58"
+        },
+        {
+          "word": " bromine",
+          "start": 178.1,
+          "end": 178.5,
+          "start_time": "0:02:58",
+          "end_time": "0:02:58"
+        },
+        {
+          "word": " will",
+          "start": 178.5,
+          "end": 178.68,
+          "start_time": "0:02:58",
+          "end_time": "0:02:58"
+        },
+        {
+          "word": " add",
+          "start": 178.68,
+          "end": 179.02,
+          "start_time": "0:02:58",
+          "end_time": "0:02:59"
+        },
+        {
+          "word": " to",
+          "start": 179.02,
+          "end": 179.48,
+          "start_time": "0:02:59",
+          "end_time": "0:02:59"
+        },
+        {
+          "word": " the",
+          "start": 179.48,
+          "end": 179.66,
+          "start_time": "0:02:59",
+          "end_time": "0:02:59"
+        },
+        {
+          "word": " less",
+          "start": 179.66,
+          "end": 180.16,
+          "start_time": "0:02:59",
+          "end_time": "0:03:00"
+        },
+        {
+          "word": " substituted",
+          "start": 180.16,
+          "end": 181.72,
+          "start_time": "0:03:00",
+          "end_time": "0:03:01"
+        },
+        {
+          "word": " of",
+          "start": 181.72,
+          "end": 181.92,
+          "start_time": "0:03:01",
+          "end_time": "0:03:01"
+        },
+        {
+          "word": " the",
+          "start": 181.92,
+          "end": 182.04,
+          "start_time": "0:03:01",
+          "end_time": "0:03:02"
+        },
+        {
+          "word": " two",
+          "start": 182.04,
+          "end": 182.3,
+          "start_time": "0:03:02",
+          "end_time": "0:03:02"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 182.3,
+      "end": 184.22,
+      "start_time": "0:03:02",
+      "end_time": "0:03:04",
+      "text": "carbons participating in the pi bond.",
+      "words": [
+        {
+          "word": " carbons",
+          "start": 182.3,
+          "end": 182.88,
+          "start_time": "0:03:02",
+          "end_time": "0:03:02"
+        },
+        {
+          "word": " participating",
+          "start": 182.88,
+          "end": 183.44,
+          "start_time": "0:03:02",
+          "end_time": "0:03:03"
+        },
+        {
+          "word": " in",
+          "start": 183.44,
+          "end": 183.68,
+          "start_time": "0:03:03",
+          "end_time": "0:03:03"
+        },
+        {
+          "word": " the",
+          "start": 183.68,
+          "end": 183.78,
+          "start_time": "0:03:03",
+          "end_time": "0:03:03"
+        },
+        {
+          "word": " pi",
+          "start": 183.78,
+          "end": 183.96,
+          "start_time": "0:03:03",
+          "end_time": "0:03:03"
+        },
+        {
+          "word": " bond.",
+          "start": 183.96,
+          "end": 184.22,
+          "start_time": "0:03:03",
+          "end_time": "0:03:04"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 184.64,
+      "end": 190.84,
+      "start_time": "0:03:04",
+      "end_time": "0:03:10",
+      "text": "That leaves an alkyo radical intermediate which will then go ahead and undergo another",
+      "words": [
+        {
+          "word": " That",
+          "start": 184.64,
+          "end": 184.78,
+          "start_time": "0:03:04",
+          "end_time": "0:03:04"
+        },
+        {
+          "word": " leaves",
+          "start": 184.78,
+          "end": 185.14,
+          "start_time": "0:03:04",
+          "end_time": "0:03:05"
+        },
+        {
+          "word": " an",
+          "start": 185.14,
+          "end": 185.54,
+          "start_time": "0:03:05",
+          "end_time": "0:03:05"
+        },
+        {
+          "word": " alkyo",
+          "start": 185.54,
+          "end": 186.96,
+          "start_time": "0:03:05",
+          "end_time": "0:03:06"
+        },
+        {
+          "word": " radical",
+          "start": 186.96,
+          "end": 187.28,
+          "start_time": "0:03:06",
+          "end_time": "0:03:07"
+        },
+        {
+          "word": " intermediate",
+          "start": 187.28,
+          "end": 187.76,
+          "start_time": "0:03:07",
+          "end_time": "0:03:07"
+        },
+        {
+          "word": " which",
+          "start": 187.76,
+          "end": 188.72,
+          "start_time": "0:03:07",
+          "end_time": "0:03:08"
+        },
+        {
+          "word": " will",
+          "start": 188.72,
+          "end": 188.9,
+          "start_time": "0:03:08",
+          "end_time": "0:03:08"
+        },
+        {
+          "word": " then",
+          "start": 188.9,
+          "end": 189.1,
+          "start_time": "0:03:08",
+          "end_time": "0:03:09"
+        },
+        {
+          "word": " go",
+          "start": 189.1,
+          "end": 189.32,
+          "start_time": "0:03:09",
+          "end_time": "0:03:09"
+        },
+        {
+          "word": " ahead",
+          "start": 189.32,
+          "end": 189.68,
+          "start_time": "0:03:09",
+          "end_time": "0:03:09"
+        },
+        {
+          "word": " and",
+          "start": 189.68,
+          "end": 190.14,
+          "start_time": "0:03:09",
+          "end_time": "0:03:10"
+        },
+        {
+          "word": " undergo",
+          "start": 190.14,
+          "end": 190.56,
+          "start_time": "0:03:10",
+          "end_time": "0:03:10"
+        },
+        {
+          "word": " another",
+          "start": 190.56,
+          "end": 190.84,
+          "start_time": "0:03:10",
+          "end_time": "0:03:10"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 190.84,
+      "end": 196.58,
+      "start_time": "0:03:10",
+      "end_time": "0:03:16",
+      "text": "step with HBR and it will just extract a proton there leaving another bromine radical",
+      "words": [
+        {
+          "word": " step",
+          "start": 190.84,
+          "end": 191.18,
+          "start_time": "0:03:10",
+          "end_time": "0:03:11"
+        },
+        {
+          "word": " with",
+          "start": 191.18,
+          "end": 191.74,
+          "start_time": "0:03:11",
+          "end_time": "0:03:11"
+        },
+        {
+          "word": " HBR",
+          "start": 191.74,
+          "end": 192.36,
+          "start_time": "0:03:11",
+          "end_time": "0:03:12"
+        },
+        {
+          "word": " and",
+          "start": 192.36,
+          "end": 192.7,
+          "start_time": "0:03:12",
+          "end_time": "0:03:12"
+        },
+        {
+          "word": " it",
+          "start": 192.7,
+          "end": 192.8,
+          "start_time": "0:03:12",
+          "end_time": "0:03:12"
+        },
+        {
+          "word": " will",
+          "start": 192.8,
+          "end": 192.94,
+          "start_time": "0:03:12",
+          "end_time": "0:03:12"
+        },
+        {
+          "word": " just",
+          "start": 192.94,
+          "end": 193.12,
+          "start_time": "0:03:12",
+          "end_time": "0:03:13"
+        },
+        {
+          "word": " extract",
+          "start": 193.12,
+          "end": 193.68,
+          "start_time": "0:03:13",
+          "end_time": "0:03:13"
+        },
+        {
+          "word": " a",
+          "start": 193.68,
+          "end": 193.9,
+          "start_time": "0:03:13",
+          "end_time": "0:03:13"
+        },
+        {
+          "word": " proton",
+          "start": 193.9,
+          "end": 194.24,
+          "start_time": "0:03:13",
+          "end_time": "0:03:14"
+        },
+        {
+          "word": " there",
+          "start": 194.24,
+          "end": 194.62,
+          "start_time": "0:03:14",
+          "end_time": "0:03:14"
+        },
+        {
+          "word": " leaving",
+          "start": 194.62,
+          "end": 195.34,
+          "start_time": "0:03:14",
+          "end_time": "0:03:15"
+        },
+        {
+          "word": " another",
+          "start": 195.34,
+          "end": 195.86,
+          "start_time": "0:03:15",
+          "end_time": "0:03:15"
+        },
+        {
+          "word": " bromine",
+          "start": 195.86,
+          "end": 196.26,
+          "start_time": "0:03:15",
+          "end_time": "0:03:16"
+        },
+        {
+          "word": " radical",
+          "start": 196.26,
+          "end": 196.58,
+          "start_time": "0:03:16",
+          "end_time": "0:03:16"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "start": 196.58,
+      "end": 196.82,
+      "start_time": "0:03:16",
+      "end_time": "0:03:16",
+      "text": "there.",
+      "words": [
+        {
+          "word": " there.",
+          "start": 196.58,
+          "end": 196.82,
+          "start_time": "0:03:16",
+          "end_time": "0:03:16"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "start": 197.0,
+      "end": 201.34,
+      "start_time": "0:03:17",
+      "end_time": "0:03:21",
+      "text": "Recall once again that these are all single headed electron pushing arrows denoting",
+      "words": [
+        {
+          "word": " Recall",
+          "start": 197.0,
+          "end": 197.2,
+          "start_time": "0:03:17",
+          "end_time": "0:03:17"
+        },
+        {
+          "word": " once",
+          "start": 197.2,
+          "end": 197.44,
+          "start_time": "0:03:17",
+          "end_time": "0:03:17"
+        },
+        {
+          "word": " again",
+          "start": 197.44,
+          "end": 197.72,
+          "start_time": "0:03:17",
+          "end_time": "0:03:17"
+        },
+        {
+          "word": " that",
+          "start": 197.72,
+          "end": 197.86,
+          "start_time": "0:03:17",
+          "end_time": "0:03:17"
+        },
+        {
+          "word": " these",
+          "start": 197.86,
+          "end": 198.08,
+          "start_time": "0:03:17",
+          "end_time": "0:03:18"
+        },
+        {
+          "word": " are",
+          "start": 198.08,
+          "end": 198.24,
+          "start_time": "0:03:18",
+          "end_time": "0:03:18"
+        },
+        {
+          "word": " all",
+          "start": 198.24,
+          "end": 198.42,
+          "start_time": "0:03:18",
+          "end_time": "0:03:18"
+        },
+        {
+          "word": " single",
+          "start": 198.42,
+          "end": 198.84,
+          "start_time": "0:03:18",
+          "end_time": "0:03:18"
+        },
+        {
+          "word": " headed",
+          "start": 198.84,
+          "end": 199.28,
+          "start_time": "0:03:18",
+          "end_time": "0:03:19"
+        },
+        {
+          "word": " electron",
+          "start": 199.28,
+          "end": 200.28,
+          "start_time": "0:03:19",
+          "end_time": "0:03:20"
+        },
+        {
+          "word": " pushing",
+          "start": 200.28,
+          "end": 200.66,
+          "start_time": "0:03:20",
+          "end_time": "0:03:20"
+        },
+        {
+          "word": " arrows",
+          "start": 200.66,
+          "end": 200.92,
+          "start_time": "0:03:20",
+          "end_time": "0:03:20"
+        },
+        {
+          "word": " denoting",
+          "start": 200.92,
+          "end": 201.34,
+          "start_time": "0:03:20",
+          "end_time": "0:03:21"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "start": 201.34,
+      "end": 206.4,
+      "start_time": "0:03:21",
+      "end_time": "0:03:26",
+      "text": "the movement of a singular electron and so we have gotten to our product here.",
+      "words": [
+        {
+          "word": " the",
+          "start": 201.34,
+          "end": 201.56,
+          "start_time": "0:03:21",
+          "end_time": "0:03:21"
+        },
+        {
+          "word": " movement",
+          "start": 201.56,
+          "end": 201.96,
+          "start_time": "0:03:21",
+          "end_time": "0:03:21"
+        },
+        {
+          "word": " of",
+          "start": 201.96,
+          "end": 202.18,
+          "start_time": "0:03:21",
+          "end_time": "0:03:22"
+        },
+        {
+          "word": " a",
+          "start": 202.18,
+          "end": 202.3,
+          "start_time": "0:03:22",
+          "end_time": "0:03:22"
+        },
+        {
+          "word": " singular",
+          "start": 202.3,
+          "end": 202.68,
+          "start_time": "0:03:22",
+          "end_time": "0:03:22"
+        },
+        {
+          "word": " electron",
+          "start": 202.68,
+          "end": 203.24,
+          "start_time": "0:03:22",
+          "end_time": "0:03:23"
+        },
+        {
+          "word": " and",
+          "start": 203.24,
+          "end": 203.9,
+          "start_time": "0:03:23",
+          "end_time": "0:03:23"
+        },
+        {
+          "word": " so",
+          "start": 203.9,
+          "end": 204.2,
+          "start_time": "0:03:23",
+          "end_time": "0:03:24"
+        },
+        {
+          "word": " we",
+          "start": 204.2,
+          "end": 205.02,
+          "start_time": "0:03:24",
+          "end_time": "0:03:25"
+        },
+        {
+          "word": " have",
+          "start": 205.02,
+          "end": 205.14,
+          "start_time": "0:03:25",
+          "end_time": "0:03:25"
+        },
+        {
+          "word": " gotten",
+          "start": 205.14,
+          "end": 205.38,
+          "start_time": "0:03:25",
+          "end_time": "0:03:25"
+        },
+        {
+          "word": " to",
+          "start": 205.38,
+          "end": 205.56,
+          "start_time": "0:03:25",
+          "end_time": "0:03:25"
+        },
+        {
+          "word": " our",
+          "start": 205.56,
+          "end": 205.7,
+          "start_time": "0:03:25",
+          "end_time": "0:03:25"
+        },
+        {
+          "word": " product",
+          "start": 205.7,
+          "end": 206.04,
+          "start_time": "0:03:25",
+          "end_time": "0:03:26"
+        },
+        {
+          "word": " here.",
+          "start": 206.04,
+          "end": 206.4,
+          "start_time": "0:03:26",
+          "end_time": "0:03:26"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "start": 207.4,
+      "end": 215.88,
+      "start_time": "0:03:27",
+      "end_time": "0:03:35",
+      "text": "This is our anti-marcovnicoff hydro halogenation product regio specific to be the less substituted",
+      "words": [
+        {
+          "word": " This",
+          "start": 207.07999999999998,
+          "end": 207.42,
+          "start_time": "0:03:27",
+          "end_time": "0:03:27"
+        },
+        {
+          "word": " is",
+          "start": 207.42,
+          "end": 207.74,
+          "start_time": "0:03:27",
+          "end_time": "0:03:27"
+        },
+        {
+          "word": " our",
+          "start": 207.74,
+          "end": 208.58,
+          "start_time": "0:03:27",
+          "end_time": "0:03:28"
+        },
+        {
+          "word": " anti",
+          "start": 208.58,
+          "end": 209.64,
+          "start_time": "0:03:28",
+          "end_time": "0:03:29"
+        },
+        {
+          "word": "-marcovnicoff",
+          "start": 209.64,
+          "end": 210.7,
+          "start_time": "0:03:29",
+          "end_time": "0:03:30"
+        },
+        {
+          "word": " hydro",
+          "start": 210.7,
+          "end": 211.18,
+          "start_time": "0:03:30",
+          "end_time": "0:03:31"
+        },
+        {
+          "word": " halogenation",
+          "start": 211.18,
+          "end": 211.94,
+          "start_time": "0:03:31",
+          "end_time": "0:03:31"
+        },
+        {
+          "word": " product",
+          "start": 211.94,
+          "end": 212.64,
+          "start_time": "0:03:31",
+          "end_time": "0:03:32"
+        },
+        {
+          "word": " regio",
+          "start": 212.64,
+          "end": 213.36,
+          "start_time": "0:03:32",
+          "end_time": "0:03:33"
+        },
+        {
+          "word": " specific",
+          "start": 213.36,
+          "end": 213.82,
+          "start_time": "0:03:33",
+          "end_time": "0:03:33"
+        },
+        {
+          "word": " to",
+          "start": 213.82,
+          "end": 214.4,
+          "start_time": "0:03:33",
+          "end_time": "0:03:34"
+        },
+        {
+          "word": " be",
+          "start": 214.4,
+          "end": 214.6,
+          "start_time": "0:03:34",
+          "end_time": "0:03:34"
+        },
+        {
+          "word": " the",
+          "start": 214.6,
+          "end": 214.78,
+          "start_time": "0:03:34",
+          "end_time": "0:03:34"
+        },
+        {
+          "word": " less",
+          "start": 214.78,
+          "end": 215.06,
+          "start_time": "0:03:34",
+          "end_time": "0:03:35"
+        },
+        {
+          "word": " substituted",
+          "start": 215.06,
+          "end": 215.88,
+          "start_time": "0:03:35",
+          "end_time": "0:03:35"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "start": 215.88,
+      "end": 220.46,
+      "start_time": "0:03:35",
+      "end_time": "0:03:40",
+      "text": "alkyo bromide of the two possibilities and we have managed to do it all with propagation",
+      "words": [
+        {
+          "word": " alkyo",
+          "start": 215.88,
+          "end": 216.34,
+          "start_time": "0:03:35",
+          "end_time": "0:03:36"
+        },
+        {
+          "word": " bromide",
+          "start": 216.34,
+          "end": 216.78,
+          "start_time": "0:03:36",
+          "end_time": "0:03:36"
+        },
+        {
+          "word": " of",
+          "start": 216.78,
+          "end": 216.92,
+          "start_time": "0:03:36",
+          "end_time": "0:03:36"
+        },
+        {
+          "word": " the",
+          "start": 216.92,
+          "end": 217.02,
+          "start_time": "0:03:36",
+          "end_time": "0:03:37"
+        },
+        {
+          "word": " two",
+          "start": 217.02,
+          "end": 217.2,
+          "start_time": "0:03:37",
+          "end_time": "0:03:37"
+        },
+        {
+          "word": " possibilities",
+          "start": 217.2,
+          "end": 217.86,
+          "start_time": "0:03:37",
+          "end_time": "0:03:37"
+        },
+        {
+          "word": " and",
+          "start": 217.86,
+          "end": 218.68,
+          "start_time": "0:03:37",
+          "end_time": "0:03:38"
+        },
+        {
+          "word": " we",
+          "start": 218.68,
+          "end": 218.96,
+          "start_time": "0:03:38",
+          "end_time": "0:03:38"
+        },
+        {
+          "word": " have",
+          "start": 218.96,
+          "end": 219.06,
+          "start_time": "0:03:38",
+          "end_time": "0:03:39"
+        },
+        {
+          "word": " managed",
+          "start": 219.06,
+          "end": 219.28,
+          "start_time": "0:03:39",
+          "end_time": "0:03:39"
+        },
+        {
+          "word": " to",
+          "start": 219.28,
+          "end": 219.48,
+          "start_time": "0:03:39",
+          "end_time": "0:03:39"
+        },
+        {
+          "word": " do",
+          "start": 219.48,
+          "end": 219.56,
+          "start_time": "0:03:39",
+          "end_time": "0:03:39"
+        },
+        {
+          "word": " it",
+          "start": 219.56,
+          "end": 219.68,
+          "start_time": "0:03:39",
+          "end_time": "0:03:39"
+        },
+        {
+          "word": " all",
+          "start": 219.68,
+          "end": 219.8,
+          "start_time": "0:03:39",
+          "end_time": "0:03:39"
+        },
+        {
+          "word": " with",
+          "start": 219.8,
+          "end": 220.0,
+          "start_time": "0:03:39",
+          "end_time": "0:03:40"
+        },
+        {
+          "word": " propagation",
+          "start": 220.0,
+          "end": 220.46,
+          "start_time": "0:03:40",
+          "end_time": "0:03:40"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "start": 220.46,
+      "end": 224.18,
+      "start_time": "0:03:40",
+      "end_time": "0:03:44",
+      "text": "steps there could be termination steps choose anything.",
+      "words": [
+        {
+          "word": " steps",
+          "start": 220.46,
+          "end": 220.92,
+          "start_time": "0:03:40",
+          "end_time": "0:03:40"
+        },
+        {
+          "word": " there",
+          "start": 220.92,
+          "end": 221.16,
+          "start_time": "0:03:40",
+          "end_time": "0:03:41"
+        },
+        {
+          "word": " could",
+          "start": 221.16,
+          "end": 221.34,
+          "start_time": "0:03:41",
+          "end_time": "0:03:41"
+        },
+        {
+          "word": " be",
+          "start": 221.34,
+          "end": 221.54,
+          "start_time": "0:03:41",
+          "end_time": "0:03:41"
+        },
+        {
+          "word": " termination",
+          "start": 221.54,
+          "end": 222.12,
+          "start_time": "0:03:41",
+          "end_time": "0:03:42"
+        },
+        {
+          "word": " steps",
+          "start": 222.12,
+          "end": 222.62,
+          "start_time": "0:03:42",
+          "end_time": "0:03:42"
+        },
+        {
+          "word": " choose",
+          "start": 222.62,
+          "end": 223.38,
+          "start_time": "0:03:42",
+          "end_time": "0:03:43"
+        },
+        {
+          "word": " anything.",
+          "start": 223.38,
+          "end": 224.18,
+          "start_time": "0:03:43",
+          "end_time": "0:03:44"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "start": 225.18,
+      "end": 230.7,
+      "start_time": "0:03:45",
+      "end_time": "0:03:50",
+      "text": "This radical bromine radical hydroxyl radical anything if two radical species meet they'll",
+      "words": [
+        {
+          "word": " This",
+          "start": 224.9,
+          "end": 225.28,
+          "start_time": "0:03:44",
+          "end_time": "0:03:45"
+        },
+        {
+          "word": " radical",
+          "start": 225.28,
+          "end": 225.86,
+          "start_time": "0:03:45",
+          "end_time": "0:03:45"
+        },
+        {
+          "word": " bromine",
+          "start": 225.86,
+          "end": 226.38,
+          "start_time": "0:03:45",
+          "end_time": "0:03:46"
+        },
+        {
+          "word": " radical",
+          "start": 226.38,
+          "end": 226.74,
+          "start_time": "0:03:46",
+          "end_time": "0:03:46"
+        },
+        {
+          "word": " hydroxyl",
+          "start": 226.74,
+          "end": 227.36,
+          "start_time": "0:03:46",
+          "end_time": "0:03:47"
+        },
+        {
+          "word": " radical",
+          "start": 227.36,
+          "end": 227.6,
+          "start_time": "0:03:47",
+          "end_time": "0:03:47"
+        },
+        {
+          "word": " anything",
+          "start": 227.6,
+          "end": 227.98,
+          "start_time": "0:03:47",
+          "end_time": "0:03:47"
+        },
+        {
+          "word": " if",
+          "start": 227.98,
+          "end": 228.52,
+          "start_time": "0:03:47",
+          "end_time": "0:03:48"
+        },
+        {
+          "word": " two",
+          "start": 228.52,
+          "end": 228.7,
+          "start_time": "0:03:48",
+          "end_time": "0:03:48"
+        },
+        {
+          "word": " radical",
+          "start": 228.7,
+          "end": 228.94,
+          "start_time": "0:03:48",
+          "end_time": "0:03:48"
+        },
+        {
+          "word": " species",
+          "start": 228.94,
+          "end": 229.44,
+          "start_time": "0:03:48",
+          "end_time": "0:03:49"
+        },
+        {
+          "word": " meet",
+          "start": 229.44,
+          "end": 230.2,
+          "start_time": "0:03:49",
+          "end_time": "0:03:50"
+        },
+        {
+          "word": " they'll",
+          "start": 230.2,
+          "end": 230.7,
+          "start_time": "0:03:50",
+          "end_time": "0:03:50"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "start": 230.7,
+      "end": 235.22,
+      "start_time": "0:03:50",
+      "end_time": "0:03:55",
+      "text": "terminate but none of them were needed in the mechanism generating the products so we didn't",
+      "words": [
+        {
+          "word": " terminate",
+          "start": 230.7,
+          "end": 231.24,
+          "start_time": "0:03:50",
+          "end_time": "0:03:51"
+        },
+        {
+          "word": " but",
+          "start": 231.24,
+          "end": 231.76,
+          "start_time": "0:03:51",
+          "end_time": "0:03:51"
+        },
+        {
+          "word": " none",
+          "start": 231.76,
+          "end": 231.92,
+          "start_time": "0:03:51",
+          "end_time": "0:03:51"
+        },
+        {
+          "word": " of",
+          "start": 231.92,
+          "end": 232.06,
+          "start_time": "0:03:51",
+          "end_time": "0:03:52"
+        },
+        {
+          "word": " them",
+          "start": 232.06,
+          "end": 232.2,
+          "start_time": "0:03:52",
+          "end_time": "0:03:52"
+        },
+        {
+          "word": " were",
+          "start": 232.2,
+          "end": 232.34,
+          "start_time": "0:03:52",
+          "end_time": "0:03:52"
+        },
+        {
+          "word": " needed",
+          "start": 232.34,
+          "end": 232.68,
+          "start_time": "0:03:52",
+          "end_time": "0:03:52"
+        },
+        {
+          "word": " in",
+          "start": 232.68,
+          "end": 233.36,
+          "start_time": "0:03:52",
+          "end_time": "0:03:53"
+        },
+        {
+          "word": " the",
+          "start": 233.36,
+          "end": 233.46,
+          "start_time": "0:03:53",
+          "end_time": "0:03:53"
+        },
+        {
+          "word": " mechanism",
+          "start": 233.46,
+          "end": 233.8,
+          "start_time": "0:03:53",
+          "end_time": "0:03:53"
+        },
+        {
+          "word": " generating",
+          "start": 233.8,
+          "end": 234.32,
+          "start_time": "0:03:53",
+          "end_time": "0:03:54"
+        },
+        {
+          "word": " the",
+          "start": 234.32,
+          "end": 234.52,
+          "start_time": "0:03:54",
+          "end_time": "0:03:54"
+        },
+        {
+          "word": " products",
+          "start": 234.52,
+          "end": 234.76,
+          "start_time": "0:03:54",
+          "end_time": "0:03:54"
+        },
+        {
+          "word": " so",
+          "start": 234.76,
+          "end": 234.96,
+          "start_time": "0:03:54",
+          "end_time": "0:03:54"
+        },
+        {
+          "word": " we",
+          "start": 234.96,
+          "end": 235.06,
+          "start_time": "0:03:54",
+          "end_time": "0:03:55"
+        },
+        {
+          "word": " didn't",
+          "start": 235.06,
+          "end": 235.22,
+          "start_time": "0:03:55",
+          "end_time": "0:03:55"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "start": 235.22,
+      "end": 235.64,
+      "start_time": "0:03:55",
+      "end_time": "0:03:55",
+      "text": "draw them.",
+      "words": [
+        {
+          "word": " draw",
+          "start": 235.22,
+          "end": 235.46,
+          "start_time": "0:03:55",
+          "end_time": "0:03:55"
+        },
+        {
+          "word": " them.",
+          "start": 235.46,
+          "end": 235.64,
+          "start_time": "0:03:55",
+          "end_time": "0:03:55"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "start": 236.1,
+      "end": 242.34,
+      "start_time": "0:03:56",
+      "end_time": "0:04:02",
+      "text": "So once again hydroxyl radical initiates propagates the existence of the bromine radical and",
+      "words": [
+        {
+          "word": " So",
+          "start": 236.1,
+          "end": 236.16,
+          "start_time": "0:03:56",
+          "end_time": "0:03:56"
+        },
+        {
+          "word": " once",
+          "start": 236.16,
+          "end": 236.52,
+          "start_time": "0:03:56",
+          "end_time": "0:03:56"
+        },
+        {
+          "word": " again",
+          "start": 236.52,
+          "end": 236.78,
+          "start_time": "0:03:56",
+          "end_time": "0:03:56"
+        },
+        {
+          "word": " hydroxyl",
+          "start": 236.78,
+          "end": 237.42,
+          "start_time": "0:03:56",
+          "end_time": "0:03:57"
+        },
+        {
+          "word": " radical",
+          "start": 237.42,
+          "end": 237.82,
+          "start_time": "0:03:57",
+          "end_time": "0:03:57"
+        },
+        {
+          "word": " initiates",
+          "start": 237.82,
+          "end": 239.14,
+          "start_time": "0:03:57",
+          "end_time": "0:03:59"
+        },
+        {
+          "word": " propagates",
+          "start": 239.14,
+          "end": 240.28,
+          "start_time": "0:03:59",
+          "end_time": "0:04:00"
+        },
+        {
+          "word": " the",
+          "start": 240.28,
+          "end": 240.4,
+          "start_time": "0:04:00",
+          "end_time": "0:04:00"
+        },
+        {
+          "word": " existence",
+          "start": 240.4,
+          "end": 240.76,
+          "start_time": "0:04:00",
+          "end_time": "0:04:00"
+        },
+        {
+          "word": " of",
+          "start": 240.76,
+          "end": 241.16,
+          "start_time": "0:04:00",
+          "end_time": "0:04:01"
+        },
+        {
+          "word": " the",
+          "start": 241.16,
+          "end": 241.3,
+          "start_time": "0:04:01",
+          "end_time": "0:04:01"
+        },
+        {
+          "word": " bromine",
+          "start": 241.3,
+          "end": 241.68,
+          "start_time": "0:04:01",
+          "end_time": "0:04:01"
+        },
+        {
+          "word": " radical",
+          "start": 241.68,
+          "end": 242.1,
+          "start_time": "0:04:01",
+          "end_time": "0:04:02"
+        },
+        {
+          "word": " and",
+          "start": 242.1,
+          "end": 242.34,
+          "start_time": "0:04:02",
+          "end_time": "0:04:02"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "start": 242.34,
+      "end": 249.58,
+      "start_time": "0:04:02",
+      "end_time": "0:04:09",
+      "text": "then the bromine radical goes ahead and adds in regio specific manner specifically in an",
+      "words": [
+        {
+          "word": " then",
+          "start": 242.34,
+          "end": 242.44,
+          "start_time": "0:04:02",
+          "end_time": "0:04:02"
+        },
+        {
+          "word": " the",
+          "start": 242.44,
+          "end": 242.56,
+          "start_time": "0:04:02",
+          "end_time": "0:04:02"
+        },
+        {
+          "word": " bromine",
+          "start": 242.56,
+          "end": 242.98,
+          "start_time": "0:04:02",
+          "end_time": "0:04:02"
+        },
+        {
+          "word": " radical",
+          "start": 242.98,
+          "end": 243.36,
+          "start_time": "0:04:02",
+          "end_time": "0:04:03"
+        },
+        {
+          "word": " goes",
+          "start": 243.36,
+          "end": 243.64,
+          "start_time": "0:04:03",
+          "end_time": "0:04:03"
+        },
+        {
+          "word": " ahead",
+          "start": 243.64,
+          "end": 244.56,
+          "start_time": "0:04:03",
+          "end_time": "0:04:04"
+        },
+        {
+          "word": " and",
+          "start": 244.56,
+          "end": 244.88,
+          "start_time": "0:04:04",
+          "end_time": "0:04:04"
+        },
+        {
+          "word": " adds",
+          "start": 244.88,
+          "end": 245.36,
+          "start_time": "0:04:04",
+          "end_time": "0:04:05"
+        },
+        {
+          "word": " in",
+          "start": 245.36,
+          "end": 246.04,
+          "start_time": "0:04:05",
+          "end_time": "0:04:06"
+        },
+        {
+          "word": " regio",
+          "start": 246.04,
+          "end": 246.82,
+          "start_time": "0:04:06",
+          "end_time": "0:04:06"
+        },
+        {
+          "word": " specific",
+          "start": 246.82,
+          "end": 247.4,
+          "start_time": "0:04:06",
+          "end_time": "0:04:07"
+        },
+        {
+          "word": " manner",
+          "start": 247.4,
+          "end": 247.86,
+          "start_time": "0:04:07",
+          "end_time": "0:04:07"
+        },
+        {
+          "word": " specifically",
+          "start": 247.86,
+          "end": 248.78,
+          "start_time": "0:04:07",
+          "end_time": "0:04:08"
+        },
+        {
+          "word": " in",
+          "start": 248.78,
+          "end": 249.36,
+          "start_time": "0:04:08",
+          "end_time": "0:04:09"
+        },
+        {
+          "word": " an",
+          "start": 249.36,
+          "end": 249.58,
+          "start_time": "0:04:09",
+          "end_time": "0:04:09"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "start": 249.58,
+      "end": 255.78,
+      "start_time": "0:04:09",
+      "end_time": "0:04:15",
+      "text": "anti-marcovnicoff manner so that it generates the more stable of the possible alkyo radical",
+      "words": [
+        {
+          "word": " anti",
+          "start": 249.58,
+          "end": 250.24,
+          "start_time": "0:04:09",
+          "end_time": "0:04:10"
+        },
+        {
+          "word": "-marcovnicoff",
+          "start": 250.24,
+          "end": 251.2,
+          "start_time": "0:04:10",
+          "end_time": "0:04:11"
+        },
+        {
+          "word": " manner",
+          "start": 251.2,
+          "end": 251.42,
+          "start_time": "0:04:11",
+          "end_time": "0:04:11"
+        },
+        {
+          "word": " so",
+          "start": 251.42,
+          "end": 252.0,
+          "start_time": "0:04:11",
+          "end_time": "0:04:12"
+        },
+        {
+          "word": " that",
+          "start": 252.0,
+          "end": 252.3,
+          "start_time": "0:04:12",
+          "end_time": "0:04:12"
+        },
+        {
+          "word": " it",
+          "start": 252.3,
+          "end": 252.62,
+          "start_time": "0:04:12",
+          "end_time": "0:04:12"
+        },
+        {
+          "word": " generates",
+          "start": 252.62,
+          "end": 253.1,
+          "start_time": "0:04:12",
+          "end_time": "0:04:13"
+        },
+        {
+          "word": " the",
+          "start": 253.1,
+          "end": 253.38,
+          "start_time": "0:04:13",
+          "end_time": "0:04:13"
+        },
+        {
+          "word": " more",
+          "start": 253.38,
+          "end": 253.68,
+          "start_time": "0:04:13",
+          "end_time": "0:04:13"
+        },
+        {
+          "word": " stable",
+          "start": 253.68,
+          "end": 254.24,
+          "start_time": "0:04:13",
+          "end_time": "0:04:14"
+        },
+        {
+          "word": " of",
+          "start": 254.24,
+          "end": 254.46,
+          "start_time": "0:04:14",
+          "end_time": "0:04:14"
+        },
+        {
+          "word": " the",
+          "start": 254.46,
+          "end": 254.56,
+          "start_time": "0:04:14",
+          "end_time": "0:04:14"
+        },
+        {
+          "word": " possible",
+          "start": 254.56,
+          "end": 255.0,
+          "start_time": "0:04:14",
+          "end_time": "0:04:15"
+        },
+        {
+          "word": " alkyo",
+          "start": 255.0,
+          "end": 255.58,
+          "start_time": "0:04:15",
+          "end_time": "0:04:15"
+        },
+        {
+          "word": " radical",
+          "start": 255.58,
+          "end": 255.78,
+          "start_time": "0:04:15",
+          "end_time": "0:04:15"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "start": 255.78,
+      "end": 256.6,
+      "start_time": "0:04:15",
+      "end_time": "0:04:16",
+      "text": "intermediates.",
+      "words": [
+        {
+          "word": " intermediates.",
+          "start": 255.78,
+          "end": 256.6,
+          "start_time": "0:04:15",
+          "end_time": "0:04:16"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "start": 257.16,
+      "end": 262.44,
+      "start_time": "0:04:17",
+      "end_time": "0:04:22",
+      "text": "So that will shed some light on the mystery we understood the mechanism before for the",
+      "words": [
+        {
+          "word": " So",
+          "start": 257.16,
+          "end": 257.24,
+          "start_time": "0:04:17",
+          "end_time": "0:04:17"
+        },
+        {
+          "word": " that",
+          "start": 257.24,
+          "end": 258.16,
+          "start_time": "0:04:17",
+          "end_time": "0:04:18"
+        },
+        {
+          "word": " will",
+          "start": 258.16,
+          "end": 258.36,
+          "start_time": "0:04:18",
+          "end_time": "0:04:18"
+        },
+        {
+          "word": " shed",
+          "start": 258.36,
+          "end": 258.56,
+          "start_time": "0:04:18",
+          "end_time": "0:04:18"
+        },
+        {
+          "word": " some",
+          "start": 258.56,
+          "end": 258.76,
+          "start_time": "0:04:18",
+          "end_time": "0:04:18"
+        },
+        {
+          "word": " light",
+          "start": 258.76,
+          "end": 258.92,
+          "start_time": "0:04:18",
+          "end_time": "0:04:18"
+        },
+        {
+          "word": " on",
+          "start": 258.92,
+          "end": 259.06,
+          "start_time": "0:04:18",
+          "end_time": "0:04:19"
+        },
+        {
+          "word": " the",
+          "start": 259.06,
+          "end": 259.16,
+          "start_time": "0:04:19",
+          "end_time": "0:04:19"
+        },
+        {
+          "word": " mystery",
+          "start": 259.16,
+          "end": 259.48,
+          "start_time": "0:04:19",
+          "end_time": "0:04:19"
+        },
+        {
+          "word": " we",
+          "start": 259.48,
+          "end": 259.7,
+          "start_time": "0:04:19",
+          "end_time": "0:04:19"
+        },
+        {
+          "word": " understood",
+          "start": 259.7,
+          "end": 260.24,
+          "start_time": "0:04:19",
+          "end_time": "0:04:20"
+        },
+        {
+          "word": " the",
+          "start": 260.24,
+          "end": 260.58,
+          "start_time": "0:04:20",
+          "end_time": "0:04:20"
+        },
+        {
+          "word": " mechanism",
+          "start": 260.58,
+          "end": 260.92,
+          "start_time": "0:04:20",
+          "end_time": "0:04:20"
+        },
+        {
+          "word": " before",
+          "start": 260.92,
+          "end": 261.5,
+          "start_time": "0:04:20",
+          "end_time": "0:04:21"
+        },
+        {
+          "word": " for",
+          "start": 261.5,
+          "end": 262.22,
+          "start_time": "0:04:21",
+          "end_time": "0:04:22"
+        },
+        {
+          "word": " the",
+          "start": 262.22,
+          "end": 262.44,
+          "start_time": "0:04:22",
+          "end_time": "0:04:22"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "start": 262.44,
+      "end": 268.86,
+      "start_time": "0:04:22",
+      "end_time": "0:04:28",
+      "text": "Marcovnicoff hydro halogenation and now we know the mechanism for the anti-marcovnicoff",
+      "words": [
+        {
+          "word": " Marcovnicoff",
+          "start": 262.44,
+          "end": 263.34,
+          "start_time": "0:04:22",
+          "end_time": "0:04:23"
+        },
+        {
+          "word": " hydro",
+          "start": 263.34,
+          "end": 263.56,
+          "start_time": "0:04:23",
+          "end_time": "0:04:23"
+        },
+        {
+          "word": " halogenation",
+          "start": 263.56,
+          "end": 264.18,
+          "start_time": "0:04:23",
+          "end_time": "0:04:24"
+        },
+        {
+          "word": " and",
+          "start": 264.18,
+          "end": 264.6,
+          "start_time": "0:04:24",
+          "end_time": "0:04:24"
+        },
+        {
+          "word": " now",
+          "start": 264.6,
+          "end": 264.84,
+          "start_time": "0:04:24",
+          "end_time": "0:04:24"
+        },
+        {
+          "word": " we",
+          "start": 264.84,
+          "end": 265.02,
+          "start_time": "0:04:24",
+          "end_time": "0:04:25"
+        },
+        {
+          "word": " know",
+          "start": 265.02,
+          "end": 265.28,
+          "start_time": "0:04:25",
+          "end_time": "0:04:25"
+        },
+        {
+          "word": " the",
+          "start": 265.28,
+          "end": 265.94,
+          "start_time": "0:04:25",
+          "end_time": "0:04:25"
+        },
+        {
+          "word": " mechanism",
+          "start": 265.94,
+          "end": 266.48,
+          "start_time": "0:04:25",
+          "end_time": "0:04:26"
+        },
+        {
+          "word": " for",
+          "start": 266.48,
+          "end": 267.1,
+          "start_time": "0:04:26",
+          "end_time": "0:04:27"
+        },
+        {
+          "word": " the",
+          "start": 267.1,
+          "end": 267.5,
+          "start_time": "0:04:27",
+          "end_time": "0:04:27"
+        },
+        {
+          "word": " anti",
+          "start": 267.5,
+          "end": 268.02,
+          "start_time": "0:04:27",
+          "end_time": "0:04:28"
+        },
+        {
+          "word": "-marcovnicoff",
+          "start": 268.02,
+          "end": 268.86,
+          "start_time": "0:04:28",
+          "end_time": "0:04:28"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "start": 268.86,
+      "end": 269.94,
+      "start_time": "0:04:28",
+      "end_time": "0:04:29",
+      "text": "variety as well.",
+      "words": [
+        {
+          "word": " variety",
+          "start": 268.86,
+          "end": 269.14,
+          "start_time": "0:04:28",
+          "end_time": "0:04:29"
+        },
+        {
+          "word": " as",
+          "start": 269.14,
+          "end": 269.76,
+          "start_time": "0:04:29",
+          "end_time": "0:04:29"
+        },
+        {
+          "word": " well.",
+          "start": 269.76,
+          "end": 269.94,
+          "start_time": "0:04:29",
+          "end_time": "0:04:29"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "start": 270.96,
+      "end": 275.32,
+      "start_time": "0:04:30",
+      "end_time": "0:04:35",
+      "text": "Thanks for watching guys subscribe to my channel for more tutorials and as always feel",
+      "words": [
+        {
+          "word": " Thanks",
+          "start": 270.96,
+          "end": 271.32,
+          "start_time": "0:04:30",
+          "end_time": "0:04:31"
+        },
+        {
+          "word": " for",
+          "start": 271.32,
+          "end": 271.48,
+          "start_time": "0:04:31",
+          "end_time": "0:04:31"
+        },
+        {
+          "word": " watching",
+          "start": 271.48,
+          "end": 271.74,
+          "start_time": "0:04:31",
+          "end_time": "0:04:31"
+        },
+        {
+          "word": " guys",
+          "start": 271.74,
+          "end": 272.0,
+          "start_time": "0:04:31",
+          "end_time": "0:04:32"
+        },
+        {
+          "word": " subscribe",
+          "start": 272.0,
+          "end": 272.68,
+          "start_time": "0:04:32",
+          "end_time": "0:04:32"
+        },
+        {
+          "word": " to",
+          "start": 272.68,
+          "end": 272.94,
+          "start_time": "0:04:32",
+          "end_time": "0:04:32"
+        },
+        {
+          "word": " my",
+          "start": 272.94,
+          "end": 273.02,
+          "start_time": "0:04:32",
+          "end_time": "0:04:33"
+        },
+        {
+          "word": " channel",
+          "start": 273.02,
+          "end": 273.26,
+          "start_time": "0:04:33",
+          "end_time": "0:04:33"
+        },
+        {
+          "word": " for",
+          "start": 273.26,
+          "end": 273.4,
+          "start_time": "0:04:33",
+          "end_time": "0:04:33"
+        },
+        {
+          "word": " more",
+          "start": 273.4,
+          "end": 273.58,
+          "start_time": "0:04:33",
+          "end_time": "0:04:33"
+        },
+        {
+          "word": " tutorials",
+          "start": 273.58,
+          "end": 274.12,
+          "start_time": "0:04:33",
+          "end_time": "0:04:34"
+        },
+        {
+          "word": " and",
+          "start": 274.12,
+          "end": 274.72,
+          "start_time": "0:04:34",
+          "end_time": "0:04:34"
+        },
+        {
+          "word": " as",
+          "start": 274.72,
+          "end": 274.88,
+          "start_time": "0:04:34",
+          "end_time": "0:04:34"
+        },
+        {
+          "word": " always",
+          "start": 274.88,
+          "end": 275.1,
+          "start_time": "0:04:34",
+          "end_time": "0:04:35"
+        },
+        {
+          "word": " feel",
+          "start": 275.1,
+          "end": 275.32,
+          "start_time": "0:04:35",
+          "end_time": "0:04:35"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "start": 275.32,
+      "end": 279.02,
+      "start_time": "0:04:35",
+      "end_time": "0:04:39",
+      "text": "free to email me questions professor Dave explains at gmail.com",
+      "words": [
+        {
+          "word": " free",
+          "start": 275.32,
+          "end": 275.52,
+          "start_time": "0:04:35",
+          "end_time": "0:04:35"
+        },
+        {
+          "word": " to",
+          "start": 275.52,
+          "end": 275.62,
+          "start_time": "0:04:35",
+          "end_time": "0:04:35"
+        },
+        {
+          "word": " email",
+          "start": 275.62,
+          "end": 275.88,
+          "start_time": "0:04:35",
+          "end_time": "0:04:35"
+        },
+        {
+          "word": " me",
+          "start": 275.88,
+          "end": 276.06,
+          "start_time": "0:04:35",
+          "end_time": "0:04:36"
+        },
+        {
+          "word": " questions",
+          "start": 276.06,
+          "end": 276.44,
+          "start_time": "0:04:36",
+          "end_time": "0:04:36"
+        },
+        {
+          "word": " professor",
+          "start": 276.44,
+          "end": 277.16,
+          "start_time": "0:04:36",
+          "end_time": "0:04:37"
+        },
+        {
+          "word": " Dave",
+          "start": 277.16,
+          "end": 277.38,
+          "start_time": "0:04:37",
+          "end_time": "0:04:37"
+        },
+        {
+          "word": " explains",
+          "start": 277.38,
+          "end": 277.78,
+          "start_time": "0:04:37",
+          "end_time": "0:04:37"
+        },
+        {
+          "word": " at",
+          "start": 277.78,
+          "end": 278.22,
+          "start_time": "0:04:37",
+          "end_time": "0:04:38"
+        },
+        {
+          "word": " gmail",
+          "start": 278.22,
+          "end": 278.48,
+          "start_time": "0:04:38",
+          "end_time": "0:04:38"
+        },
+        {
+          "word": ".com",
+          "start": 278.48,
+          "end": 279.02,
+          "start_time": "0:04:38",
+          "end_time": "0:04:39"
+        }
+      ]
+    }
+  ],
+  "full_text": "So the other reaction I want to show you is the anti-Marcovnikov hydrohallogenation. So remember when we were looking at addition reactions, we were looking at hydrohallogenation and we were understanding that that was a regio-specific reaction. Regio-specific meaning that the halogen would always go to the more substituted of the two carbons participating in the pi bond because of the fact that it would only go by the more stable carbocation intermediate. Remember this pi bond would get the proton, leave the secondary carbocation and then that's where the bromide would go and we'd get the Marcovnikov product in a regio-specific manner. But then we didn't look at the mechanism but we also noted the fact that in the presence of peroxides this would shift to anti-Marcovnikov regio-specificity. In other words we would get the halogen on the less substituted of the two carbons participating in the pi bond. And we didn't look at why, well here's why, it's a free radical reaction and so the peroxides obviously play a very key role in this. So let's take a look. The initiation step is going to be provided by the peroxides and so remember when we talked about oxygen, oxygen, covalent bonds as ones that are able to undergo homolytic bond cleavage. That's the initiation step. So we have this oxygen oxygen covalent bond undergoing homolysis and then we get two hydroxyl radicals. So it's those hydroxyl radicals that are going to propagate the formation above other radicals. So let's say that a hydroxyl radical finds one of these molecules of HBR. Well what's going to happen is this radical and then one electron from this covalent bond are going to form a new one and now we've got a water molecule and then that's going to propagate the existence of a bromine radical. Then from there this is the key step because this is where the regio specificity is involved. The bromine radical is going to interact with this pi bond that is necessary for the addition reaction and what's going to happen is it's going to form a new carbon bromine bond but it is going to do it in regio specific manner because of the stability of the alkyo radical that it will generate. So in other words one of these pi electrons is going to go to form a covalent bond with this bromine radical and it is only going to happen here because if it does so then the other pi electron will go to this carbon, the secondary carbon leaving the more stable of the two possible alkyo radical intermediates. If the bromine radical interacted at this position and this pi electron went to form the new carbon bromine bond there then that would mean that the other pi electron would be left on the primary carbon and we then have a primary alkyo radical intermediate and that is the less stable of the two so it will not produce that. So in a regio specific manner the bromine will add to the less substituted of the two carbons participating in the pi bond. That leaves an alkyo radical intermediate which will then go ahead and undergo another step with HBR and it will just extract a proton there leaving another bromine radical there. Recall once again that these are all single headed electron pushing arrows denoting the movement of a singular electron and so we have gotten to our product here. This is our anti-marcovnicoff hydro halogenation product regio specific to be the less substituted alkyo bromide of the two possibilities and we have managed to do it all with propagation steps there could be termination steps choose anything. This radical bromine radical hydroxyl radical anything if two radical species meet they'll terminate but none of them were needed in the mechanism generating the products so we didn't draw them. So once again hydroxyl radical initiates propagates the existence of the bromine radical and then the bromine radical goes ahead and adds in regio specific manner specifically in an anti-marcovnicoff manner so that it generates the more stable of the possible alkyo radical intermediates. So that will shed some light on the mystery we understood the mechanism before for the Marcovnicoff hydro halogenation and now we know the mechanism for the anti-marcovnicoff variety as well. Thanks for watching guys subscribe to my channel for more tutorials and as always feel free to email me questions professor Dave explains at gmail.com",
+  "metadata": {
+    "title": "Anti Markiovs Rule",
+    "description": "Anti Markov",
+    "category": "Coding",
+    "subject": "Chemistry",
+    "scheduled_date": "2026-01-30T00:23",
+    "original_filename": "videoplayback.mp4",
+    "saved_filename": "Anti_Markiovs_Rule.mp4"
+  }
+}

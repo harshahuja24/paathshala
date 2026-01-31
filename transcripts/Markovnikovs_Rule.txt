@@ -1,0 +1,360 @@
+Transcription for Video ID: Markovnikovs_Rule
+Date: 2025-11-01T10:03:02.611666
+Language: en
+Duration: 0:00:00
+================================================================================
+
+[0:00:00 -> 0:00:04]
+In this video we're going to focus on Markovnikov's rule.
+
+[0:00:05 -> 0:00:12]
+So let's say we have this alkene, two pentene, and we react it with hydrobromic acid.
+
+[0:00:13 -> 0:00:16]
+But we'll be the products of that reaction.
+
+[0:00:16 -> 0:00:20]
+And let's compare it to if we have, let's say, one butane.
+
+[0:00:21 -> 0:00:25]
+If we react that with HBR, we'll be the major product of that reaction.
+
+[0:00:29 -> 0:00:34]
+Now for the first reaction above, we get a mixture of two different products.
+
+[0:00:38 -> 0:00:43]
+We're going to get 3 bromo, pentane, and 2 bromo, pentane.
+
+[0:00:45 -> 0:00:48]
+And this is going to be 50-50.
+
+[0:00:49 -> 0:00:54]
+But for the reaction below, we're going to get a major product,
+
+[0:00:54 -> 0:00:56]
+which is two bromo butane.
+
+[0:00:57 -> 0:01:01]
+Now we could get one bromo butane, but that's going to be a minor product.
+
+[0:01:02 -> 0:01:05]
+So the question is, why do we get this as the major product?
+
+[0:01:06 -> 0:01:09]
+Well, there's something called more carbonicov's rule,
+
+[0:01:09 -> 0:01:16]
+which basically states that the hydrogen atom or the electrophile adds to the carbon
+
+[0:01:16 -> 0:01:19]
+with the most number of hydrogen atoms.
+
+[0:01:20 -> 0:01:23]
+And these are the carbons that are the SB2 carbons.
+
+[0:01:23 -> 0:01:24]
+The carbons that are part of the alkene.
+
+[0:01:26 -> 0:01:29]
+So this, so here are the two SB2 carbons.
+
+[0:01:29 -> 0:01:34]
+This carbon has one hydrogen, and this carbon has two hydrogen.
+
+[0:01:35 -> 0:01:40]
+So based on more carbonicov's rule, the hydrogen is going to go on this carbon,
+
+[0:01:40 -> 0:01:45]
+the one with the most number of carbons, which means the halogen goes on the other carbon.
+
+[0:01:47 -> 0:01:50]
+So another way of looking at more carbonicov's rule is that the halogen,
+
+[0:01:50 -> 0:01:54]
+the bromine atom is going to go on the more substituted carbon.
+
+[0:01:55 -> 0:01:58]
+This carbon is primary because it's attached to only one other carbon.
+
+[0:01:59 -> 0:02:03]
+This carbon is secondary because it's attached to two other carbon atoms.
+
+[0:02:04 -> 0:02:08]
+So even though more complicated cause rules, they thought the electrophile,
+
+[0:02:08 -> 0:02:14]
+in this case, hydrogen, goes on the SB2 carbon that has the greatest number of hydrogen atoms.
+
+[0:02:16 -> 0:02:23]
+That rule is equivalent to saying that the halogen BR goes on the more substituted carbon atom.
+
+[0:02:23 -> 0:02:28]
+And viewing it from that perspective will help you to find the answer quickly
+
+[0:02:28 -> 0:02:32]
+and determine if the product is more carbonicov or anti-macarmicov.
+
+[0:02:35 -> 0:02:38]
+So you can say this reaction proceeds with more carbonicov edition.
+
+[0:02:38 -> 0:02:42]
+There are some reactions that proceed with anti-macarmicov edition.
+
+[0:02:43 -> 0:02:47]
+Now the reaction on top is not regio selective.
+
+[0:02:47 -> 0:02:49]
+So macarmicov's rule doesn't apply.
+
+[0:02:50 -> 0:02:55]
+As you can see, both of these carbons are secondary and the bromine can go on either one of those two carbons.
+
+[0:02:56 -> 0:03:00]
+But here there's a difference and so this reaction is going to be regio selective.
+
+[0:03:00 -> 0:03:04]
+The bromine will preferentially, preferentially, add to the secondary carbon.
+
+[0:03:09 -> 0:03:11]
+Now let's talk about the mechanism of this reaction.
+
+[0:03:13 -> 0:03:19]
+To help us understand why the hydrogen atom goes on the primary carbon.
+
+[0:03:21 -> 0:03:26]
+So the first thing that happens is the alkene that strikes a proton from HBR.
+
+[0:03:27 -> 0:03:35]
+Now if we were to put the hydrogen on the secondary carbon, this will lead to a primary carbocation, which is not stable.
+
+[0:03:35 -> 0:03:46]
+But if we were to put the hydrogen on the secondary, I mean on the primary carbon, this will lead to a secondary carbocation, which is more stable than a primary carbocation.
+
+[0:03:46 -> 0:03:54]
+And that's the reason why the hydrogen atom goes on the less substituted carbon atom or the SB2 carbon with the most hydrogen atoms.
+
+[0:03:55 -> 0:03:58]
+It's because it leads to a more stable carbocation intermediate.
+
+[0:03:59 -> 0:04:13]
+Now the last step in this reaction is that bromide reacts with the carbocation, giving us the product to bromobutane.
+
+[0:04:14 -> 0:04:18]
+So that's why this particular reaction proceeds with Marc Hartman-Card edition.
+
+[0:04:20 -> 0:04:25]
+It's due to the fact that we get a more stable secondary carbocation intermediate.
+
+[0:04:30 -> 0:04:33]
+Now consider the following through reactions.
+
+[0:04:34 -> 0:04:44]
+Let's say the first one is mercury acetate with water followed by sodium borohydride.
+
+[0:04:45 -> 0:04:53]
+And the second one is going to be hydroboration, oxidation.
+
+[0:05:00 -> 0:05:05]
+And also we'll use HBR with peroxides.
+
+[0:05:06 -> 0:05:10]
+And let's compare that to using just HBR by itself.
+
+[0:05:11 -> 0:05:18]
+So the first reaction, oxymurceration, demurceration, that reaction proceeds with Marc Hartman-Card edition.
+
+[0:05:21 -> 0:05:27]
+So we're going to add an OH group and it's going to go on the more substituted secondary carbone.
+
+[0:05:27 -> 0:05:28]
+I mean the secondary carbon.
+
+[0:05:29 -> 0:05:32]
+So this is going to be the product of this reaction.
+
+[0:05:34 -> 0:05:40]
+Now the next reaction, hydroboration, oxidation with octane proceeds with anti Marc Hartman-Card edition.
+
+[0:05:41 -> 0:05:48]
+So that means that the hydroxo group is going to go on the primary carbon or the less substituted carbon.
+
+[0:05:48 -> 0:05:51]
+Of the two carbon atoms that are double-wonded.
+
+[0:05:52 -> 0:05:56]
+Now we know that HBR proceeds with Marc Hartman-Card edition.
+
+[0:05:58 -> 0:06:04]
+But HBR with peroxides proceeds with anti Marc Hartman-Card edition.
+
+[0:06:07 -> 0:06:12]
+So it's important to know the VGEO selectivity of different reactions.
+
+[0:06:12 -> 0:06:18]
+You need to know if a certain reaction proceeds with Marc Hartman-Card edition compared to if it was a carbon-card edition.
+
+[0:06:22 -> 0:06:24]
+Now let's consider another example.
+
+[0:06:27 -> 0:06:36]
+So let's say we have three methyl, one butine, and we're going to react it with some similar reagents.
+
+[0:06:36 -> 0:06:39]
+The first one is going to be mercury acetate.
+
+[0:06:41 -> 0:06:45]
+In water followed by sodium borohydride.
+
+[0:06:48 -> 0:06:52]
+And then we're also going to use hydroboration, oxidation.
+
+[0:06:59 -> 0:07:04]
+And then we're also going to react it with water under acidic conditions.
+
+[0:07:04 -> 0:07:09]
+Or equivalently, let me say that again equivalently with H30+.
+
+[0:07:11 -> 0:07:17]
+So the first reaction proceeds with Marc Hartman-Card edition just like before.
+
+[0:07:22 -> 0:07:24]
+The OH group is going to go on a secondary carbon.
+
+[0:07:25 -> 0:07:31]
+The second reaction proceeds with anti Marc Hartman-Card edition.
+
+[0:07:34 -> 0:07:36]
+So the OH group is going to go on a primary carbon.
+
+[0:07:36 -> 0:07:38]
+Now the third reaction is a little bit different.
+
+[0:07:39 -> 0:07:47]
+And I want to compare the third reaction with the other starting out keen that we use in a previous example.
+
+[0:07:48 -> 0:07:51]
+So if you were to mix one butine with H30+.
+
+[0:07:51 -> 0:07:56]
+This reaction will proceed with Marc Hartman-Card edition.
+
+[0:07:57 -> 0:08:03]
+If you were to mix H30+, or water and H30+, with this particular alkene.
+
+[0:08:04 -> 0:08:09]
+The answer is different. You actually get an alcohol that looks like this.
+
+[0:08:10 -> 0:08:15]
+The OH group doesn't go on a secondary carbon, but rather it goes on a tertiary carbon.
+
+[0:08:16 -> 0:08:21]
+So you need to be careful with reactions that are that proceed with Marc Hartman-Card edition,
+
+[0:08:22 -> 0:08:24]
+particularly the ones that are subject to rearrangements.
+
+[0:08:25 -> 0:08:32]
+For the most part, the oxymorcharation demorcharation reaction doesn't generally proceed with rearrangements.
+
+[0:08:32 -> 0:08:34]
+The major product is this product.
+
+[0:08:35 -> 0:08:42]
+However, reactions that involve a carbocation intermediate, like the ones with HBR or HDO+,
+
+[0:08:42 -> 0:08:44]
+these proceed with rearrangements.
+
+[0:08:45 -> 0:08:49]
+And as a result, the OH group goes on the most substituted carbon,
+
+[0:08:50 -> 0:08:51]
+that is in the vicinity of the double one.
+
+[0:08:51 -> 0:08:55]
+So now let's go over the mechanism of that reaction.
+
+[0:08:56 -> 0:08:58]
+Let's see why we get the tertiary alcohol.
+
+[0:09:02 -> 0:09:06]
+So in the first step, we can react it with HDO+, or H+.
+
+[0:09:08 -> 0:09:11]
+I'm going to use HDO+, the hydronium ion.
+
+[0:09:15 -> 0:09:18]
+So the alkene is going to abstract a proton.
+
+[0:09:19 -> 0:09:19]
+And we're going to get water.
+
+[0:09:21 -> 0:09:26]
+Based on Marc Hartman-Card's role, that proton is going to go on the primary carbon,
+
+[0:09:26 -> 0:09:29]
+the carbon with the most number of hydrogen atoms.
+
+[0:09:31 -> 0:09:33]
+And now we're going to get a secondary carbocation.
+
+[0:09:35 -> 0:09:39]
+Now tertiary carbocadines are more stable than secondary carbocadines.
+
+[0:09:40 -> 0:09:45]
+And molecules and ions stay like to rearrange themselves to find the most stable configuration.
+
+[0:09:46 -> 0:09:48]
+So a hydride shift will automatically occur.
+
+[0:09:49 -> 0:09:56]
+And this is going to give us a tertiary, more stable carbocadine.
+
+[0:09:58 -> 0:10:03]
+Once this tertiary carbocadine is formed, the water molecule that we got from the previous example,
+
+[0:10:03 -> 0:10:08]
+I mean from the previous step, or any other water molecule that is available,
+
+[0:10:08 -> 0:10:12]
+that's going to attack the carbocadine.
+
+[0:10:16 -> 0:10:22]
+So once the nucleophile adds to the carbocadine center or the electrophile,
+
+[0:10:23 -> 0:10:24]
+we're going to get this.
+
+[0:10:26 -> 0:10:37]
+Next, we need to use another water molecule to remove a hydrogen from this pronated alcohol species,
+
+[0:10:38 -> 0:10:39]
+or axonium species.
+
+[0:10:41 -> 0:10:46]
+And then this will give us our final answer, where we have a tertiary alcohol.
+
+[0:10:50 -> 0:10:52]
+So that's why we get that particular product.
+
+[0:10:53 -> 0:10:58]
+It's due to a carbocadine via arrangement, and the driving force is stability.
+
+[0:10:58 -> 0:11:02]
+Tertiary carbocadines are more stable, and then secondary carbocadines,
+
+[0:11:03 -> 0:11:04]
+due to the inductive effect and hyperconjugation.
+
+[0:11:06 -> 0:11:07]
+So that's it for this video.
+
+[0:11:07 -> 0:11:10]
+Hopefully gave you a good introduction to Marc Haumekaw's role,
+
+[0:11:10 -> 0:11:14]
+and how it works, and how it applies in these scenarios.
+
+[0:11:15 -> 0:11:15]
+Thanks for watching.
+

@@ -1,0 +1,72 @@
+{
+  "student1@paathshala.com": {
+    "id": "student1",
+    "email": "student1@paathshala.com",
+    "password": "student123",
+    "name": "Rahul Sharma",
+    "rollNumber": "CS001"
+  },
+  "student2@paathshala.com": {
+    "id": "student2",
+    "email": "student2@paathshala.com",
+    "password": "student123",
+    "name": "Priya Patel",
+    "rollNumber": "CS002"
+  },
+  "student3@paathshala.com": {
+    "id": "student3",
+    "email": "student3@paathshala.com",
+    "password": "student123",
+    "name": "Amit Kumar",
+    "rollNumber": "CS003"
+  },
+  "student4@paathshala.com": {
+    "id": "student4",
+    "email": "student4@paathshala.com",
+    "password": "student123",
+    "name": "Sneha Reddy",
+    "rollNumber": "CS004"
+  },
+  "student5@paathshala.com": {
+    "id": "student5",
+    "email": "student5@paathshala.com",
+    "password": "student123",
+    "name": "Vikram Singh",
+    "rollNumber": "CS005"
+  },
+  "student6@paathshala.com": {
+    "id": "student6",
+    "email": "student6@paathshala.com",
+    "password": "student123",
+    "name": "Anjali Desai",
+    "rollNumber": "CS006"
+  },
+  "student7@paathshala.com": {
+    "id": "student7",
+    "email": "student7@paathshala.com",
+    "password": "student123",
+    "name": "Rohan Mehta",
+    "rollNumber": "CS007"
+  },
+  "student8@paathshala.com": {
+    "id": "student8",
+    "email": "student8@paathshala.com",
+    "password": "student123",
+    "name": "Kavya Iyer",
+    "rollNumber": "CS008"
+  },
+  "student9@paathshala.com": {
+    "id": "student9",
+    "email": "student9@paathshala.com",
+    "password": "student123",
+    "name": "Arjun Gupta",
+    "rollNumber": "CS009"
+  },
+  "student10@paathshala.com": {
+    "id": "student10",
+    "email": "student10@paathshala.com",
+    "password": "student123",
+    "name": "Neha Joshi",
+    "rollNumber": "CS010"
+  }
+}
