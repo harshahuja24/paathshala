@@ -1,0 +1,93 @@
+{
+  "email": "student5@paathshala.com",
+  "video_id": "Co-ordinate_Compounds",
+  "total_replays": 27,
+  "nodes": {
+    "0000": {
+      "node_id": "0000",
+      "title": "Objectives",
+      "section": "Objectives",
+      "page_range": "pages 1\u20131",
+      "count": 9,
+      "flagged": true,
+      "flag_types": [
+        "flag2",
+        "flag1",
+        "flag3"
+      ]
+    },
+    "0002": {
+      "node_id": "0002",
+      "title": "Coordination Compounds",
+      "section": "Coordination Compounds",
+      "page_range": "pages 1\u20131",
+      "count": 9,
+      "flagged": true,
+      "flag_types": [
+        "flag2",
+        "flag1",
+        "flag3"
+      ]
+    },
+    "0003": {
+      "node_id": "0003",
+      "title": "5.1 Werner's Theory of Coordination Compounds",
+      "section": "Coordination Compounds \u203a 5.1 Werner's Theory of Coordination Compounds",
+      "page_range": "pages 1\u20134",
+      "count": 9,
+      "flagged": true,
+      "flag_types": [
+        "flag2",
+        "flag1",
+        "flag3"
+      ]
+    }
+  },
+  "segments": {},
+  "events": [
+    {
+      "from": 120,
+      "to": 0,
+      "range": 120,
+      "timestamp": "2026-03-05T13:33:44.762231",
+      "hit_nodes": [
+        "0000",
+        "0002",
+        "0003"
+      ],
+      "debug_injected": true
+    },
+    {
+      "from": 120,
+      "to": 0,
+      "range": 120,
+      "timestamp": "2026-03-05T13:34:02.010394",
+      "hit_nodes": [
+        "0000",
+        "0002",
+        "0003"
+      ],
+      "debug_injected": true
+    },
+    {
+      "from": 120,
+      "to": 0,
+      "range": 120,
+      "timestamp": "2026-03-05T14:05:40.702335",
+      "hit_nodes": [
+        "0000",
+        "0002",
+        "0003"
+      ],
+      "debug_injected": true
+    }
+  ],
+  "chat_hits": {
+    "0003": 1,
+    "0021": 1,
+    "0027": 1,
+    "0029": 1,
+    "0028": 1
+  },
+  "last_updated": "2026-03-05T14:05:40.700325"
+}
